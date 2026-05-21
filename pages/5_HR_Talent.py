@@ -70,8 +70,8 @@ with col_l:
         x=role_hc["role_category"], y=role_hc["budgeted"],
         name="Budgeted", marker_color="#2A3950",
     ))
-    fig_role.update_layout(**PLOTLY_LAYOUT, height=340, barmode="group",
-                           legend=dict(orientation="h", y=1.12))
+    fig_role.update_layout(**PLOTLY_LAYOUT, height=340, barmode="group")
+    fig_role.update_layout(legend=dict(orientation="h", y=1.12))
     fig_role.update_yaxes(gridcolor="#2A3950")
     st.plotly_chart(fig_role, use_container_width=True)
 
@@ -91,8 +91,8 @@ with col_r:
         mode="lines", name="Budgeted",
         line=dict(color="#9BA8B8", width=1.5, dash="dash"),
     ))
-    fig_trend.update_layout(**PLOTLY_LAYOUT, height=340,
-                            legend=dict(orientation="h", y=1.12))
+    fig_trend.update_layout(**PLOTLY_LAYOUT, height=340)
+    fig_trend.update_layout(legend=dict(orientation="h", y=1.12))
     fig_trend.update_yaxes(gridcolor="#2A3950")
     fig_trend.update_xaxes(gridcolor="#2A3950")
     st.plotly_chart(fig_trend, use_container_width=True)

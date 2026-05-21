@@ -187,8 +187,8 @@ fig_conc.add_trace(go.Bar(
     y=vendor_per_venue.sort_values("vendor_count")["sig_vendor_count"],
     name="Signature Vendors", marker_color="#5A7D3C",
 ))
-fig_conc.update_layout(**PLOTLY_LAYOUT, height=380, barmode="group",
-                        legend=dict(orientation="h", y=1.1))
+fig_conc.update_layout(**PLOTLY_LAYOUT, height=380, barmode="group")
+fig_conc.update_layout(legend=dict(orientation="h", y=1.1))
 fig_conc.update_yaxes(gridcolor="#2A3950", title_text="Vendor Count")
 fig_conc.update_xaxes(gridcolor="#2A3950")
 st.plotly_chart(fig_conc, use_container_width=True)

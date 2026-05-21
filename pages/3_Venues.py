@@ -96,7 +96,8 @@ if not anomalies.empty:
             mode="markers", name="Anomaly",
             marker=dict(color=RED, size=8, symbol="circle"),
         ))
-fig.update_layout(**PLOTLY_LAYOUT, height=320, legend=dict(orientation="h", y=1.12))
+fig.update_layout(**PLOTLY_LAYOUT, height=320)
+fig.update_layout(legend=dict(orientation="h", y=1.12))
 fig.update_yaxes(gridcolor="#2A3950")
 fig.update_xaxes(gridcolor="#2A3950")
 st.plotly_chart(fig, use_container_width=True)
