@@ -127,7 +127,7 @@ venue_display = venues[venues["venue_id"].isin(venue_ids)][
     ["sub_brand", "vertical", "concept_brand", "city", "country", "venue_type", "seat_capacity"]
 ].copy()
 venue_display.columns = ["Venue", "Vertical", "Brand", "City", "Country", "Type", "Capacity"]
-st.dataframe(venue_display.sort_values("Revenue" if "Revenue" in venue_display.columns else "Venue"),
+st.dataframe(venue_display.sort_values("Venue"),
              use_container_width=True, hide_index=True)
 
 st.divider()

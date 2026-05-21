@@ -49,15 +49,17 @@ affinity = compute_cross_brand_affinity(txn, guests)
 if affinity.empty:
     empty_state("Not enough multi-brand guests for affinity analysis.")
 else:
-    # Normalise to percentages (row-wise)
-    affinity_pct = affinity.div(affinity.values.diagonal(), axis=0) * 100
+    # Normalise to percentages (row-wise), guard against zero diagonal
+    diag = affinity.values.diagonal().copy().astype(float)
+    diag[diag == 0] = 1
+    affinity_pct = affinity.div(diag, axis=0) * 100
 
     fig_hm = go.Figure(data=go.Heatmap(
         z=affinity_pct.values,
         x=affinity_pct.columns.tolist(),
         y=affinity_pct.index.tolist(),
         colorscale=[[0, "#0F1A2E"], [0.5, "#D89B3F"], [1, "#C9A961"]],
-        text=affinity_pct.round(0).astype(int).astype(str).values,
+        text=affinity_pct.fillna(0).round(0).astype(int).astype(str).values,
         texttemplate="%{text}%",
         textfont=dict(color=OFF_WHITE),
         hovertemplate="From %{y} → %{x}: %{z:.0f}%<extra></extra>",

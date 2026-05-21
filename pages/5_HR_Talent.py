@@ -222,12 +222,13 @@ if not daily_ops.empty:
             venues[["venue_id", "sub_brand"]], on="venue_id", how="left"
         ).groupby("sub_brand")["labor_cost_pct"].mean().reset_index()
 
+        df_labor = venue_labor.sort_values("labor_cost_pct").copy()
+        df_labor["flag"] = df_labor["labor_cost_pct"].apply(
+            lambda x: "Above" if x > portfolio_median + 0.03 else "Normal"
+        )
         fig_labor = px.bar(
-            venue_labor.sort_values("labor_cost_pct"),
-            x="labor_cost_pct", y="sub_brand", orientation="h",
-            color=venue_labor.sort_values("labor_cost_pct")["labor_cost_pct"].apply(
-                lambda x: "Above" if x > portfolio_median + 0.03 else "Normal"
-            ),
+            df_labor, x="labor_cost_pct", y="sub_brand", orientation="h",
+            color="flag",
             color_discrete_map={"Above": RED, "Normal": GOLD},
             labels={"labor_cost_pct": "Labour Cost %", "sub_brand": ""},
         )

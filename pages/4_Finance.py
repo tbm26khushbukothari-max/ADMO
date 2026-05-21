@@ -79,12 +79,13 @@ if not daily_ops.empty:
     col_l, col_r = st.columns(2)
 
     with col_l:
+        df_food = venue_costs.sort_values("food_cost").copy()
+        df_food["flag"] = df_food["food_cost"].apply(
+            lambda x: "Above" if x > portfolio_food_median + 0.03 else "Normal"
+        )
         fig_food = px.bar(
-            venue_costs.sort_values("food_cost"),
-            x="food_cost", y="sub_brand", orientation="h",
-            color=venue_costs.sort_values("food_cost")["food_cost"].apply(
-                lambda x: "Above" if x > portfolio_food_median + 0.03 else "Normal"
-            ),
+            df_food, x="food_cost", y="sub_brand", orientation="h",
+            color="flag",
             color_discrete_map={"Above": RED, "Normal": GOLD},
             labels={"food_cost": "Food Cost %", "sub_brand": ""},
         )
@@ -95,12 +96,13 @@ if not daily_ops.empty:
         st.plotly_chart(fig_food, use_container_width=True)
 
     with col_r:
+        df_labor = venue_costs.sort_values("labor_cost").copy()
+        df_labor["flag"] = df_labor["labor_cost"].apply(
+            lambda x: "Above" if x > portfolio_labor_median + 0.03 else "Normal"
+        )
         fig_labor = px.bar(
-            venue_costs.sort_values("labor_cost"),
-            x="labor_cost", y="sub_brand", orientation="h",
-            color=venue_costs.sort_values("labor_cost")["labor_cost"].apply(
-                lambda x: "Above" if x > portfolio_labor_median + 0.03 else "Normal"
-            ),
+            df_labor, x="labor_cost", y="sub_brand", orientation="h",
+            color="flag",
             color_discrete_map={"Above": RED, "Normal": GOLD},
             labels={"labor_cost": "Labour Cost %", "sub_brand": ""},
         )

@@ -423,7 +423,7 @@ def filter_by_scope(df, venue_ids, venue_col="venue_id"):
 # ── Derived metrics ─────────────────────────────────────────────
 
 def compute_repeat_guest_rate(txn_df, venue_ids):
-    scoped = txn_df[txn_df["venue_id"].isin(venue_ids) & (txn_df["guest_id"] != "")]
+    scoped = txn_df[txn_df["venue_id"].isin(venue_ids) & txn_df["guest_id"].notna() & (txn_df["guest_id"] != "")]
     if scoped.empty:
         return 0.0
     visits = scoped.groupby("guest_id")["transaction_id"].count()
