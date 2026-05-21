@@ -1,0 +1,31 @@
+venue_id,brand,sub_brand,city,country,region,venue_type,open_date,seat_capacity,local_currency
+V-001,Nammos,Nammos Dubai,Dubai,UAE,MENA,Beach club + Fine dining,2019-12-15,280,AED
+V-002,Nammos,Nammos Mykonos,Mykonos,Greece,Europe,Beach club + Fine dining,2003-06-01,320,EUR
+V-003,Nammos,Nammos Mayfair London,London,UK,Europe,Fine dining,2025-07-01,140,GBP
+V-004,Nammos,Nammos Cannes,Cannes,France,Europe,Beach club,2024-06-15,200,EUR
+V-005,Nammos,Nammos Hotel Mykonos,Mykonos,Greece,Europe,Hotel,2023-05-01,60,EUR
+V-006,Nammos,Nammos Resort Maldives,Male,Maldives,Asia,Resort,2026-04-01,80,USD
+V-007,Em Sherif,Em Sherif Beirut,Beirut,Lebanon,MENA,Fine dining,2011-09-15,110,USD
+V-008,Em Sherif,Em Sherif Harrods London,London,UK,Europe,Fine dining,2022-11-01,95,GBP
+V-009,Em Sherif,Em Sherif Monaco,Monaco,Monaco,Europe,Fine dining,2023-04-01,85,EUR
+V-010,Em Sherif,Em Sherif Doha,Doha,Qatar,MENA,Fine dining,2024-01-15,120,QAR
+V-011,Em Sherif,Em Sherif Muscat,Muscat,Oman,MENA,Fine dining,2024-09-01,100,OMR
+V-012,Em Sherif,Em Sherif Cafe Dubai,Dubai,UAE,MENA,Cafe,2018-03-15,70,AED
+V-013,Em Sherif,Em Sherif Cafe Abu Dhabi,Abu Dhabi,UAE,MENA,Cafe,2019-06-15,65,AED
+V-014,Em Sherif,Em Sherif Sea Cafe Manama,Manama,Bahrain,MENA,Seafood,2022-04-01,130,BHD
+V-015,Em Sherif,Em Sherif Sea Cafe Abu Dhabi,Abu Dhabi,UAE,MENA,Seafood,2023-09-15,140,AED
+V-016,CE LA VI,CE LA VI Singapore,Singapore,Singapore,Asia,Rooftop,2010-06-15,220,SGD
+V-017,CE LA VI,CE LA VI Dubai,Dubai,UAE,MENA,Rooftop,2019-04-01,180,AED
+V-018,CE LA VI,CE LA VI Tokyo,Tokyo,Japan,Asia,Rooftop,2017-09-01,160,JPY
+V-019,CE LA VI,CE LA VI Taipei,Taipei,Taiwan,Asia,Rooftop,2016-11-15,150,TWD
+V-020,CE LA VI,CE LA VI London Paddington,London,UK,Europe,Rooftop,2025-09-01,170,GBP
+V-021,AlphaMind,CLAP Dubai,Dubai,UAE,MENA,Japanese,2018-10-15,130,AED
+V-022,AlphaMind,CLAP Knightsbridge London,London,UK,Europe,Japanese,2024-01-12,110,GBP
+V-023,AlphaMind,CLAP HOUSE Ibiza,Ibiza,Spain,Europe,Wellness/Japanese,2025-06-01,200,EUR
+V-024,AlphaMind,Babylon DIFC Dubai,Dubai,UAE,MENA,Lebanese + Club,2017-11-15,180,AED
+V-025,AlphaMind,Sucre Dubai,Dubai,UAE,MENA,Argentinian fire,2022-09-01,140,AED
+V-026,AlphaMind,Bar Du Port Dubai,Dubai,UAE,MENA,Riviera,2020-11-15,160,AED
+V-027,AlphaMind,Bar Du Port Yas Marina,Abu Dhabi,UAE,MENA,Riviera,2025-04-01,150,AED
+V-028,AlphaMind,Iris Dubai,Dubai,UAE,MENA,Lounge,2014-06-15,220,AED
+V-029,Other ADMO,Nalu Hudayriyat,Abu Dhabi,UAE,MENA,Lifestyle,2024-11-01,250,AED
+V-030,Other ADMO,Son of a Fish Dubai Harbour,Dubai,UAE,MENA,Greek casual,2025-02-15,180,AED

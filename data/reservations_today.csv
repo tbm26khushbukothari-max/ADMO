@@ -1,0 +1,1563 @@
+reservation_id,venue_id,reservation_date,time_slot,guest_id,guest_tier,party_size,occasion,special_requests,status
+R-20260503-00001,V-001,2026-05-03,Dinner,G-100127,Standard,7,,Window seat,Confirmed
+R-20260514-00002,V-001,2026-05-14,Dinner,G-103180,Gold,10,,Wine pairing,Confirmed
+R-20260531-00003,V-001,2026-05-31,Lunch,G-101599,Gold,7,,,Confirmed
+R-20260527-00004,V-001,2026-05-27,Dinner,G-102915,Standard,6,Birthday,,Confirmed
+R-20260519-00005,V-001,2026-05-19,Lunch,G-102209,Standard,5,,Birthday cake,Deposit paid
+R-20260527-00006,V-001,2026-05-27,Late night,G-103963,Platinum,6,,,Confirmed
+R-20260529-00007,V-001,2026-05-29,Dinner,G-102081,Gold,2,,,Confirmed
+R-20260527-00008,V-001,2026-05-27,Lunch,G-101698,Standard,6,Birthday,Quiet table,Waitlist
+R-20260522-00009,V-001,2026-05-22,Late night,G-103027,Standard,8,,Window seat,Confirmed
+R-20260517-00010,V-001,2026-05-17,Lunch,G-104715,Standard,9,,,Confirmed
+R-20260510-00011,V-001,2026-05-10,Late night,G-104676,Standard,6,,,Confirmed
+R-20260519-00012,V-001,2026-05-19,Lunch,G-100241,Standard,7,,Window seat,Confirmed
+R-20260509-00013,V-001,2026-05-09,Dinner,G-101395,Gold,7,,Quiet table,Confirmed
+R-20260526-00014,V-001,2026-05-26,Dinner,G-101635,Standard,6,,Birthday cake,Confirmed
+R-20260513-00015,V-001,2026-05-13,Late night,G-102083,Gold,4,,Quiet table,Deposit paid
+R-20260512-00016,V-001,2026-05-12,Late night,G-101417,Gold,4,,,Deposit paid
+R-20260511-00017,V-001,2026-05-11,Dinner,G-100638,Platinum,5,,Allergy: shellfish,Confirmed
+R-20260514-00018,V-001,2026-05-14,Late night,G-100538,Platinum,11,,Window seat,Deposit paid
+R-20260506-00019,V-001,2026-05-06,Lunch,G-102145,Standard,3,Anniversary,,Confirmed
+R-20260510-00020,V-001,2026-05-10,Late night,G-103339,Standard,7,,Wine pairing,Confirmed
+R-20260507-00021,V-001,2026-05-07,Lunch,G-102570,Standard,4,,Wine pairing,Confirmed
+R-20260523-00022,V-001,2026-05-23,Dinner,G-102698,Standard,4,,,Confirmed
+R-20260530-00023,V-001,2026-05-30,Dinner,G-104954,Gold,5,,Quiet table,Confirmed
+R-20260507-00024,V-001,2026-05-07,Dinner,G-103787,Gold,4,,,Confirmed
+R-20260522-00025,V-001,2026-05-22,Late night,G-103571,Standard,3,,Wine pairing,Deposit paid
+R-20260529-00026,V-001,2026-05-29,Late night,G-104593,Standard,4,,,Waitlist
+R-20260531-00027,V-001,2026-05-31,Late night,G-100294,Standard,6,,,Confirmed
+R-20260526-00028,V-001,2026-05-26,Dinner,G-103352,Gold,4,,Window seat,Confirmed
+R-20260501-00029,V-001,2026-05-01,Late night,G-102915,Standard,6,,,Confirmed
+R-20260528-00030,V-001,2026-05-28,Late night,G-102332,Platinum,5,,,Deposit paid
+R-20260502-00031,V-002,2026-05-02,Late night,G-100628,Platinum,8,,,Confirmed
+R-20260514-00032,V-002,2026-05-14,Late night,G-104275,Standard,6,,Birthday cake,Deposit paid
+R-20260520-00033,V-002,2026-05-20,Late night,G-103935,Platinum,4,,Birthday cake,Waitlist
+R-20260515-00034,V-002,2026-05-15,Late night,G-102719,Platinum,2,,Allergy: shellfish,Confirmed
+R-20260503-00035,V-002,2026-05-03,Dinner,G-103683,Platinum,5,,Allergy: shellfish,Confirmed
+R-20260510-00036,V-002,2026-05-10,Dinner,G-104294,Standard,10,,,Waitlist
+R-20260523-00037,V-002,2026-05-23,Dinner,G-104283,Gold,10,,Birthday cake,Confirmed
+R-20260510-00038,V-002,2026-05-10,Late night,G-101403,Diamond,3,,Allergy: shellfish,Confirmed
+R-20260503-00039,V-002,2026-05-03,Late night,G-101736,Standard,6,,,Confirmed
+R-20260506-00040,V-002,2026-05-06,Late night,G-102904,Standard,5,,Birthday cake,Confirmed
+R-20260501-00041,V-002,2026-05-01,Dinner,G-100314,Standard,4,Birthday,Quiet table,Confirmed
+R-20260511-00042,V-002,2026-05-11,Lunch,G-102027,Standard,4,,Quiet table,Confirmed
+R-20260511-00043,V-002,2026-05-11,Dinner,G-100019,Gold,4,,,Confirmed
+R-20260531-00044,V-002,2026-05-31,Late night,G-103299,Standard,7,,Wine pairing,Confirmed
+R-20260513-00045,V-002,2026-05-13,Late night,G-100501,Standard,3,,,Confirmed
+R-20260526-00046,V-002,2026-05-26,Late night,G-102223,Standard,9,,Quiet table,Confirmed
+R-20260503-00047,V-002,2026-05-03,Lunch,G-100335,Diamond,5,,,Confirmed
+R-20260504-00048,V-002,2026-05-04,Dinner,G-104334,Gold,4,,Window seat,Confirmed
+R-20260523-00049,V-002,2026-05-23,Lunch,G-100561,Standard,6,,,Waitlist
+R-20260518-00050,V-002,2026-05-18,Late night,G-100355,Platinum,4,,Wine pairing,Confirmed
+R-20260525-00051,V-002,2026-05-25,Lunch,G-104197,Platinum,4,,Wine pairing,Confirmed
+R-20260501-00052,V-002,2026-05-01,Lunch,G-101226,Standard,6,,Wine pairing,Confirmed
+R-20260510-00053,V-002,2026-05-10,Dinner,G-101273,Standard,10,,Quiet table,Confirmed
+R-20260502-00054,V-002,2026-05-02,Lunch,G-100206,Gold,9,,,Confirmed
+R-20260522-00055,V-002,2026-05-22,Dinner,G-102210,Platinum,3,Birthday,Allergy: shellfish,Confirmed
+R-20260517-00056,V-002,2026-05-17,Lunch,G-103103,Gold,4,,Window seat,Confirmed
+R-20260528-00057,V-002,2026-05-28,Lunch,G-101019,Standard,4,,Wine pairing,Deposit paid
+R-20260506-00058,V-002,2026-05-06,Lunch,G-101385,Gold,6,Birthday,Window seat,Confirmed
+R-20260529-00059,V-002,2026-05-29,Late night,G-104407,Platinum,8,,Wine pairing,Confirmed
+R-20260504-00060,V-002,2026-05-04,Late night,G-103490,Diamond,3,,,Deposit paid
+R-20260524-00061,V-002,2026-05-24,Late night,G-104344,Standard,3,,Wine pairing,Deposit paid
+R-20260503-00062,V-002,2026-05-03,Lunch,G-104347,Standard,5,,Wine pairing,Confirmed
+R-20260523-00063,V-002,2026-05-23,Dinner,G-103637,Standard,5,,Birthday cake,Confirmed
+R-20260524-00064,V-002,2026-05-24,Lunch,G-101963,Diamond,5,,,Confirmed
+R-20260530-00065,V-002,2026-05-30,Late night,G-100167,Standard,4,Birthday,Quiet table,Confirmed
+R-20260526-00066,V-002,2026-05-26,Late night,G-101363,Platinum,7,,Window seat,Waitlist
+R-20260501-00067,V-002,2026-05-01,Lunch,G-100546,Standard,9,,,Confirmed
+R-20260522-00068,V-002,2026-05-22,Late night,G-104308,Standard,11,,Quiet table,Confirmed
+R-20260502-00069,V-002,2026-05-02,Late night,G-103214,Gold,3,,Wine pairing,Waitlist
+R-20260528-00070,V-002,2026-05-28,Late night,G-103591,Standard,4,,,Deposit paid
+R-20260505-00071,V-002,2026-05-05,Dinner,G-100201,Standard,11,,,Confirmed
+R-20260515-00072,V-002,2026-05-15,Dinner,G-101295,Standard,4,,Allergy: shellfish,Confirmed
+R-20260526-00073,V-002,2026-05-26,Lunch,G-102963,Platinum,7,,Quiet table,Confirmed
+R-20260524-00074,V-002,2026-05-24,Late night,G-103232,Standard,3,,Wine pairing,Waitlist
+R-20260510-00075,V-002,2026-05-10,Dinner,G-100835,Gold,3,,,Confirmed
+R-20260511-00076,V-002,2026-05-11,Late night,G-101276,Standard,8,,Wine pairing,Confirmed
+R-20260506-00077,V-002,2026-05-06,Late night,G-102172,Standard,9,Birthday,,Confirmed
+R-20260529-00078,V-002,2026-05-29,Lunch,G-100904,Platinum,3,,,Confirmed
+R-20260505-00079,V-002,2026-05-05,Late night,G-101378,Standard,4,,Birthday cake,Confirmed
+R-20260513-00080,V-002,2026-05-13,Dinner,G-100992,Standard,10,,Allergy: shellfish,Confirmed
+R-20260528-00081,V-002,2026-05-28,Dinner,G-101476,Diamond,6,,Quiet table,Waitlist
+R-20260507-00082,V-002,2026-05-07,Lunch,G-100240,Standard,3,,,Confirmed
+R-20260531-00083,V-002,2026-05-31,Late night,G-101813,Diamond,6,,Quiet table,Deposit paid
+R-20260521-00084,V-002,2026-05-21,Late night,G-103979,Standard,8,,,Deposit paid
+R-20260527-00085,V-002,2026-05-27,Dinner,G-100638,Platinum,5,,Birthday cake,Confirmed
+R-20260519-00086,V-002,2026-05-19,Dinner,G-101584,Standard,2,,Allergy: shellfish,Confirmed
+R-20260531-00087,V-002,2026-05-31,Lunch,G-103620,Standard,6,,Birthday cake,Confirmed
+R-20260518-00088,V-002,2026-05-18,Dinner,G-101005,Standard,8,,Allergy: shellfish,Confirmed
+R-20260508-00089,V-002,2026-05-08,Lunch,G-103346,Standard,5,,Allergy: shellfish,Confirmed
+R-20260503-00090,V-002,2026-05-03,Dinner,G-102978,Standard,6,,Window seat,Confirmed
+R-20260517-00091,V-002,2026-05-17,Dinner,G-101597,Standard,6,,,Deposit paid
+R-20260529-00092,V-002,2026-05-29,Late night,G-103943,Platinum,7,,,Deposit paid
+R-20260512-00093,V-002,2026-05-12,Dinner,G-100947,Diamond,4,,,Waitlist
+R-20260503-00094,V-002,2026-05-03,Lunch,G-103712,Standard,8,,Wine pairing,Deposit paid
+R-20260516-00095,V-002,2026-05-16,Lunch,G-104602,Standard,5,,Birthday cake,Confirmed
+R-20260516-00096,V-002,2026-05-16,Dinner,G-102907,Gold,4,,,Confirmed
+R-20260501-00097,V-002,2026-05-01,Dinner,G-103559,Platinum,8,,Quiet table,Confirmed
+R-20260520-00098,V-002,2026-05-20,Late night,G-103245,Platinum,7,,Quiet table,Confirmed
+R-20260511-00099,V-002,2026-05-11,Dinner,G-100597,Gold,5,,Wine pairing,Deposit paid
+R-20260518-00100,V-002,2026-05-18,Dinner,G-103479,Platinum,7,,Quiet table,Confirmed
+R-20260529-00101,V-002,2026-05-29,Dinner,G-100902,Standard,6,,,Confirmed
+R-20260522-00102,V-002,2026-05-22,Dinner,G-100441,Gold,4,,Window seat,Confirmed
+R-20260528-00103,V-003,2026-05-28,Late night,G-101408,Standard,7,,Window seat,Confirmed
+R-20260506-00104,V-003,2026-05-06,Late night,G-104412,Standard,7,,,Confirmed
+R-20260512-00105,V-003,2026-05-12,Dinner,G-103632,Standard,6,,Allergy: shellfish,Confirmed
+R-20260511-00106,V-003,2026-05-11,Dinner,G-104478,Platinum,2,,Quiet table,Confirmed
+R-20260529-00107,V-003,2026-05-29,Lunch,G-104197,Platinum,3,,Birthday cake,Confirmed
+R-20260501-00108,V-003,2026-05-01,Lunch,G-103790,Standard,3,,Wine pairing,Confirmed
+R-20260521-00109,V-003,2026-05-21,Late night,G-104448,Platinum,7,,Window seat,Confirmed
+R-20260516-00110,V-003,2026-05-16,Dinner,G-102827,Platinum,5,,Quiet table,Confirmed
+R-20260504-00111,V-003,2026-05-04,Late night,G-102429,Gold,4,,,Confirmed
+R-20260511-00112,V-003,2026-05-11,Lunch,G-101902,Gold,9,,Birthday cake,Waitlist
+R-20260502-00113,V-003,2026-05-02,Lunch,G-104625,Platinum,7,,Allergy: shellfish,Confirmed
+R-20260517-00114,V-003,2026-05-17,Dinner,G-101499,Gold,2,Anniversary,Quiet table,Confirmed
+R-20260516-00115,V-003,2026-05-16,Lunch,G-101205,Standard,4,,Allergy: shellfish,Confirmed
+R-20260506-00116,V-003,2026-05-06,Late night,G-101260,Gold,3,,Allergy: shellfish,Confirmed
+R-20260503-00117,V-003,2026-05-03,Lunch,G-104970,Gold,6,,Wine pairing,Confirmed
+R-20260525-00118,V-003,2026-05-25,Dinner,G-102230,Platinum,6,,Window seat,Confirmed
+R-20260524-00119,V-003,2026-05-24,Lunch,G-100844,Standard,10,,Wine pairing,Confirmed
+R-20260525-00120,V-003,2026-05-25,Late night,G-104980,Standard,6,,Quiet table,Waitlist
+R-20260528-00121,V-003,2026-05-28,Lunch,G-100855,Diamond,4,,,Waitlist
+R-20260511-00122,V-003,2026-05-11,Dinner,G-103263,Standard,4,,Wine pairing,Confirmed
+R-20260511-00123,V-003,2026-05-11,Late night,G-103515,Standard,5,,Quiet table,Waitlist
+R-20260523-00124,V-003,2026-05-23,Late night,G-101360,Gold,4,,,Deposit paid
+R-20260512-00125,V-003,2026-05-12,Lunch,G-103589,Standard,10,,Wine pairing,Confirmed
+R-20260521-00126,V-003,2026-05-21,Lunch,G-102500,Standard,2,,Window seat,Confirmed
+R-20260518-00127,V-003,2026-05-18,Lunch,G-100820,Gold,10,,,Confirmed
+R-20260507-00128,V-003,2026-05-07,Lunch,G-102260,Standard,6,,Allergy: shellfish,Confirmed
+R-20260527-00129,V-003,2026-05-27,Dinner,G-100508,Standard,8,,,Confirmed
+R-20260512-00130,V-003,2026-05-12,Lunch,G-103458,Standard,3,,Wine pairing,Confirmed
+R-20260509-00131,V-003,2026-05-09,Lunch,G-101994,Standard,5,,Wine pairing,Deposit paid
+R-20260511-00132,V-003,2026-05-11,Dinner,G-104050,Standard,9,,Quiet table,Deposit paid
+R-20260507-00133,V-003,2026-05-07,Dinner,G-104924,Standard,7,,,Confirmed
+R-20260503-00134,V-003,2026-05-03,Late night,G-100695,Gold,2,,Quiet table,Confirmed
+R-20260506-00135,V-003,2026-05-06,Lunch,G-103199,Standard,9,,Window seat,Confirmed
+R-20260523-00136,V-003,2026-05-23,Dinner,G-101350,Standard,8,,,Confirmed
+R-20260505-00137,V-003,2026-05-05,Dinner,G-100928,Standard,9,,Birthday cake,Confirmed
+R-20260501-00138,V-003,2026-05-01,Late night,G-100686,Standard,2,,Quiet table,Waitlist
+R-20260516-00139,V-003,2026-05-16,Dinner,G-100683,Diamond,6,,,Confirmed
+R-20260523-00140,V-003,2026-05-23,Lunch,G-104938,Standard,3,Birthday,,Confirmed
+R-20260527-00141,V-004,2026-05-27,Lunch,G-102582,Platinum,10,,,Confirmed
+R-20260530-00142,V-004,2026-05-30,Dinner,G-101005,Standard,6,,,Deposit paid
+R-20260508-00143,V-004,2026-05-08,Dinner,G-104218,Platinum,9,,,Confirmed
+R-20260509-00144,V-004,2026-05-09,Late night,G-104125,Standard,5,,Allergy: shellfish,Confirmed
+R-20260501-00145,V-004,2026-05-01,Dinner,G-101704,Standard,4,,Window seat,Confirmed
+R-20260525-00146,V-004,2026-05-25,Late night,G-104322,Standard,4,,,Confirmed
+R-20260503-00147,V-004,2026-05-03,Late night,G-101382,Diamond,4,,Birthday cake,Waitlist
+R-20260522-00148,V-004,2026-05-22,Dinner,G-104771,Gold,8,,,Waitlist
+R-20260518-00149,V-004,2026-05-18,Late night,G-101528,Standard,3,,,Confirmed
+R-20260520-00150,V-004,2026-05-20,Dinner,G-100971,Standard,4,,Quiet table,Deposit paid
+R-20260504-00151,V-004,2026-05-04,Lunch,G-101552,Standard,10,,Wine pairing,Confirmed
+R-20260505-00152,V-004,2026-05-05,Dinner,G-103808,Standard,6,,Birthday cake,Confirmed
+R-20260523-00153,V-004,2026-05-23,Lunch,G-104657,Standard,7,,Birthday cake,Confirmed
+R-20260519-00154,V-004,2026-05-19,Dinner,G-103503,Diamond,4,,,Waitlist
+R-20260513-00155,V-004,2026-05-13,Lunch,G-102138,Gold,3,,,Confirmed
+R-20260510-00156,V-004,2026-05-10,Dinner,G-104825,Gold,9,,,Confirmed
+R-20260512-00157,V-004,2026-05-12,Dinner,G-102821,Standard,6,,,Confirmed
+R-20260521-00158,V-004,2026-05-21,Late night,G-100286,Standard,4,,,Confirmed
+R-20260519-00159,V-004,2026-05-19,Late night,G-102695,Standard,11,,,Confirmed
+R-20260521-00160,V-004,2026-05-21,Late night,G-101991,Platinum,4,,,Confirmed
+R-20260506-00161,V-004,2026-05-06,Lunch,G-102074,Standard,6,,,Confirmed
+R-20260528-00162,V-004,2026-05-28,Late night,G-103811,Standard,3,,,Confirmed
+R-20260517-00163,V-004,2026-05-17,Lunch,G-104081,Standard,3,,,Confirmed
+R-20260522-00164,V-004,2026-05-22,Late night,G-100676,Gold,9,,Birthday cake,Confirmed
+R-20260509-00165,V-004,2026-05-09,Lunch,G-100115,Standard,11,Anniversary,Quiet table,Confirmed
+R-20260525-00166,V-004,2026-05-25,Dinner,G-101865,Standard,5,,,Confirmed
+R-20260512-00167,V-004,2026-05-12,Dinner,G-103331,Diamond,5,,,Confirmed
+R-20260508-00168,V-004,2026-05-08,Lunch,G-101079,Platinum,4,,,Confirmed
+R-20260515-00169,V-004,2026-05-15,Dinner,G-101003,Standard,2,Birthday,Quiet table,Confirmed
+R-20260502-00170,V-004,2026-05-02,Lunch,G-104249,Diamond,7,,Window seat,Confirmed
+R-20260530-00171,V-004,2026-05-30,Late night,G-104733,Standard,5,,,Confirmed
+R-20260519-00172,V-004,2026-05-19,Lunch,G-102709,Gold,3,,,Confirmed
+R-20260505-00173,V-004,2026-05-05,Lunch,G-103088,Standard,8,,,Deposit paid
+R-20260507-00174,V-004,2026-05-07,Dinner,G-100805,Gold,3,,Window seat,Confirmed
+R-20260530-00175,V-004,2026-05-30,Lunch,G-101403,Diamond,6,,,Confirmed
+R-20260514-00176,V-004,2026-05-14,Lunch,G-104488,Gold,9,,Window seat,Confirmed
+R-20260504-00177,V-004,2026-05-04,Dinner,G-100114,Standard,9,,Wine pairing,Confirmed
+R-20260501-00178,V-004,2026-05-01,Dinner,G-101768,Gold,8,,Quiet table,Waitlist
+R-20260506-00179,V-004,2026-05-06,Lunch,G-104683,Standard,8,,Birthday cake,Confirmed
+R-20260527-00180,V-004,2026-05-27,Late night,G-104369,Standard,5,,Wine pairing,Confirmed
+R-20260530-00181,V-004,2026-05-30,Lunch,G-103563,Platinum,5,,Quiet table,Waitlist
+R-20260524-00182,V-004,2026-05-24,Dinner,G-104459,Standard,5,,,Confirmed
+R-20260504-00183,V-004,2026-05-04,Dinner,G-101577,Platinum,8,,,Confirmed
+R-20260516-00184,V-004,2026-05-16,Lunch,G-104774,Platinum,7,,Birthday cake,Confirmed
+R-20260507-00185,V-004,2026-05-07,Late night,G-101471,Standard,6,,Quiet table,Confirmed
+R-20260507-00186,V-004,2026-05-07,Lunch,G-100227,Diamond,3,,Allergy: shellfish,Deposit paid
+R-20260528-00187,V-004,2026-05-28,Late night,G-101266,Platinum,5,,,Waitlist
+R-20260503-00188,V-004,2026-05-03,Dinner,G-100870,Gold,4,,Birthday cake,Confirmed
+R-20260530-00189,V-004,2026-05-30,Dinner,G-103325,Standard,3,,Quiet table,Confirmed
+R-20260506-00190,V-004,2026-05-06,Dinner,G-101187,Standard,6,,Quiet table,Deposit paid
+R-20260512-00191,V-004,2026-05-12,Dinner,G-104081,Standard,4,Birthday,,Confirmed
+R-20260522-00192,V-004,2026-05-22,Lunch,G-102006,Diamond,7,,,Deposit paid
+R-20260507-00193,V-004,2026-05-07,Late night,G-102419,Standard,5,,Wine pairing,Confirmed
+R-20260505-00194,V-004,2026-05-05,Lunch,G-104415,Standard,5,,Birthday cake,Confirmed
+R-20260511-00195,V-004,2026-05-11,Late night,G-101937,Gold,5,,,Confirmed
+R-20260530-00196,V-004,2026-05-30,Dinner,G-103264,Diamond,4,,,Waitlist
+R-20260521-00197,V-004,2026-05-21,Late night,G-103925,Standard,7,,Birthday cake,Confirmed
+R-20260520-00198,V-004,2026-05-20,Late night,G-103447,Standard,4,,Birthday cake,Waitlist
+R-20260506-00199,V-004,2026-05-06,Late night,G-103959,Standard,7,,Quiet table,Confirmed
+R-20260501-00200,V-004,2026-05-01,Late night,G-101024,Diamond,7,,,Confirmed
+R-20260503-00201,V-004,2026-05-03,Late night,G-100773,Standard,7,,Allergy: shellfish,Waitlist
+R-20260522-00202,V-004,2026-05-22,Dinner,G-102866,Gold,8,,Birthday cake,Confirmed
+R-20260524-00203,V-004,2026-05-24,Lunch,G-101597,Standard,6,,,Confirmed
+R-20260519-00204,V-004,2026-05-19,Lunch,G-101294,Standard,9,Birthday,,Confirmed
+R-20260506-00205,V-004,2026-05-06,Dinner,G-100884,Standard,5,,Quiet table,Waitlist
+R-20260515-00206,V-004,2026-05-15,Lunch,G-104077,Standard,4,,Wine pairing,Confirmed
+R-20260508-00207,V-004,2026-05-08,Dinner,G-103107,Standard,3,,,Deposit paid
+R-20260519-00208,V-004,2026-05-19,Lunch,G-101420,Gold,5,,,Confirmed
+R-20260531-00209,V-004,2026-05-31,Dinner,G-102927,Standard,3,,,Confirmed
+R-20260516-00210,V-004,2026-05-16,Dinner,G-100459,Standard,9,,Wine pairing,Confirmed
+R-20260529-00211,V-004,2026-05-29,Dinner,G-103073,Gold,7,,,Confirmed
+R-20260508-00212,V-004,2026-05-08,Dinner,G-100243,Standard,4,,Window seat,Waitlist
+R-20260516-00213,V-004,2026-05-16,Dinner,G-100562,Standard,8,,Window seat,Confirmed
+R-20260527-00214,V-004,2026-05-27,Late night,G-103625,Gold,5,Anniversary,,Confirmed
+R-20260508-00215,V-004,2026-05-08,Lunch,G-103280,Standard,7,,Window seat,Deposit paid
+R-20260512-00216,V-005,2026-05-12,Late night,G-100501,Standard,8,,,Waitlist
+R-20260513-00217,V-005,2026-05-13,Late night,G-101097,Standard,6,,,Deposit paid
+R-20260528-00218,V-005,2026-05-28,Lunch,G-102276,Diamond,7,,,Confirmed
+R-20260507-00219,V-005,2026-05-07,Lunch,G-103266,Standard,8,,Birthday cake,Confirmed
+R-20260502-00220,V-005,2026-05-02,Dinner,G-100468,Standard,7,,Allergy: shellfish,Confirmed
+R-20260509-00221,V-005,2026-05-09,Late night,G-102522,Gold,6,,,Deposit paid
+R-20260518-00222,V-005,2026-05-18,Dinner,G-101486,Platinum,4,,,Confirmed
+R-20260529-00223,V-005,2026-05-29,Dinner,G-102512,Standard,3,,Wine pairing,Confirmed
+R-20260507-00224,V-005,2026-05-07,Dinner,G-100156,Standard,6,,,Deposit paid
+R-20260514-00225,V-005,2026-05-14,Lunch,G-100726,Standard,3,,Allergy: shellfish,Confirmed
+R-20260511-00226,V-005,2026-05-11,Late night,G-102395,Standard,5,,,Confirmed
+R-20260523-00227,V-005,2026-05-23,Lunch,G-102085,Standard,3,,,Confirmed
+R-20260524-00228,V-005,2026-05-24,Lunch,G-104196,Standard,4,,Birthday cake,Confirmed
+R-20260514-00229,V-005,2026-05-14,Lunch,G-103635,Gold,8,,Window seat,Confirmed
+R-20260519-00230,V-005,2026-05-19,Dinner,G-101592,Standard,8,,Window seat,Deposit paid
+R-20260519-00231,V-005,2026-05-19,Lunch,G-100005,Gold,3,,Birthday cake,Deposit paid
+R-20260501-00232,V-005,2026-05-01,Late night,G-101135,Gold,5,,,Deposit paid
+R-20260518-00233,V-005,2026-05-18,Lunch,G-104547,Standard,5,,Window seat,Waitlist
+R-20260517-00234,V-005,2026-05-17,Lunch,G-101670,Gold,7,,Quiet table,Confirmed
+R-20260513-00235,V-005,2026-05-13,Late night,G-100362,Standard,5,,Wine pairing,Waitlist
+R-20260501-00236,V-005,2026-05-01,Late night,G-102487,Standard,6,,Birthday cake,Confirmed
+R-20260522-00237,V-005,2026-05-22,Late night,G-100321,Standard,2,,Quiet table,Waitlist
+R-20260503-00238,V-005,2026-05-03,Dinner,G-104638,Platinum,3,,,Waitlist
+R-20260505-00239,V-005,2026-05-05,Late night,G-100532,Gold,4,,,Waitlist
+R-20260514-00240,V-005,2026-05-14,Late night,G-104876,Standard,4,,,Confirmed
+R-20260524-00241,V-005,2026-05-24,Lunch,G-102960,Platinum,9,,Birthday cake,Confirmed
+R-20260528-00242,V-005,2026-05-28,Dinner,G-103066,Standard,7,,Allergy: shellfish,Deposit paid
+R-20260516-00243,V-005,2026-05-16,Lunch,G-102110,Diamond,7,,,Confirmed
+R-20260516-00244,V-005,2026-05-16,Late night,G-104075,Platinum,3,,Allergy: shellfish,Confirmed
+R-20260517-00245,V-005,2026-05-17,Late night,G-103154,Standard,8,Birthday,Birthday cake,Confirmed
+R-20260515-00246,V-005,2026-05-15,Late night,G-104474,Standard,7,,Quiet table,Confirmed
+R-20260524-00247,V-005,2026-05-24,Late night,G-100802,Standard,4,,,Confirmed
+R-20260521-00248,V-005,2026-05-21,Dinner,G-102327,Gold,7,,Birthday cake,Waitlist
+R-20260513-00249,V-005,2026-05-13,Lunch,G-100636,Diamond,4,,Allergy: shellfish,Deposit paid
+R-20260505-00250,V-005,2026-05-05,Lunch,G-100851,Standard,4,,Wine pairing,Confirmed
+R-20260523-00251,V-005,2026-05-23,Dinner,G-101079,Platinum,10,,,Waitlist
+R-20260526-00252,V-005,2026-05-26,Lunch,G-103893,Gold,3,Birthday,Window seat,Confirmed
+R-20260526-00253,V-005,2026-05-26,Late night,G-102145,Standard,4,,Quiet table,Confirmed
+R-20260508-00254,V-005,2026-05-08,Lunch,G-101119,Gold,3,Birthday,Wine pairing,Confirmed
+R-20260529-00255,V-005,2026-05-29,Late night,G-102930,Gold,8,,Window seat,Confirmed
+R-20260513-00256,V-005,2026-05-13,Dinner,G-100608,Gold,4,,Window seat,Confirmed
+R-20260521-00257,V-005,2026-05-21,Late night,G-101692,Gold,7,,Window seat,Confirmed
+R-20260526-00258,V-005,2026-05-26,Dinner,G-103546,Standard,8,Birthday,Window seat,Confirmed
+R-20260526-00259,V-005,2026-05-26,Lunch,G-103812,Diamond,2,,Window seat,Confirmed
+R-20260512-00260,V-005,2026-05-12,Late night,G-102360,Standard,5,,Quiet table,Confirmed
+R-20260526-00261,V-005,2026-05-26,Late night,G-103147,Gold,4,,Allergy: shellfish,Confirmed
+R-20260528-00262,V-005,2026-05-28,Late night,G-104806,Standard,6,,Wine pairing,Confirmed
+R-20260515-00263,V-005,2026-05-15,Late night,G-102520,Standard,6,,,Confirmed
+R-20260527-00264,V-005,2026-05-27,Dinner,G-100049,Platinum,5,Birthday,Window seat,Confirmed
+R-20260504-00265,V-005,2026-05-04,Lunch,G-102164,Gold,7,,,Waitlist
+R-20260520-00266,V-005,2026-05-20,Dinner,G-100840,Standard,5,,,Confirmed
+R-20260527-00267,V-005,2026-05-27,Dinner,G-101221,Platinum,10,,Allergy: shellfish,Confirmed
+R-20260527-00268,V-005,2026-05-27,Late night,G-104775,Gold,4,,Window seat,Confirmed
+R-20260514-00269,V-005,2026-05-14,Late night,G-103697,Standard,2,Birthday,Allergy: shellfish,Confirmed
+R-20260526-00270,V-005,2026-05-26,Dinner,G-103517,Gold,8,,,Confirmed
+R-20260511-00271,V-005,2026-05-11,Lunch,G-102021,Platinum,11,,Birthday cake,Confirmed
+R-20260513-00272,V-005,2026-05-13,Lunch,G-100318,Gold,7,,Quiet table,Confirmed
+R-20260503-00273,V-005,2026-05-03,Late night,G-100731,Standard,7,,Birthday cake,Confirmed
+R-20260522-00274,V-005,2026-05-22,Lunch,G-104314,Standard,3,,,Confirmed
+R-20260516-00275,V-005,2026-05-16,Dinner,G-104400,Standard,9,,,Confirmed
+R-20260504-00276,V-005,2026-05-04,Dinner,G-102109,Standard,2,,Allergy: shellfish,Confirmed
+R-20260507-00277,V-005,2026-05-07,Late night,G-104194,Gold,6,,Birthday cake,Confirmed
+R-20260528-00278,V-005,2026-05-28,Late night,G-102652,Gold,4,,Wine pairing,Confirmed
+R-20260502-00279,V-005,2026-05-02,Lunch,G-100076,Gold,6,,Quiet table,Deposit paid
+R-20260510-00280,V-005,2026-05-10,Dinner,G-104864,Platinum,4,,,Confirmed
+R-20260501-00281,V-005,2026-05-01,Lunch,G-103181,Standard,9,,,Deposit paid
+R-20260524-00282,V-005,2026-05-24,Dinner,G-101606,Standard,3,,,Deposit paid
+R-20260522-00283,V-005,2026-05-22,Late night,G-101911,Gold,9,Anniversary,,Confirmed
+R-20260503-00284,V-005,2026-05-03,Late night,G-102604,Standard,5,,,Confirmed
+R-20260509-00285,V-005,2026-05-09,Lunch,G-104085,Gold,6,,Birthday cake,Confirmed
+R-20260506-00286,V-005,2026-05-06,Lunch,G-100533,Standard,5,,Allergy: shellfish,Confirmed
+R-20260526-00287,V-005,2026-05-26,Late night,G-104325,Platinum,5,,,Deposit paid
+R-20260524-00288,V-005,2026-05-24,Lunch,G-103689,Standard,9,,Allergy: shellfish,Deposit paid
+R-20260517-00289,V-006,2026-05-17,Late night,G-104451,Diamond,3,Birthday,,Confirmed
+R-20260530-00290,V-006,2026-05-30,Late night,G-100567,Platinum,6,,Allergy: shellfish,Deposit paid
+R-20260512-00291,V-006,2026-05-12,Lunch,G-101771,Platinum,4,,,Waitlist
+R-20260508-00292,V-006,2026-05-08,Late night,G-101582,Standard,2,,,Waitlist
+R-20260502-00293,V-006,2026-05-02,Late night,G-100016,Standard,2,,Allergy: shellfish,Confirmed
+R-20260507-00294,V-006,2026-05-07,Lunch,G-103292,Diamond,3,,Quiet table,Confirmed
+R-20260505-00295,V-006,2026-05-05,Lunch,G-104644,Platinum,5,,Wine pairing,Confirmed
+R-20260512-00296,V-006,2026-05-12,Late night,G-102686,Standard,6,,Birthday cake,Confirmed
+R-20260505-00297,V-006,2026-05-05,Lunch,G-104555,Diamond,5,,,Confirmed
+R-20260516-00298,V-006,2026-05-16,Late night,G-102214,Standard,3,,Wine pairing,Confirmed
+R-20260525-00299,V-006,2026-05-25,Late night,G-101342,Platinum,10,,Wine pairing,Confirmed
+R-20260502-00300,V-006,2026-05-02,Late night,G-101406,Standard,4,,,Deposit paid
+R-20260528-00301,V-006,2026-05-28,Dinner,G-100735,Platinum,4,,Window seat,Confirmed
+R-20260513-00302,V-006,2026-05-13,Late night,G-101400,Gold,8,,Wine pairing,Waitlist
+R-20260531-00303,V-006,2026-05-31,Lunch,G-101464,Gold,5,,,Deposit paid
+R-20260511-00304,V-006,2026-05-11,Lunch,G-103814,Platinum,6,,,Confirmed
+R-20260522-00305,V-006,2026-05-22,Dinner,G-100182,Platinum,4,,,Confirmed
+R-20260529-00306,V-006,2026-05-29,Late night,G-101473,Standard,5,,Window seat,Confirmed
+R-20260522-00307,V-006,2026-05-22,Dinner,G-100732,Diamond,5,,Allergy: shellfish,Confirmed
+R-20260508-00308,V-006,2026-05-08,Lunch,G-100654,Platinum,6,,,Confirmed
+R-20260521-00309,V-006,2026-05-21,Late night,G-103095,Standard,8,,,Confirmed
+R-20260521-00310,V-006,2026-05-21,Dinner,G-101620,Standard,4,,Wine pairing,Confirmed
+R-20260526-00311,V-006,2026-05-26,Dinner,G-104912,Standard,3,,Allergy: shellfish,Confirmed
+R-20260514-00312,V-006,2026-05-14,Late night,G-101370,Standard,7,,Window seat,Deposit paid
+R-20260508-00313,V-006,2026-05-08,Late night,G-102714,Standard,4,,Quiet table,Confirmed
+R-20260530-00314,V-006,2026-05-30,Dinner,G-104969,Standard,6,,,Confirmed
+R-20260528-00315,V-006,2026-05-28,Late night,G-101714,Standard,6,,Wine pairing,Waitlist
+R-20260529-00316,V-006,2026-05-29,Late night,G-102530,Gold,5,,Birthday cake,Confirmed
+R-20260523-00317,V-006,2026-05-23,Late night,G-103210,Standard,4,,Birthday cake,Deposit paid
+R-20260514-00318,V-006,2026-05-14,Lunch,G-104691,Platinum,4,,Window seat,Deposit paid
+R-20260531-00319,V-006,2026-05-31,Dinner,G-100614,Diamond,7,,Window seat,Confirmed
+R-20260501-00320,V-006,2026-05-01,Dinner,G-100761,Standard,3,,,Confirmed
+R-20260517-00321,V-006,2026-05-17,Late night,G-104748,Gold,5,,Allergy: shellfish,Confirmed
+R-20260508-00322,V-006,2026-05-08,Late night,G-104065,Standard,5,,,Confirmed
+R-20260510-00323,V-006,2026-05-10,Dinner,G-102129,Standard,2,,Birthday cake,Confirmed
+R-20260503-00324,V-006,2026-05-03,Lunch,G-100461,Standard,3,,Allergy: shellfish,Confirmed
+R-20260509-00325,V-006,2026-05-09,Dinner,G-103453,Standard,7,Birthday,Window seat,Confirmed
+R-20260516-00326,V-006,2026-05-16,Lunch,G-103503,Diamond,3,,,Confirmed
+R-20260504-00327,V-006,2026-05-04,Dinner,G-101252,Standard,4,,,Waitlist
+R-20260516-00328,V-006,2026-05-16,Late night,G-100108,Gold,3,,,Confirmed
+R-20260507-00329,V-006,2026-05-07,Dinner,G-104542,Standard,10,,Wine pairing,Waitlist
+R-20260502-00330,V-006,2026-05-02,Late night,G-104337,Diamond,3,,Allergy: shellfish,Confirmed
+R-20260511-00331,V-006,2026-05-11,Late night,G-102701,Standard,4,,Wine pairing,Confirmed
+R-20260528-00332,V-006,2026-05-28,Lunch,G-101854,Gold,8,,Allergy: shellfish,Confirmed
+R-20260531-00333,V-006,2026-05-31,Dinner,G-102149,Gold,2,,Allergy: shellfish,Deposit paid
+R-20260507-00334,V-006,2026-05-07,Lunch,G-100636,Diamond,11,Birthday,Wine pairing,Confirmed
+R-20260519-00335,V-006,2026-05-19,Lunch,G-101110,Platinum,5,,,Deposit paid
+R-20260508-00336,V-006,2026-05-08,Late night,G-103234,Diamond,7,Anniversary,,Confirmed
+R-20260514-00337,V-006,2026-05-14,Lunch,G-104733,Standard,5,,Window seat,Confirmed
+R-20260525-00338,V-006,2026-05-25,Late night,G-104067,Standard,4,,Quiet table,Deposit paid
+R-20260503-00339,V-006,2026-05-03,Late night,G-103664,Standard,5,Birthday,,Confirmed
+R-20260521-00340,V-006,2026-05-21,Late night,G-104367,Platinum,6,,Window seat,Confirmed
+R-20260517-00341,V-006,2026-05-17,Lunch,G-104817,Standard,6,,Window seat,Confirmed
+R-20260522-00342,V-006,2026-05-22,Late night,G-101544,Standard,8,,,Confirmed
+R-20260501-00343,V-006,2026-05-01,Dinner,G-101337,Standard,3,,Window seat,Deposit paid
+R-20260504-00344,V-006,2026-05-04,Late night,G-104616,Standard,3,,,Confirmed
+R-20260530-00345,V-006,2026-05-30,Lunch,G-101585,Standard,2,,Birthday cake,Confirmed
+R-20260512-00346,V-006,2026-05-12,Lunch,G-102283,Standard,3,,,Waitlist
+R-20260511-00347,V-006,2026-05-11,Late night,G-102903,Platinum,7,,Birthday cake,Waitlist
+R-20260522-00348,V-006,2026-05-22,Dinner,G-104044,Standard,4,,,Waitlist
+R-20260514-00349,V-007,2026-05-14,Late night,G-104214,Standard,7,,Wine pairing,Confirmed
+R-20260503-00350,V-007,2026-05-03,Lunch,G-100855,Diamond,7,,,Deposit paid
+R-20260515-00351,V-007,2026-05-15,Dinner,G-104270,Standard,7,,,Confirmed
+R-20260528-00352,V-007,2026-05-28,Dinner,G-100748,Standard,7,,Wine pairing,Confirmed
+R-20260507-00353,V-007,2026-05-07,Lunch,G-100013,Standard,5,,,Confirmed
+R-20260502-00354,V-007,2026-05-02,Late night,G-103929,Standard,9,,,Confirmed
+R-20260528-00355,V-007,2026-05-28,Dinner,G-102617,Standard,4,,,Waitlist
+R-20260514-00356,V-007,2026-05-14,Lunch,G-100079,Platinum,4,,,Confirmed
+R-20260529-00357,V-007,2026-05-29,Dinner,G-101988,Standard,4,,,Deposit paid
+R-20260503-00358,V-007,2026-05-03,Lunch,G-103016,Standard,5,,Window seat,Deposit paid
+R-20260509-00359,V-007,2026-05-09,Dinner,G-101279,Standard,7,,,Confirmed
+R-20260508-00360,V-007,2026-05-08,Late night,G-101466,Gold,6,,,Confirmed
+R-20260506-00361,V-007,2026-05-06,Late night,G-104675,Standard,2,,Window seat,Deposit paid
+R-20260513-00362,V-007,2026-05-13,Dinner,G-104703,Standard,4,,Quiet table,Confirmed
+R-20260504-00363,V-007,2026-05-04,Dinner,G-101840,Platinum,7,,,Deposit paid
+R-20260524-00364,V-007,2026-05-24,Dinner,G-102178,Gold,3,,Quiet table,Deposit paid
+R-20260517-00365,V-007,2026-05-17,Lunch,G-101773,Standard,5,,Window seat,Confirmed
+R-20260525-00366,V-007,2026-05-25,Lunch,G-102747,Standard,8,,Quiet table,Confirmed
+R-20260518-00367,V-007,2026-05-18,Dinner,G-103814,Platinum,9,,,Confirmed
+R-20260502-00368,V-007,2026-05-02,Dinner,G-102041,Standard,2,,Window seat,Deposit paid
+R-20260504-00369,V-007,2026-05-04,Dinner,G-100436,Standard,4,,Birthday cake,Waitlist
+R-20260514-00370,V-007,2026-05-14,Late night,G-100133,Standard,6,,,Waitlist
+R-20260507-00371,V-007,2026-05-07,Late night,G-101468,Platinum,5,,Quiet table,Confirmed
+R-20260523-00372,V-007,2026-05-23,Dinner,G-104307,Standard,4,,Window seat,Deposit paid
+R-20260521-00373,V-007,2026-05-21,Dinner,G-102797,Gold,5,,,Confirmed
+R-20260523-00374,V-007,2026-05-23,Late night,G-102996,Gold,3,,,Confirmed
+R-20260524-00375,V-007,2026-05-24,Late night,G-100519,Standard,4,,Allergy: shellfish,Confirmed
+R-20260513-00376,V-007,2026-05-13,Late night,G-100637,Standard,3,,Window seat,Confirmed
+R-20260515-00377,V-007,2026-05-15,Lunch,G-101240,Standard,3,,Allergy: shellfish,Confirmed
+R-20260511-00378,V-007,2026-05-11,Dinner,G-100540,Platinum,6,Birthday,Allergy: shellfish,Confirmed
+R-20260531-00379,V-007,2026-05-31,Lunch,G-103389,Standard,7,,,Confirmed
+R-20260518-00380,V-007,2026-05-18,Late night,G-103275,Standard,6,,,Deposit paid
+R-20260504-00381,V-007,2026-05-04,Lunch,G-100961,Standard,3,,Allergy: shellfish,Confirmed
+R-20260521-00382,V-007,2026-05-21,Dinner,G-100181,Gold,4,,Window seat,Confirmed
+R-20260509-00383,V-008,2026-05-09,Late night,G-102466,Platinum,4,,Quiet table,Confirmed
+R-20260513-00384,V-008,2026-05-13,Late night,G-101152,Platinum,7,,Window seat,Deposit paid
+R-20260514-00385,V-008,2026-05-14,Dinner,G-102417,Standard,4,,,Deposit paid
+R-20260505-00386,V-008,2026-05-05,Late night,G-102755,Standard,5,,,Deposit paid
+R-20260501-00387,V-008,2026-05-01,Dinner,G-103152,Standard,5,,Quiet table,Confirmed
+R-20260520-00388,V-008,2026-05-20,Lunch,G-104046,Standard,3,Birthday,Window seat,Confirmed
+R-20260515-00389,V-008,2026-05-15,Lunch,G-102365,Standard,7,Birthday,,Confirmed
+R-20260508-00390,V-008,2026-05-08,Late night,G-104232,Gold,7,Birthday,,Waitlist
+R-20260517-00391,V-008,2026-05-17,Lunch,G-101301,Standard,4,,Quiet table,Confirmed
+R-20260525-00392,V-008,2026-05-25,Dinner,G-103492,Standard,7,,Quiet table,Deposit paid
+R-20260516-00393,V-008,2026-05-16,Dinner,G-103771,Standard,3,,,Confirmed
+R-20260510-00394,V-008,2026-05-10,Late night,G-100498,Standard,9,,,Confirmed
+R-20260506-00395,V-008,2026-05-06,Dinner,G-101235,Platinum,3,,Window seat,Confirmed
+R-20260520-00396,V-008,2026-05-20,Lunch,G-103679,Gold,6,,Birthday cake,Confirmed
+R-20260516-00397,V-008,2026-05-16,Late night,G-101890,Platinum,5,,Birthday cake,Waitlist
+R-20260522-00398,V-008,2026-05-22,Lunch,G-101179,Standard,4,,Quiet table,Confirmed
+R-20260510-00399,V-008,2026-05-10,Dinner,G-102166,Standard,4,,Allergy: shellfish,Waitlist
+R-20260530-00400,V-008,2026-05-30,Late night,G-104872,Platinum,6,,Birthday cake,Confirmed
+R-20260530-00401,V-008,2026-05-30,Dinner,G-104384,Standard,3,,Quiet table,Confirmed
+R-20260521-00402,V-008,2026-05-21,Dinner,G-103639,Platinum,3,,Window seat,Confirmed
+R-20260518-00403,V-008,2026-05-18,Dinner,G-103903,Gold,4,,,Confirmed
+R-20260506-00404,V-008,2026-05-06,Late night,G-100843,Standard,3,,,Confirmed
+R-20260520-00405,V-008,2026-05-20,Dinner,G-100774,Platinum,6,,Birthday cake,Confirmed
+R-20260512-00406,V-008,2026-05-12,Dinner,G-102163,Platinum,11,,Wine pairing,Deposit paid
+R-20260527-00407,V-008,2026-05-27,Late night,G-104779,Standard,7,Birthday,Allergy: shellfish,Deposit paid
+R-20260512-00408,V-008,2026-05-12,Lunch,G-100042,Platinum,2,Birthday,Window seat,Confirmed
+R-20260516-00409,V-008,2026-05-16,Lunch,G-101019,Standard,5,,Window seat,Confirmed
+R-20260501-00410,V-008,2026-05-01,Dinner,G-102210,Platinum,4,Birthday,Quiet table,Deposit paid
+R-20260522-00411,V-008,2026-05-22,Dinner,G-103105,Gold,10,,,Confirmed
+R-20260505-00412,V-008,2026-05-05,Dinner,G-103510,Gold,8,,Allergy: shellfish,Confirmed
+R-20260529-00413,V-008,2026-05-29,Dinner,G-102233,Platinum,2,,Birthday cake,Deposit paid
+R-20260516-00414,V-008,2026-05-16,Lunch,G-104386,Standard,3,,Quiet table,Confirmed
+R-20260508-00415,V-008,2026-05-08,Late night,G-104253,Standard,5,,Quiet table,Confirmed
+R-20260502-00416,V-008,2026-05-02,Dinner,G-101121,Standard,5,,Window seat,Deposit paid
+R-20260527-00417,V-008,2026-05-27,Late night,G-103843,Standard,3,,Window seat,Waitlist
+R-20260510-00418,V-008,2026-05-10,Dinner,G-100928,Standard,4,,Quiet table,Waitlist
+R-20260522-00419,V-008,2026-05-22,Lunch,G-103546,Standard,6,,Wine pairing,Deposit paid
+R-20260519-00420,V-008,2026-05-19,Dinner,G-100276,Standard,3,,Quiet table,Confirmed
+R-20260503-00421,V-008,2026-05-03,Dinner,G-104590,Gold,3,,Birthday cake,Deposit paid
+R-20260502-00422,V-008,2026-05-02,Late night,G-101812,Standard,6,,Quiet table,Confirmed
+R-20260511-00423,V-008,2026-05-11,Late night,G-100067,Standard,9,,Wine pairing,Confirmed
+R-20260504-00424,V-008,2026-05-04,Dinner,G-102780,Gold,8,,Allergy: shellfish,Confirmed
+R-20260529-00425,V-008,2026-05-29,Lunch,G-104982,Gold,6,,Window seat,Confirmed
+R-20260502-00426,V-008,2026-05-02,Lunch,G-103205,Standard,7,Birthday,Wine pairing,Confirmed
+R-20260530-00427,V-008,2026-05-30,Lunch,G-103585,Gold,2,,,Deposit paid
+R-20260517-00428,V-008,2026-05-17,Dinner,G-102577,Standard,9,,,Confirmed
+R-20260529-00429,V-008,2026-05-29,Lunch,G-100881,Standard,4,,Birthday cake,Confirmed
+R-20260527-00430,V-008,2026-05-27,Lunch,G-102866,Gold,4,,Quiet table,Deposit paid
+R-20260523-00431,V-008,2026-05-23,Late night,G-100866,Standard,4,,,Confirmed
+R-20260508-00432,V-008,2026-05-08,Late night,G-101292,Standard,4,,Birthday cake,Confirmed
+R-20260506-00433,V-008,2026-05-06,Dinner,G-104175,Standard,6,,Wine pairing,Confirmed
+R-20260510-00434,V-009,2026-05-10,Late night,G-104381,Gold,8,,Window seat,Confirmed
+R-20260527-00435,V-009,2026-05-27,Late night,G-103219,Diamond,8,,,Confirmed
+R-20260512-00436,V-009,2026-05-12,Dinner,G-104757,Gold,6,,,Confirmed
+R-20260525-00437,V-009,2026-05-25,Dinner,G-104948,Gold,2,,,Waitlist
+R-20260525-00438,V-009,2026-05-25,Lunch,G-101788,Platinum,3,,Window seat,Deposit paid
+R-20260521-00439,V-009,2026-05-21,Dinner,G-102650,Gold,5,,Wine pairing,Confirmed
+R-20260507-00440,V-009,2026-05-07,Dinner,G-103020,Standard,8,,,Confirmed
+R-20260513-00441,V-009,2026-05-13,Late night,G-104691,Platinum,4,,Birthday cake,Confirmed
+R-20260503-00442,V-009,2026-05-03,Dinner,G-102003,Gold,4,Birthday,,Confirmed
+R-20260524-00443,V-009,2026-05-24,Lunch,G-104895,Gold,8,,,Confirmed
+R-20260523-00444,V-009,2026-05-23,Lunch,G-104198,Diamond,3,,Birthday cake,Confirmed
+R-20260504-00445,V-009,2026-05-04,Lunch,G-103844,Platinum,7,,Allergy: shellfish,Deposit paid
+R-20260518-00446,V-009,2026-05-18,Late night,G-103067,Standard,8,,Allergy: shellfish,Waitlist
+R-20260509-00447,V-009,2026-05-09,Dinner,G-101436,Standard,5,,Allergy: shellfish,Confirmed
+R-20260507-00448,V-009,2026-05-07,Late night,G-102124,Standard,8,,Allergy: shellfish,Confirmed
+R-20260506-00449,V-009,2026-05-06,Dinner,G-104374,Standard,9,,Quiet table,Confirmed
+R-20260505-00450,V-009,2026-05-05,Lunch,G-102137,Standard,3,Birthday,,Confirmed
+R-20260524-00451,V-009,2026-05-24,Late night,G-103352,Gold,4,,,Confirmed
+R-20260517-00452,V-009,2026-05-17,Dinner,G-101296,Gold,5,,Wine pairing,Confirmed
+R-20260530-00453,V-009,2026-05-30,Dinner,G-100500,Platinum,3,,Quiet table,Confirmed
+R-20260527-00454,V-009,2026-05-27,Lunch,G-100644,Platinum,5,,Window seat,Confirmed
+R-20260507-00455,V-009,2026-05-07,Dinner,G-103509,Platinum,2,,Allergy: shellfish,Deposit paid
+R-20260528-00456,V-009,2026-05-28,Dinner,G-104226,Standard,3,,Allergy: shellfish,Confirmed
+R-20260521-00457,V-009,2026-05-21,Lunch,G-100133,Standard,9,,Birthday cake,Confirmed
+R-20260527-00458,V-009,2026-05-27,Late night,G-101979,Standard,5,,Window seat,Deposit paid
+R-20260501-00459,V-009,2026-05-01,Late night,G-100315,Standard,4,,Wine pairing,Waitlist
+R-20260519-00460,V-009,2026-05-19,Late night,G-104161,Standard,9,,,Confirmed
+R-20260526-00461,V-009,2026-05-26,Dinner,G-103630,Platinum,9,,,Confirmed
+R-20260531-00462,V-009,2026-05-31,Late night,G-101218,Gold,5,,,Deposit paid
+R-20260525-00463,V-009,2026-05-25,Lunch,G-102093,Platinum,3,,,Confirmed
+R-20260522-00464,V-009,2026-05-22,Lunch,G-101389,Standard,11,,Birthday cake,Confirmed
+R-20260509-00465,V-009,2026-05-09,Late night,G-103776,Gold,3,,Window seat,Confirmed
+R-20260529-00466,V-009,2026-05-29,Dinner,G-104720,Standard,6,,Allergy: shellfish,Deposit paid
+R-20260526-00467,V-009,2026-05-26,Lunch,G-104199,Gold,7,,,Confirmed
+R-20260504-00468,V-009,2026-05-04,Dinner,G-101165,Gold,2,,,Confirmed
+R-20260506-00469,V-009,2026-05-06,Lunch,G-104156,Standard,4,,Birthday cake,Confirmed
+R-20260516-00470,V-009,2026-05-16,Late night,G-104458,Gold,4,,Wine pairing,Deposit paid
+R-20260508-00471,V-009,2026-05-08,Lunch,G-101132,Standard,2,,,Confirmed
+R-20260520-00472,V-009,2026-05-20,Late night,G-103038,Diamond,5,,,Confirmed
+R-20260512-00473,V-009,2026-05-12,Late night,G-101275,Standard,5,,Quiet table,Confirmed
+R-20260511-00474,V-009,2026-05-11,Lunch,G-101152,Platinum,3,,,Confirmed
+R-20260509-00475,V-009,2026-05-09,Dinner,G-100223,Standard,5,,Allergy: shellfish,Confirmed
+R-20260525-00476,V-009,2026-05-25,Lunch,G-101165,Gold,6,,Quiet table,Confirmed
+R-20260531-00477,V-010,2026-05-31,Lunch,G-103762,Standard,3,,Window seat,Confirmed
+R-20260525-00478,V-010,2026-05-25,Late night,G-104886,Standard,3,,Wine pairing,Confirmed
+R-20260519-00479,V-010,2026-05-19,Dinner,G-101325,Standard,6,,,Confirmed
+R-20260527-00480,V-010,2026-05-27,Dinner,G-102389,Standard,3,,,Confirmed
+R-20260511-00481,V-010,2026-05-11,Lunch,G-101499,Gold,5,,Allergy: shellfish,Deposit paid
+R-20260509-00482,V-010,2026-05-09,Late night,G-100248,Gold,5,,Wine pairing,Confirmed
+R-20260511-00483,V-010,2026-05-11,Lunch,G-100804,Standard,4,,Allergy: shellfish,Confirmed
+R-20260530-00484,V-010,2026-05-30,Dinner,G-100380,Standard,3,,,Confirmed
+R-20260511-00485,V-010,2026-05-11,Lunch,G-104094,Diamond,9,,Allergy: shellfish,Confirmed
+R-20260512-00486,V-010,2026-05-12,Lunch,G-104670,Gold,9,,,Deposit paid
+R-20260508-00487,V-010,2026-05-08,Late night,G-102892,Standard,10,,Window seat,Deposit paid
+R-20260501-00488,V-010,2026-05-01,Dinner,G-101082,Platinum,4,,Allergy: shellfish,Confirmed
+R-20260524-00489,V-010,2026-05-24,Dinner,G-100894,Standard,3,,,Confirmed
+R-20260502-00490,V-010,2026-05-02,Late night,G-102795,Standard,4,,Allergy: shellfish,Confirmed
+R-20260505-00491,V-010,2026-05-05,Dinner,G-100891,Platinum,6,Birthday,Birthday cake,Deposit paid
+R-20260524-00492,V-010,2026-05-24,Dinner,G-104626,Gold,3,,Wine pairing,Confirmed
+R-20260528-00493,V-010,2026-05-28,Lunch,G-104891,Platinum,6,,,Confirmed
+R-20260519-00494,V-010,2026-05-19,Dinner,G-102150,Platinum,2,,Birthday cake,Confirmed
+R-20260507-00495,V-010,2026-05-07,Dinner,G-100802,Standard,9,,Wine pairing,Confirmed
+R-20260525-00496,V-010,2026-05-25,Lunch,G-103097,Standard,5,,Birthday cake,Deposit paid
+R-20260526-00497,V-010,2026-05-26,Lunch,G-102682,Standard,3,Birthday,Birthday cake,Confirmed
+R-20260525-00498,V-010,2026-05-25,Lunch,G-100152,Standard,2,,,Confirmed
+R-20260517-00499,V-010,2026-05-17,Dinner,G-104144,Standard,4,,Allergy: shellfish,Confirmed
+R-20260525-00500,V-010,2026-05-25,Dinner,G-101542,Standard,4,,,Confirmed
+R-20260521-00501,V-010,2026-05-21,Lunch,G-104422,Standard,4,,,Deposit paid
+R-20260510-00502,V-010,2026-05-10,Lunch,G-103713,Standard,3,,Wine pairing,Confirmed
+R-20260514-00503,V-011,2026-05-14,Lunch,G-102956,Gold,2,,,Confirmed
+R-20260525-00504,V-011,2026-05-25,Dinner,G-102746,Standard,5,,Birthday cake,Confirmed
+R-20260504-00505,V-011,2026-05-04,Dinner,G-100164,Standard,4,,Window seat,Confirmed
+R-20260514-00506,V-011,2026-05-14,Dinner,G-101975,Diamond,2,,Quiet table,Confirmed
+R-20260507-00507,V-011,2026-05-07,Lunch,G-103582,Standard,4,,Window seat,Confirmed
+R-20260512-00508,V-011,2026-05-12,Dinner,G-100061,Standard,7,,Window seat,Confirmed
+R-20260521-00509,V-011,2026-05-21,Lunch,G-101731,Platinum,5,,,Deposit paid
+R-20260526-00510,V-011,2026-05-26,Dinner,G-102079,Diamond,5,,Wine pairing,Deposit paid
+R-20260516-00511,V-011,2026-05-16,Dinner,G-103934,Diamond,5,Anniversary,Birthday cake,Confirmed
+R-20260525-00512,V-011,2026-05-25,Lunch,G-103556,Gold,4,,,Confirmed
+R-20260521-00513,V-011,2026-05-21,Lunch,G-103427,Platinum,2,,,Confirmed
+R-20260510-00514,V-011,2026-05-10,Dinner,G-100378,Standard,8,,Window seat,Confirmed
+R-20260506-00515,V-011,2026-05-06,Dinner,G-103790,Standard,4,,Birthday cake,Confirmed
+R-20260510-00516,V-011,2026-05-10,Dinner,G-102877,Standard,5,,,Deposit paid
+R-20260510-00517,V-011,2026-05-10,Late night,G-102847,Standard,6,,,Confirmed
+R-20260517-00518,V-011,2026-05-17,Dinner,G-103805,Standard,3,Anniversary,Birthday cake,Waitlist
+R-20260518-00519,V-011,2026-05-18,Lunch,G-102915,Standard,8,,,Confirmed
+R-20260514-00520,V-011,2026-05-14,Dinner,G-102917,Gold,2,,,Confirmed
+R-20260510-00521,V-011,2026-05-10,Late night,G-103722,Standard,4,,,Waitlist
+R-20260507-00522,V-011,2026-05-07,Late night,G-103571,Standard,3,,,Confirmed
+R-20260517-00523,V-011,2026-05-17,Dinner,G-103325,Standard,4,,,Confirmed
+R-20260522-00524,V-011,2026-05-22,Late night,G-104467,Platinum,6,,Allergy: shellfish,Confirmed
+R-20260527-00525,V-011,2026-05-27,Lunch,G-102086,Standard,3,,,Deposit paid
+R-20260520-00526,V-011,2026-05-20,Dinner,G-102680,Standard,2,,Allergy: shellfish,Confirmed
+R-20260523-00527,V-011,2026-05-23,Lunch,G-101164,Standard,3,,Birthday cake,Confirmed
+R-20260514-00528,V-011,2026-05-14,Lunch,G-102960,Platinum,5,,,Deposit paid
+R-20260531-00529,V-011,2026-05-31,Lunch,G-102983,Platinum,7,,,Confirmed
+R-20260530-00530,V-011,2026-05-30,Lunch,G-100660,Standard,5,,Allergy: shellfish,Confirmed
+R-20260524-00531,V-011,2026-05-24,Dinner,G-102584,Standard,2,,Birthday cake,Confirmed
+R-20260529-00532,V-011,2026-05-29,Lunch,G-104632,Platinum,11,,Quiet table,Deposit paid
+R-20260526-00533,V-011,2026-05-26,Dinner,G-103962,Platinum,3,Birthday,Quiet table,Deposit paid
+R-20260504-00534,V-011,2026-05-04,Lunch,G-103371,Standard,5,,Window seat,Confirmed
+R-20260502-00535,V-011,2026-05-02,Dinner,G-100664,Standard,7,,Birthday cake,Deposit paid
+R-20260517-00536,V-011,2026-05-17,Lunch,G-102838,Standard,3,,Window seat,Deposit paid
+R-20260527-00537,V-011,2026-05-27,Lunch,G-101171,Gold,3,,Birthday cake,Confirmed
+R-20260503-00538,V-011,2026-05-03,Late night,G-104934,Platinum,5,,,Deposit paid
+R-20260512-00539,V-011,2026-05-12,Lunch,G-103209,Standard,5,,,Confirmed
+R-20260524-00540,V-011,2026-05-24,Lunch,G-104225,Standard,2,,Allergy: shellfish,Confirmed
+R-20260516-00541,V-011,2026-05-16,Lunch,G-102362,Standard,3,,Birthday cake,Waitlist
+R-20260521-00542,V-011,2026-05-21,Late night,G-101768,Gold,6,,Window seat,Confirmed
+R-20260515-00543,V-011,2026-05-15,Lunch,G-102104,Gold,11,,,Confirmed
+R-20260511-00544,V-011,2026-05-11,Late night,G-102556,Standard,5,,Window seat,Confirmed
+R-20260502-00545,V-011,2026-05-02,Lunch,G-102345,Platinum,6,,,Confirmed
+R-20260528-00546,V-011,2026-05-28,Lunch,G-104982,Gold,2,,Allergy: shellfish,Confirmed
+R-20260525-00547,V-011,2026-05-25,Late night,G-102708,Gold,5,,,Deposit paid
+R-20260529-00548,V-011,2026-05-29,Lunch,G-102052,Gold,4,,,Confirmed
+R-20260508-00549,V-011,2026-05-08,Late night,G-103684,Standard,3,,Wine pairing,Confirmed
+R-20260524-00550,V-011,2026-05-24,Dinner,G-102964,Platinum,3,,,Confirmed
+R-20260502-00551,V-011,2026-05-02,Dinner,G-103500,Standard,4,,,Deposit paid
+R-20260508-00552,V-011,2026-05-08,Lunch,G-100900,Standard,6,,Allergy: shellfish,Confirmed
+R-20260522-00553,V-012,2026-05-22,Lunch,G-104098,Standard,6,,Allergy: shellfish,Confirmed
+R-20260503-00554,V-012,2026-05-03,Lunch,G-104868,Standard,4,,,Confirmed
+R-20260523-00555,V-012,2026-05-23,Breakfast,G-102288,Standard,3,,,Confirmed
+R-20260514-00556,V-012,2026-05-14,Lunch,G-100391,Standard,4,,Allergy: shellfish,Confirmed
+R-20260523-00557,V-012,2026-05-23,Lunch,G-100408,Standard,4,,Window seat,Confirmed
+R-20260504-00558,V-012,2026-05-04,Breakfast,G-101812,Standard,3,,Window seat,Confirmed
+R-20260530-00559,V-012,2026-05-30,Dinner,G-101444,Standard,3,,,Confirmed
+R-20260522-00560,V-012,2026-05-22,Lunch,G-101711,Diamond,5,,Window seat,Confirmed
+R-20260527-00561,V-012,2026-05-27,Breakfast,G-102732,Standard,5,,,Confirmed
+R-20260510-00562,V-012,2026-05-10,Lunch,G-104952,Platinum,6,,,Confirmed
+R-20260501-00563,V-012,2026-05-01,Lunch,G-104287,Standard,7,,,Confirmed
+R-20260525-00564,V-012,2026-05-25,Lunch,G-103339,Standard,3,,Birthday cake,Confirmed
+R-20260503-00565,V-012,2026-05-03,Dinner,G-104642,Standard,4,,,Confirmed
+R-20260505-00566,V-012,2026-05-05,Dinner,G-101777,Standard,5,,Window seat,Deposit paid
+R-20260514-00567,V-012,2026-05-14,Breakfast,G-103685,Standard,4,,,Confirmed
+R-20260521-00568,V-012,2026-05-21,Breakfast,G-102929,Standard,7,,,Confirmed
+R-20260518-00569,V-012,2026-05-18,Lunch,G-100304,Gold,4,,Allergy: shellfish,Deposit paid
+R-20260508-00570,V-012,2026-05-08,Breakfast,G-104541,Gold,8,,Allergy: shellfish,Confirmed
+R-20260511-00571,V-012,2026-05-11,Breakfast,G-101457,Standard,8,,,Deposit paid
+R-20260512-00572,V-012,2026-05-12,Breakfast,G-103982,Platinum,2,,Wine pairing,Confirmed
+R-20260509-00573,V-012,2026-05-09,Dinner,G-102956,Gold,4,,Quiet table,Confirmed
+R-20260503-00574,V-012,2026-05-03,Lunch,G-101502,Standard,3,,Window seat,Confirmed
+R-20260518-00575,V-012,2026-05-18,Dinner,G-103721,Gold,6,,Window seat,Confirmed
+R-20260518-00576,V-012,2026-05-18,Dinner,G-102349,Diamond,7,,Allergy: shellfish,Waitlist
+R-20260525-00577,V-012,2026-05-25,Dinner,G-100023,Standard,8,Birthday,Window seat,Deposit paid
+R-20260525-00578,V-012,2026-05-25,Dinner,G-103098,Standard,3,,,Confirmed
+R-20260508-00579,V-012,2026-05-08,Dinner,G-103960,Gold,5,Birthday,Quiet table,Confirmed
+R-20260516-00580,V-012,2026-05-16,Lunch,G-102582,Platinum,5,,Birthday cake,Confirmed
+R-20260508-00581,V-012,2026-05-08,Breakfast,G-102055,Gold,4,,,Waitlist
+R-20260514-00582,V-012,2026-05-14,Dinner,G-103990,Platinum,5,,Birthday cake,Deposit paid
+R-20260520-00583,V-012,2026-05-20,Lunch,G-101767,Diamond,5,Birthday,Birthday cake,Confirmed
+R-20260501-00584,V-012,2026-05-01,Dinner,G-104182,Gold,6,,Quiet table,Confirmed
+R-20260520-00585,V-012,2026-05-20,Breakfast,G-104574,Standard,2,,Allergy: shellfish,Confirmed
+R-20260511-00586,V-012,2026-05-11,Breakfast,G-101764,Gold,7,,Quiet table,Deposit paid
+R-20260511-00587,V-012,2026-05-11,Breakfast,G-104498,Standard,11,,,Deposit paid
+R-20260508-00588,V-012,2026-05-08,Dinner,G-104339,Gold,8,,Wine pairing,Confirmed
+R-20260521-00589,V-012,2026-05-21,Lunch,G-102766,Standard,4,,,Waitlist
+R-20260502-00590,V-012,2026-05-02,Dinner,G-102279,Standard,7,,Quiet table,Confirmed
+R-20260508-00591,V-012,2026-05-08,Dinner,G-104956,Standard,11,,Birthday cake,Deposit paid
+R-20260502-00592,V-012,2026-05-02,Dinner,G-102608,Standard,6,,,Waitlist
+R-20260512-00593,V-012,2026-05-12,Lunch,G-101812,Standard,2,,,Confirmed
+R-20260505-00594,V-012,2026-05-05,Breakfast,G-104375,Standard,2,,Quiet table,Confirmed
+R-20260529-00595,V-012,2026-05-29,Dinner,G-100943,Standard,3,,,Confirmed
+R-20260518-00596,V-012,2026-05-18,Dinner,G-100808,Platinum,7,,Quiet table,Confirmed
+R-20260518-00597,V-012,2026-05-18,Breakfast,G-104057,Standard,4,,,Confirmed
+R-20260519-00598,V-012,2026-05-19,Breakfast,G-104884,Standard,8,,Quiet table,Confirmed
+R-20260513-00599,V-012,2026-05-13,Breakfast,G-104779,Standard,2,,,Deposit paid
+R-20260517-00600,V-012,2026-05-17,Lunch,G-100480,Gold,6,,,Confirmed
+R-20260514-00601,V-012,2026-05-14,Lunch,G-103280,Standard,4,,Quiet table,Deposit paid
+R-20260504-00602,V-012,2026-05-04,Breakfast,G-103428,Standard,5,,Window seat,Confirmed
+R-20260507-00603,V-012,2026-05-07,Dinner,G-103370,Standard,4,,Quiet table,Confirmed
+R-20260518-00604,V-012,2026-05-18,Lunch,G-103074,Standard,9,,,Confirmed
+R-20260519-00605,V-012,2026-05-19,Lunch,G-100576,Standard,4,,Birthday cake,Confirmed
+R-20260501-00606,V-012,2026-05-01,Breakfast,G-101233,Platinum,2,,Wine pairing,Confirmed
+R-20260518-00607,V-012,2026-05-18,Breakfast,G-104899,Standard,8,,Window seat,Deposit paid
+R-20260522-00608,V-012,2026-05-22,Dinner,G-100709,Platinum,5,,,Confirmed
+R-20260503-00609,V-012,2026-05-03,Dinner,G-102928,Standard,7,,Wine pairing,Confirmed
+R-20260520-00610,V-012,2026-05-20,Breakfast,G-102780,Gold,5,,,Confirmed
+R-20260518-00611,V-012,2026-05-18,Lunch,G-104501,Diamond,4,,Allergy: shellfish,Confirmed
+R-20260523-00612,V-012,2026-05-23,Lunch,G-102201,Platinum,7,,Window seat,Waitlist
+R-20260520-00613,V-012,2026-05-20,Lunch,G-102294,Standard,3,,Window seat,Waitlist
+R-20260516-00614,V-012,2026-05-16,Breakfast,G-104209,Standard,8,,Quiet table,Confirmed
+R-20260509-00615,V-012,2026-05-09,Lunch,G-104720,Standard,5,,,Confirmed
+R-20260518-00616,V-012,2026-05-18,Lunch,G-103958,Gold,8,,,Confirmed
+R-20260529-00617,V-012,2026-05-29,Lunch,G-100913,Standard,3,,,Confirmed
+R-20260530-00618,V-013,2026-05-30,Breakfast,G-103458,Standard,7,,Birthday cake,Waitlist
+R-20260529-00619,V-013,2026-05-29,Dinner,G-104795,Standard,6,,,Confirmed
+R-20260524-00620,V-013,2026-05-24,Dinner,G-104186,Platinum,4,,Window seat,Confirmed
+R-20260522-00621,V-013,2026-05-22,Breakfast,G-104394,Standard,6,,Quiet table,Confirmed
+R-20260517-00622,V-013,2026-05-17,Breakfast,G-102882,Platinum,4,Anniversary,,Confirmed
+R-20260523-00623,V-013,2026-05-23,Lunch,G-102316,Standard,9,,Birthday cake,Confirmed
+R-20260514-00624,V-013,2026-05-14,Lunch,G-102903,Platinum,5,,Wine pairing,Confirmed
+R-20260530-00625,V-013,2026-05-30,Lunch,G-102349,Diamond,4,,,Confirmed
+R-20260506-00626,V-013,2026-05-06,Breakfast,G-101559,Gold,6,,Quiet table,Confirmed
+R-20260514-00627,V-013,2026-05-14,Dinner,G-100941,Standard,6,,Wine pairing,Confirmed
+R-20260511-00628,V-013,2026-05-11,Breakfast,G-104086,Diamond,10,,Quiet table,Waitlist
+R-20260513-00629,V-013,2026-05-13,Lunch,G-103942,Standard,3,,Window seat,Confirmed
+R-20260509-00630,V-013,2026-05-09,Dinner,G-104265,Gold,4,,Quiet table,Deposit paid
+R-20260509-00631,V-013,2026-05-09,Dinner,G-100151,Gold,2,,Birthday cake,Confirmed
+R-20260516-00632,V-013,2026-05-16,Breakfast,G-100257,Gold,2,Anniversary,,Confirmed
+R-20260529-00633,V-013,2026-05-29,Breakfast,G-102427,Standard,4,,,Confirmed
+R-20260508-00634,V-013,2026-05-08,Breakfast,G-104671,Gold,6,,Birthday cake,Confirmed
+R-20260515-00635,V-013,2026-05-15,Breakfast,G-100612,Platinum,3,,,Confirmed
+R-20260507-00636,V-013,2026-05-07,Lunch,G-104982,Gold,3,,Birthday cake,Deposit paid
+R-20260528-00637,V-013,2026-05-28,Breakfast,G-100797,Standard,4,,Allergy: shellfish,Confirmed
+R-20260502-00638,V-013,2026-05-02,Lunch,G-104397,Standard,9,,,Deposit paid
+R-20260524-00639,V-013,2026-05-24,Dinner,G-104140,Standard,5,,Window seat,Confirmed
+R-20260506-00640,V-013,2026-05-06,Lunch,G-101448,Standard,5,,Allergy: shellfish,Confirmed
+R-20260509-00641,V-013,2026-05-09,Dinner,G-101908,Gold,7,,Allergy: shellfish,Confirmed
+R-20260516-00642,V-013,2026-05-16,Breakfast,G-100412,Gold,6,,Wine pairing,Deposit paid
+R-20260502-00643,V-013,2026-05-02,Dinner,G-103665,Standard,3,,Window seat,Confirmed
+R-20260521-00644,V-013,2026-05-21,Dinner,G-102368,Platinum,4,,Quiet table,Confirmed
+R-20260528-00645,V-013,2026-05-28,Dinner,G-103272,Standard,7,,,Confirmed
+R-20260521-00646,V-013,2026-05-21,Lunch,G-102038,Standard,5,,Wine pairing,Confirmed
+R-20260528-00647,V-013,2026-05-28,Lunch,G-101010,Standard,3,,,Confirmed
+R-20260513-00648,V-013,2026-05-13,Lunch,G-101405,Standard,11,Birthday,Window seat,Deposit paid
+R-20260501-00649,V-013,2026-05-01,Breakfast,G-100397,Platinum,3,,Birthday cake,Deposit paid
+R-20260529-00650,V-013,2026-05-29,Dinner,G-100729,Gold,4,,,Waitlist
+R-20260530-00651,V-013,2026-05-30,Lunch,G-101287,Gold,10,,Wine pairing,Confirmed
+R-20260508-00652,V-013,2026-05-08,Dinner,G-103143,Standard,4,,Allergy: shellfish,Deposit paid
+R-20260524-00653,V-013,2026-05-24,Lunch,G-102119,Gold,6,,Birthday cake,Confirmed
+R-20260507-00654,V-013,2026-05-07,Dinner,G-103663,Standard,6,,,Confirmed
+R-20260514-00655,V-013,2026-05-14,Dinner,G-101652,Standard,9,,,Deposit paid
+R-20260510-00656,V-013,2026-05-10,Lunch,G-103576,Standard,3,,,Confirmed
+R-20260501-00657,V-013,2026-05-01,Breakfast,G-104002,Standard,2,,,Confirmed
+R-20260520-00658,V-013,2026-05-20,Lunch,G-101494,Gold,4,,Allergy: shellfish,Deposit paid
+R-20260513-00659,V-013,2026-05-13,Dinner,G-104036,Standard,7,,,Waitlist
+R-20260527-00660,V-013,2026-05-27,Breakfast,G-101152,Platinum,3,,Allergy: shellfish,Deposit paid
+R-20260510-00661,V-013,2026-05-10,Breakfast,G-100522,Standard,6,,Window seat,Deposit paid
+R-20260522-00662,V-013,2026-05-22,Breakfast,G-100470,Standard,5,,Window seat,Deposit paid
+R-20260502-00663,V-013,2026-05-02,Breakfast,G-102324,Standard,8,,Wine pairing,Confirmed
+R-20260507-00664,V-013,2026-05-07,Lunch,G-104616,Standard,8,,,Confirmed
+R-20260508-00665,V-013,2026-05-08,Breakfast,G-103779,Standard,3,,Birthday cake,Confirmed
+R-20260526-00666,V-013,2026-05-26,Dinner,G-101238,Standard,3,,Wine pairing,Deposit paid
+R-20260501-00667,V-013,2026-05-01,Lunch,G-104482,Standard,7,,,Confirmed
+R-20260505-00668,V-013,2026-05-05,Lunch,G-104451,Diamond,7,,Window seat,Confirmed
+R-20260530-00669,V-013,2026-05-30,Breakfast,G-102327,Gold,7,Birthday,Birthday cake,Confirmed
+R-20260503-00670,V-013,2026-05-03,Lunch,G-103934,Diamond,3,,Allergy: shellfish,Confirmed
+R-20260512-00671,V-013,2026-05-12,Dinner,G-101764,Gold,6,,,Waitlist
+R-20260523-00672,V-013,2026-05-23,Lunch,G-104546,Standard,9,,Birthday cake,Confirmed
+R-20260510-00673,V-013,2026-05-10,Lunch,G-102925,Standard,2,Birthday,Allergy: shellfish,Confirmed
+R-20260518-00674,V-013,2026-05-18,Breakfast,G-102373,Standard,7,,,Confirmed
+R-20260526-00675,V-013,2026-05-26,Lunch,G-102376,Standard,7,,,Confirmed
+R-20260509-00676,V-013,2026-05-09,Breakfast,G-101342,Platinum,6,,Quiet table,Confirmed
+R-20260529-00677,V-013,2026-05-29,Breakfast,G-101935,Platinum,3,,,Confirmed
+R-20260518-00678,V-013,2026-05-18,Lunch,G-102509,Standard,5,,,Confirmed
+R-20260501-00679,V-013,2026-05-01,Breakfast,G-104331,Standard,5,,,Confirmed
+R-20260502-00680,V-013,2026-05-02,Dinner,G-102078,Platinum,5,,,Confirmed
+R-20260519-00681,V-013,2026-05-19,Breakfast,G-104467,Platinum,5,Birthday,Quiet table,Confirmed
+R-20260525-00682,V-013,2026-05-25,Lunch,G-103919,Standard,4,,,Waitlist
+R-20260510-00683,V-013,2026-05-10,Dinner,G-102737,Platinum,6,,Window seat,Confirmed
+R-20260512-00684,V-013,2026-05-12,Dinner,G-100443,Standard,3,,,Confirmed
+R-20260518-00685,V-013,2026-05-18,Lunch,G-100299,Platinum,8,,,Confirmed
+R-20260531-00686,V-013,2026-05-31,Dinner,G-102716,Standard,2,,,Confirmed
+R-20260502-00687,V-013,2026-05-02,Lunch,G-103454,Standard,6,,,Waitlist
+R-20260531-00688,V-013,2026-05-31,Lunch,G-100688,Platinum,2,,,Confirmed
+R-20260525-00689,V-013,2026-05-25,Lunch,G-101917,Standard,4,,Quiet table,Confirmed
+R-20260518-00690,V-014,2026-05-18,Lunch,G-103305,Standard,9,,,Confirmed
+R-20260506-00691,V-014,2026-05-06,Dinner,G-101811,Standard,3,,,Confirmed
+R-20260529-00692,V-014,2026-05-29,Late night,G-104565,Standard,6,,,Confirmed
+R-20260520-00693,V-014,2026-05-20,Dinner,G-101966,Standard,6,,Quiet table,Confirmed
+R-20260505-00694,V-014,2026-05-05,Lunch,G-102880,Standard,7,,Quiet table,Confirmed
+R-20260515-00695,V-014,2026-05-15,Late night,G-101957,Gold,8,,Window seat,Confirmed
+R-20260525-00696,V-014,2026-05-25,Lunch,G-102167,Standard,5,,Allergy: shellfish,Confirmed
+R-20260505-00697,V-014,2026-05-05,Lunch,G-104026,Gold,5,Birthday,,Deposit paid
+R-20260530-00698,V-014,2026-05-30,Lunch,G-102749,Standard,2,,,Confirmed
+R-20260530-00699,V-014,2026-05-30,Late night,G-100903,Platinum,6,,Birthday cake,Confirmed
+R-20260509-00700,V-014,2026-05-09,Late night,G-104897,Diamond,7,,,Waitlist
+R-20260514-00701,V-014,2026-05-14,Dinner,G-101661,Standard,5,,Allergy: shellfish,Confirmed
+R-20260521-00702,V-014,2026-05-21,Late night,G-100400,Gold,6,,,Confirmed
+R-20260503-00703,V-014,2026-05-03,Lunch,G-101522,Gold,9,,Wine pairing,Confirmed
+R-20260507-00704,V-014,2026-05-07,Dinner,G-102345,Platinum,4,,,Confirmed
+R-20260505-00705,V-014,2026-05-05,Late night,G-100945,Platinum,2,,,Confirmed
+R-20260505-00706,V-014,2026-05-05,Dinner,G-103179,Standard,11,,Quiet table,Confirmed
+R-20260512-00707,V-014,2026-05-12,Lunch,G-101187,Standard,5,,Window seat,Deposit paid
+R-20260517-00708,V-014,2026-05-17,Late night,G-101742,Standard,3,,,Waitlist
+R-20260522-00709,V-014,2026-05-22,Lunch,G-104445,Standard,5,,Allergy: shellfish,Waitlist
+R-20260506-00710,V-014,2026-05-06,Late night,G-102138,Gold,7,,,Confirmed
+R-20260529-00711,V-014,2026-05-29,Late night,G-104187,Standard,4,,,Confirmed
+R-20260520-00712,V-014,2026-05-20,Late night,G-100709,Platinum,5,,,Waitlist
+R-20260527-00713,V-014,2026-05-27,Late night,G-100854,Standard,2,,Window seat,Confirmed
+R-20260506-00714,V-014,2026-05-06,Dinner,G-101152,Platinum,8,,Birthday cake,Deposit paid
+R-20260529-00715,V-014,2026-05-29,Lunch,G-103740,Standard,8,,,Deposit paid
+R-20260519-00716,V-014,2026-05-19,Dinner,G-103378,Standard,8,,Allergy: shellfish,Confirmed
+R-20260525-00717,V-014,2026-05-25,Dinner,G-104432,Gold,10,,Birthday cake,Confirmed
+R-20260503-00718,V-014,2026-05-03,Lunch,G-100222,Diamond,5,,Birthday cake,Confirmed
+R-20260531-00719,V-014,2026-05-31,Late night,G-103059,Standard,4,,,Confirmed
+R-20260531-00720,V-014,2026-05-31,Late night,G-104892,Standard,6,,Birthday cake,Waitlist
+R-20260522-00721,V-014,2026-05-22,Dinner,G-101872,Standard,6,,Window seat,Waitlist
+R-20260513-00722,V-014,2026-05-13,Lunch,G-100863,Diamond,11,Birthday,Allergy: shellfish,Confirmed
+R-20260504-00723,V-014,2026-05-04,Lunch,G-102508,Standard,11,,Birthday cake,Deposit paid
+R-20260520-00724,V-014,2026-05-20,Lunch,G-101515,Standard,7,,Quiet table,Confirmed
+R-20260513-00725,V-014,2026-05-13,Lunch,G-102976,Platinum,3,,,Confirmed
+R-20260515-00726,V-014,2026-05-15,Late night,G-102819,Platinum,4,,Birthday cake,Confirmed
+R-20260512-00727,V-014,2026-05-12,Dinner,G-104216,Standard,5,,,Confirmed
+R-20260527-00728,V-014,2026-05-27,Dinner,G-104427,Gold,7,,,Confirmed
+R-20260513-00729,V-014,2026-05-13,Late night,G-104299,Gold,4,,Quiet table,Confirmed
+R-20260524-00730,V-014,2026-05-24,Dinner,G-101716,Standard,10,,Allergy: shellfish,Confirmed
+R-20260508-00731,V-014,2026-05-08,Late night,G-103136,Platinum,2,,Window seat,Confirmed
+R-20260512-00732,V-014,2026-05-12,Late night,G-103891,Standard,4,,,Confirmed
+R-20260507-00733,V-014,2026-05-07,Late night,G-104376,Standard,5,,Window seat,Confirmed
+R-20260525-00734,V-014,2026-05-25,Late night,G-100926,Platinum,9,,Window seat,Confirmed
+R-20260512-00735,V-014,2026-05-12,Dinner,G-103924,Standard,7,,Quiet table,Confirmed
+R-20260506-00736,V-014,2026-05-06,Lunch,G-101779,Standard,3,,Wine pairing,Waitlist
+R-20260529-00737,V-014,2026-05-29,Dinner,G-104825,Gold,3,,Wine pairing,Confirmed
+R-20260511-00738,V-014,2026-05-11,Dinner,G-104967,Platinum,8,,Birthday cake,Confirmed
+R-20260503-00739,V-014,2026-05-03,Dinner,G-101910,Standard,4,,Birthday cake,Confirmed
+R-20260528-00740,V-014,2026-05-28,Late night,G-101482,Standard,7,,,Deposit paid
+R-20260509-00741,V-014,2026-05-09,Late night,G-100336,Platinum,10,,,Confirmed
+R-20260510-00742,V-014,2026-05-10,Lunch,G-102466,Platinum,6,,Allergy: shellfish,Deposit paid
+R-20260525-00743,V-014,2026-05-25,Late night,G-103646,Standard,9,,Allergy: shellfish,Confirmed
+R-20260531-00744,V-014,2026-05-31,Lunch,G-101902,Gold,5,,Birthday cake,Deposit paid
+R-20260529-00745,V-014,2026-05-29,Dinner,G-104765,Standard,2,,,Confirmed
+R-20260512-00746,V-014,2026-05-12,Late night,G-102446,Standard,5,,Allergy: shellfish,Confirmed
+R-20260506-00747,V-014,2026-05-06,Late night,G-100057,Standard,4,,Allergy: shellfish,Confirmed
+R-20260513-00748,V-014,2026-05-13,Late night,G-102265,Standard,7,,Window seat,Waitlist
+R-20260501-00749,V-014,2026-05-01,Lunch,G-100591,Gold,8,,,Deposit paid
+R-20260509-00750,V-014,2026-05-09,Late night,G-104149,Platinum,6,,,Confirmed
+R-20260522-00751,V-014,2026-05-22,Dinner,G-103904,Diamond,4,Birthday,,Confirmed
+R-20260513-00752,V-014,2026-05-13,Dinner,G-104638,Platinum,5,,Window seat,Confirmed
+R-20260503-00753,V-014,2026-05-03,Late night,G-101698,Standard,4,,,Confirmed
+R-20260503-00754,V-014,2026-05-03,Lunch,G-101250,Standard,4,,Allergy: shellfish,Confirmed
+R-20260525-00755,V-014,2026-05-25,Lunch,G-100502,Gold,5,Anniversary,Birthday cake,Confirmed
+R-20260506-00756,V-014,2026-05-06,Late night,G-101915,Diamond,3,,Birthday cake,Deposit paid
+R-20260511-00757,V-014,2026-05-11,Dinner,G-104326,Standard,3,,,Deposit paid
+R-20260517-00758,V-014,2026-05-17,Late night,G-102579,Standard,7,,,Confirmed
+R-20260523-00759,V-014,2026-05-23,Late night,G-103397,Gold,5,,Wine pairing,Deposit paid
+R-20260527-00760,V-014,2026-05-27,Lunch,G-101757,Standard,2,,Window seat,Deposit paid
+R-20260505-00761,V-015,2026-05-05,Dinner,G-104058,Standard,8,,,Waitlist
+R-20260517-00762,V-015,2026-05-17,Lunch,G-104153,Standard,6,,Birthday cake,Confirmed
+R-20260522-00763,V-015,2026-05-22,Dinner,G-104468,Standard,5,,Quiet table,Confirmed
+R-20260511-00764,V-015,2026-05-11,Lunch,G-104221,Standard,3,,Wine pairing,Confirmed
+R-20260520-00765,V-015,2026-05-20,Dinner,G-104559,Standard,3,,,Confirmed
+R-20260528-00766,V-015,2026-05-28,Late night,G-104982,Gold,8,,,Confirmed
+R-20260511-00767,V-015,2026-05-11,Late night,G-100303,Diamond,10,,Window seat,Confirmed
+R-20260525-00768,V-015,2026-05-25,Lunch,G-104094,Diamond,5,,Quiet table,Deposit paid
+R-20260516-00769,V-015,2026-05-16,Dinner,G-101958,Gold,4,,,Deposit paid
+R-20260517-00770,V-015,2026-05-17,Dinner,G-104998,Standard,2,,,Deposit paid
+R-20260521-00771,V-015,2026-05-21,Dinner,G-103212,Standard,3,,Quiet table,Confirmed
+R-20260515-00772,V-015,2026-05-15,Dinner,G-102334,Platinum,2,,Quiet table,Deposit paid
+R-20260503-00773,V-015,2026-05-03,Dinner,G-103907,Standard,3,,,Confirmed
+R-20260516-00774,V-015,2026-05-16,Late night,G-102065,Gold,2,Birthday,Allergy: shellfish,Confirmed
+R-20260525-00775,V-015,2026-05-25,Lunch,G-100336,Platinum,5,Birthday,,Confirmed
+R-20260518-00776,V-015,2026-05-18,Lunch,G-103459,Standard,8,,Birthday cake,Confirmed
+R-20260523-00777,V-015,2026-05-23,Late night,G-100561,Standard,3,Birthday,Birthday cake,Confirmed
+R-20260507-00778,V-015,2026-05-07,Lunch,G-101991,Platinum,7,,,Confirmed
+R-20260514-00779,V-015,2026-05-14,Lunch,G-100631,Platinum,5,,Wine pairing,Confirmed
+R-20260519-00780,V-015,2026-05-19,Dinner,G-102140,Gold,4,,Birthday cake,Confirmed
+R-20260527-00781,V-015,2026-05-27,Late night,G-100058,Gold,8,,,Confirmed
+R-20260507-00782,V-015,2026-05-07,Dinner,G-100167,Standard,8,,Allergy: shellfish,Confirmed
+R-20260516-00783,V-015,2026-05-16,Late night,G-104998,Standard,5,,,Confirmed
+R-20260506-00784,V-015,2026-05-06,Late night,G-100358,Standard,3,,Birthday cake,Confirmed
+R-20260512-00785,V-015,2026-05-12,Dinner,G-100143,Platinum,7,Birthday,,Confirmed
+R-20260511-00786,V-015,2026-05-11,Dinner,G-100577,Standard,3,,Allergy: shellfish,Confirmed
+R-20260503-00787,V-015,2026-05-03,Late night,G-102538,Standard,5,,,Confirmed
+R-20260530-00788,V-015,2026-05-30,Lunch,G-104931,Gold,9,,,Confirmed
+R-20260521-00789,V-015,2026-05-21,Late night,G-101517,Standard,5,,Quiet table,Waitlist
+R-20260502-00790,V-015,2026-05-02,Dinner,G-103718,Gold,7,,,Confirmed
+R-20260523-00791,V-015,2026-05-23,Lunch,G-102030,Standard,6,,,Confirmed
+R-20260523-00792,V-015,2026-05-23,Dinner,G-100537,Standard,4,Birthday,Wine pairing,Confirmed
+R-20260524-00793,V-015,2026-05-24,Late night,G-103514,Gold,2,,Allergy: shellfish,Confirmed
+R-20260521-00794,V-015,2026-05-21,Dinner,G-102891,Gold,6,,Birthday cake,Confirmed
+R-20260518-00795,V-015,2026-05-18,Dinner,G-101111,Diamond,5,,Allergy: shellfish,Deposit paid
+R-20260526-00796,V-015,2026-05-26,Late night,G-103622,Gold,11,,Birthday cake,Waitlist
+R-20260520-00797,V-016,2026-05-20,Dinner,G-103292,Diamond,6,,Wine pairing,Confirmed
+R-20260531-00798,V-016,2026-05-31,Dinner,G-100881,Standard,4,Anniversary,,Deposit paid
+R-20260509-00799,V-016,2026-05-09,Lunch,G-103289,Gold,3,,Allergy: shellfish,Confirmed
+R-20260517-00800,V-016,2026-05-17,Late night,G-100789,Platinum,3,Anniversary,Wine pairing,Confirmed
+R-20260506-00801,V-016,2026-05-06,Lunch,G-103656,Standard,7,,,Confirmed
+R-20260523-00802,V-016,2026-05-23,Late night,G-103967,Diamond,10,,Window seat,Confirmed
+R-20260512-00803,V-016,2026-05-12,Lunch,G-100503,Standard,10,,Window seat,Confirmed
+R-20260506-00804,V-016,2026-05-06,Late night,G-101408,Standard,2,,Wine pairing,Confirmed
+R-20260503-00805,V-016,2026-05-03,Lunch,G-100182,Platinum,5,,Allergy: shellfish,Confirmed
+R-20260516-00806,V-016,2026-05-16,Dinner,G-104429,Gold,5,,Quiet table,Confirmed
+R-20260510-00807,V-016,2026-05-10,Lunch,G-101736,Standard,4,,Allergy: shellfish,Confirmed
+R-20260511-00808,V-016,2026-05-11,Dinner,G-102262,Gold,4,,Quiet table,Deposit paid
+R-20260519-00809,V-016,2026-05-19,Lunch,G-101278,Gold,9,,Allergy: shellfish,Confirmed
+R-20260530-00810,V-016,2026-05-30,Lunch,G-104129,Gold,6,,,Confirmed
+R-20260504-00811,V-016,2026-05-04,Lunch,G-103936,Gold,9,,Wine pairing,Confirmed
+R-20260507-00812,V-016,2026-05-07,Late night,G-102045,Gold,4,,Wine pairing,Deposit paid
+R-20260507-00813,V-016,2026-05-07,Dinner,G-104566,Platinum,3,,,Confirmed
+R-20260513-00814,V-016,2026-05-13,Lunch,G-101772,Standard,3,,Quiet table,Confirmed
+R-20260508-00815,V-016,2026-05-08,Dinner,G-100305,Standard,3,,,Confirmed
+R-20260522-00816,V-016,2026-05-22,Late night,G-103106,Platinum,5,,,Confirmed
+R-20260506-00817,V-016,2026-05-06,Dinner,G-101556,Diamond,6,,,Deposit paid
+R-20260530-00818,V-016,2026-05-30,Lunch,G-102539,Platinum,4,,Window seat,Confirmed
+R-20260505-00819,V-016,2026-05-05,Lunch,G-100255,Standard,8,,Quiet table,Confirmed
+R-20260522-00820,V-016,2026-05-22,Lunch,G-102587,Standard,3,,Wine pairing,Deposit paid
+R-20260505-00821,V-016,2026-05-05,Late night,G-102368,Platinum,5,,,Confirmed
+R-20260501-00822,V-016,2026-05-01,Late night,G-101241,Gold,4,,,Confirmed
+R-20260502-00823,V-016,2026-05-02,Dinner,G-102250,Standard,4,,Window seat,Confirmed
+R-20260530-00824,V-016,2026-05-30,Dinner,G-100718,Standard,6,,Quiet table,Confirmed
+R-20260524-00825,V-016,2026-05-24,Late night,G-101959,Standard,4,,,Confirmed
+R-20260519-00826,V-016,2026-05-19,Dinner,G-103798,Gold,3,,Birthday cake,Confirmed
+R-20260513-00827,V-016,2026-05-13,Dinner,G-104306,Gold,3,,Window seat,Confirmed
+R-20260517-00828,V-016,2026-05-17,Dinner,G-100076,Gold,7,,Birthday cake,Confirmed
+R-20260514-00829,V-016,2026-05-14,Lunch,G-103033,Gold,5,,,Waitlist
+R-20260529-00830,V-016,2026-05-29,Late night,G-104747,Gold,2,,Wine pairing,Confirmed
+R-20260525-00831,V-016,2026-05-25,Lunch,G-101528,Standard,3,,Allergy: shellfish,Confirmed
+R-20260508-00832,V-016,2026-05-08,Lunch,G-101771,Platinum,3,,,Confirmed
+R-20260514-00833,V-016,2026-05-14,Lunch,G-103964,Gold,3,,Wine pairing,Deposit paid
+R-20260503-00834,V-016,2026-05-03,Lunch,G-104563,Standard,6,,Allergy: shellfish,Confirmed
+R-20260520-00835,V-016,2026-05-20,Late night,G-102043,Gold,7,,Allergy: shellfish,Waitlist
+R-20260509-00836,V-016,2026-05-09,Lunch,G-104347,Standard,9,,Birthday cake,Deposit paid
+R-20260512-00837,V-016,2026-05-12,Dinner,G-100258,Standard,6,,Window seat,Waitlist
+R-20260515-00838,V-016,2026-05-15,Lunch,G-104198,Diamond,4,,,Confirmed
+R-20260502-00839,V-016,2026-05-02,Dinner,G-102809,Gold,4,,Allergy: shellfish,Confirmed
+R-20260521-00840,V-016,2026-05-21,Dinner,G-104280,Platinum,6,,,Confirmed
+R-20260503-00841,V-016,2026-05-03,Dinner,G-100049,Platinum,4,,Wine pairing,Deposit paid
+R-20260524-00842,V-016,2026-05-24,Late night,G-102626,Standard,5,,,Deposit paid
+R-20260521-00843,V-016,2026-05-21,Late night,G-103147,Gold,11,,,Confirmed
+R-20260506-00844,V-016,2026-05-06,Dinner,G-103006,Platinum,10,,,Confirmed
+R-20260519-00845,V-016,2026-05-19,Dinner,G-102982,Platinum,3,,Window seat,Confirmed
+R-20260508-00846,V-016,2026-05-08,Late night,G-101651,Gold,7,,Birthday cake,Confirmed
+R-20260523-00847,V-016,2026-05-23,Lunch,G-103052,Standard,5,,Window seat,Waitlist
+R-20260528-00848,V-016,2026-05-28,Late night,G-102964,Platinum,7,,Window seat,Confirmed
+R-20260519-00849,V-016,2026-05-19,Dinner,G-104610,Platinum,8,,Window seat,Deposit paid
+R-20260530-00850,V-016,2026-05-30,Lunch,G-102785,Standard,3,Birthday,Window seat,Confirmed
+R-20260530-00851,V-016,2026-05-30,Dinner,G-103564,Gold,7,,Wine pairing,Confirmed
+R-20260521-00852,V-016,2026-05-21,Late night,G-104395,Platinum,6,,,Confirmed
+R-20260509-00853,V-016,2026-05-09,Lunch,G-103799,Standard,7,,Window seat,Waitlist
+R-20260523-00854,V-016,2026-05-23,Late night,G-102235,Gold,4,,,Deposit paid
+R-20260504-00855,V-016,2026-05-04,Lunch,G-100706,Standard,5,Anniversary,Quiet table,Confirmed
+R-20260515-00856,V-016,2026-05-15,Dinner,G-102265,Standard,3,,,Deposit paid
+R-20260506-00857,V-016,2026-05-06,Late night,G-103530,Diamond,9,,,Deposit paid
+R-20260523-00858,V-016,2026-05-23,Late night,G-102413,Platinum,6,,Wine pairing,Confirmed
+R-20260513-00859,V-016,2026-05-13,Dinner,G-100958,Platinum,6,,Quiet table,Confirmed
+R-20260501-00860,V-016,2026-05-01,Late night,G-102547,Platinum,10,,,Confirmed
+R-20260516-00861,V-016,2026-05-16,Dinner,G-101006,Standard,6,,,Waitlist
+R-20260514-00862,V-016,2026-05-14,Lunch,G-103076,Platinum,5,,Wine pairing,Deposit paid
+R-20260503-00863,V-016,2026-05-03,Dinner,G-103090,Diamond,3,,Quiet table,Confirmed
+R-20260520-00864,V-016,2026-05-20,Late night,G-100221,Platinum,2,,Window seat,Confirmed
+R-20260523-00865,V-017,2026-05-23,Late night,G-101860,Standard,5,,Birthday cake,Confirmed
+R-20260511-00866,V-017,2026-05-11,Late night,G-100491,Diamond,10,,Wine pairing,Confirmed
+R-20260519-00867,V-017,2026-05-19,Dinner,G-101046,Standard,3,,,Confirmed
+R-20260502-00868,V-017,2026-05-02,Late night,G-100297,Standard,4,,Window seat,Confirmed
+R-20260523-00869,V-017,2026-05-23,Lunch,G-104016,Gold,8,,,Confirmed
+R-20260515-00870,V-017,2026-05-15,Dinner,G-103868,Standard,7,,Allergy: shellfish,Confirmed
+R-20260505-00871,V-017,2026-05-05,Lunch,G-103727,Gold,7,,,Deposit paid
+R-20260514-00872,V-017,2026-05-14,Dinner,G-104156,Standard,4,,Birthday cake,Confirmed
+R-20260512-00873,V-017,2026-05-12,Dinner,G-102135,Standard,3,,,Confirmed
+R-20260503-00874,V-017,2026-05-03,Lunch,G-100993,Gold,6,,Birthday cake,Confirmed
+R-20260531-00875,V-017,2026-05-31,Lunch,G-100850,Gold,5,,Wine pairing,Confirmed
+R-20260524-00876,V-017,2026-05-24,Lunch,G-101306,Gold,5,,Window seat,Confirmed
+R-20260529-00877,V-017,2026-05-29,Dinner,G-100821,Standard,7,,Allergy: shellfish,Confirmed
+R-20260506-00878,V-017,2026-05-06,Late night,G-103306,Standard,4,,Window seat,Deposit paid
+R-20260529-00879,V-017,2026-05-29,Late night,G-101563,Platinum,7,,,Confirmed
+R-20260525-00880,V-017,2026-05-25,Lunch,G-103852,Standard,3,Birthday,Birthday cake,Deposit paid
+R-20260531-00881,V-017,2026-05-31,Dinner,G-100871,Standard,7,,,Confirmed
+R-20260521-00882,V-017,2026-05-21,Dinner,G-103058,Gold,7,,Wine pairing,Confirmed
+R-20260522-00883,V-017,2026-05-22,Lunch,G-101450,Platinum,3,,,Confirmed
+R-20260517-00884,V-017,2026-05-17,Late night,G-103104,Gold,4,,Window seat,Confirmed
+R-20260518-00885,V-017,2026-05-18,Lunch,G-101229,Gold,10,,,Confirmed
+R-20260501-00886,V-017,2026-05-01,Lunch,G-104761,Standard,3,,Allergy: shellfish,Confirmed
+R-20260518-00887,V-017,2026-05-18,Dinner,G-100428,Gold,5,,Birthday cake,Confirmed
+R-20260512-00888,V-017,2026-05-12,Dinner,G-104342,Standard,4,,Allergy: shellfish,Confirmed
+R-20260514-00889,V-017,2026-05-14,Late night,G-103976,Standard,9,,Wine pairing,Deposit paid
+R-20260508-00890,V-017,2026-05-08,Dinner,G-102688,Standard,2,,Birthday cake,Confirmed
+R-20260522-00891,V-017,2026-05-22,Dinner,G-103780,Platinum,6,,Birthday cake,Confirmed
+R-20260515-00892,V-017,2026-05-15,Late night,G-103266,Standard,3,,Window seat,Confirmed
+R-20260513-00893,V-017,2026-05-13,Lunch,G-102667,Standard,6,,Birthday cake,Confirmed
+R-20260523-00894,V-017,2026-05-23,Dinner,G-104711,Standard,8,,Wine pairing,Confirmed
+R-20260507-00895,V-017,2026-05-07,Lunch,G-101836,Platinum,2,,,Deposit paid
+R-20260514-00896,V-017,2026-05-14,Late night,G-102849,Diamond,3,,,Deposit paid
+R-20260513-00897,V-017,2026-05-13,Lunch,G-103957,Gold,7,,,Confirmed
+R-20260519-00898,V-017,2026-05-19,Dinner,G-103101,Standard,6,,,Deposit paid
+R-20260515-00899,V-017,2026-05-15,Late night,G-103439,Standard,3,,Window seat,Waitlist
+R-20260505-00900,V-017,2026-05-05,Late night,G-104348,Platinum,6,,,Confirmed
+R-20260525-00901,V-017,2026-05-25,Late night,G-102435,Standard,7,,Allergy: shellfish,Deposit paid
+R-20260519-00902,V-017,2026-05-19,Late night,G-104443,Standard,7,,Wine pairing,Deposit paid
+R-20260503-00903,V-017,2026-05-03,Late night,G-103723,Platinum,3,,Birthday cake,Confirmed
+R-20260506-00904,V-017,2026-05-06,Lunch,G-103032,Standard,10,,Window seat,Confirmed
+R-20260501-00905,V-017,2026-05-01,Late night,G-102274,Standard,4,Birthday,Birthday cake,Confirmed
+R-20260515-00906,V-017,2026-05-15,Dinner,G-104866,Standard,6,,Birthday cake,Confirmed
+R-20260517-00907,V-017,2026-05-17,Lunch,G-102950,Standard,7,,Window seat,Deposit paid
+R-20260522-00908,V-017,2026-05-22,Dinner,G-101241,Gold,10,,Window seat,Confirmed
+R-20260528-00909,V-017,2026-05-28,Late night,G-100608,Gold,9,,,Confirmed
+R-20260524-00910,V-017,2026-05-24,Lunch,G-102029,Standard,5,,Wine pairing,Confirmed
+R-20260506-00911,V-017,2026-05-06,Lunch,G-102922,Gold,5,,,Confirmed
+R-20260508-00912,V-017,2026-05-08,Late night,G-100982,Gold,3,Birthday,,Confirmed
+R-20260502-00913,V-017,2026-05-02,Lunch,G-102061,Platinum,9,,Birthday cake,Waitlist
+R-20260522-00914,V-017,2026-05-22,Lunch,G-102642,Standard,7,,,Deposit paid
+R-20260517-00915,V-017,2026-05-17,Lunch,G-104326,Standard,5,,Allergy: shellfish,Confirmed
+R-20260508-00916,V-017,2026-05-08,Dinner,G-103891,Standard,4,,,Deposit paid
+R-20260522-00917,V-017,2026-05-22,Dinner,G-100117,Standard,7,,Window seat,Confirmed
+R-20260529-00918,V-017,2026-05-29,Lunch,G-103784,Standard,2,,,Deposit paid
+R-20260522-00919,V-017,2026-05-22,Late night,G-101333,Gold,10,,,Confirmed
+R-20260518-00920,V-017,2026-05-18,Late night,G-104632,Platinum,4,Birthday,Wine pairing,Confirmed
+R-20260523-00921,V-017,2026-05-23,Lunch,G-104323,Standard,7,,Window seat,Confirmed
+R-20260507-00922,V-017,2026-05-07,Lunch,G-102340,Platinum,4,,Window seat,Confirmed
+R-20260519-00923,V-017,2026-05-19,Late night,G-102789,Standard,6,,Quiet table,Confirmed
+R-20260506-00924,V-017,2026-05-06,Lunch,G-104511,Standard,6,,Allergy: shellfish,Confirmed
+R-20260507-00925,V-017,2026-05-07,Dinner,G-101559,Gold,9,,,Deposit paid
+R-20260502-00926,V-017,2026-05-02,Lunch,G-101600,Gold,7,,,Confirmed
+R-20260513-00927,V-017,2026-05-13,Lunch,G-102942,Gold,5,,Wine pairing,Confirmed
+R-20260509-00928,V-017,2026-05-09,Late night,G-103503,Diamond,9,,,Confirmed
+R-20260519-00929,V-017,2026-05-19,Late night,G-104462,Standard,7,,,Waitlist
+R-20260516-00930,V-017,2026-05-16,Late night,G-103311,Standard,3,,,Confirmed
+R-20260521-00931,V-017,2026-05-21,Lunch,G-102669,Gold,9,,,Confirmed
+R-20260528-00932,V-017,2026-05-28,Lunch,G-101992,Gold,8,,Birthday cake,Waitlist
+R-20260513-00933,V-017,2026-05-13,Dinner,G-104542,Standard,3,,Birthday cake,Confirmed
+R-20260523-00934,V-017,2026-05-23,Dinner,G-103793,Standard,9,,Allergy: shellfish,Confirmed
+R-20260502-00935,V-017,2026-05-02,Late night,G-102797,Gold,8,Birthday,Window seat,Waitlist
+R-20260516-00936,V-017,2026-05-16,Lunch,G-104654,Standard,3,,,Deposit paid
+R-20260524-00937,V-017,2026-05-24,Late night,G-101823,Gold,4,,Window seat,Waitlist
+R-20260507-00938,V-018,2026-05-07,Dinner,G-100292,Gold,5,,Birthday cake,Confirmed
+R-20260519-00939,V-018,2026-05-19,Dinner,G-100531,Standard,7,,Birthday cake,Confirmed
+R-20260530-00940,V-018,2026-05-30,Dinner,G-104784,Standard,5,,,Deposit paid
+R-20260515-00941,V-018,2026-05-15,Late night,G-103941,Standard,7,,Quiet table,Deposit paid
+R-20260510-00942,V-018,2026-05-10,Late night,G-101935,Platinum,5,,,Confirmed
+R-20260517-00943,V-018,2026-05-17,Dinner,G-101071,Standard,7,,,Waitlist
+R-20260520-00944,V-018,2026-05-20,Dinner,G-104038,Gold,5,,Birthday cake,Confirmed
+R-20260517-00945,V-018,2026-05-17,Lunch,G-101785,Standard,6,,Birthday cake,Deposit paid
+R-20260530-00946,V-018,2026-05-30,Lunch,G-100854,Standard,6,,,Confirmed
+R-20260501-00947,V-018,2026-05-01,Lunch,G-102349,Diamond,7,,Wine pairing,Confirmed
+R-20260502-00948,V-018,2026-05-02,Lunch,G-104778,Standard,6,,,Deposit paid
+R-20260523-00949,V-018,2026-05-23,Lunch,G-104673,Standard,6,,Wine pairing,Confirmed
+R-20260517-00950,V-018,2026-05-17,Late night,G-104931,Gold,5,Anniversary,Window seat,Confirmed
+R-20260504-00951,V-018,2026-05-04,Dinner,G-101374,Standard,10,,Window seat,Deposit paid
+R-20260516-00952,V-018,2026-05-16,Dinner,G-103772,Standard,3,,,Confirmed
+R-20260514-00953,V-018,2026-05-14,Dinner,G-104586,Platinum,2,,,Confirmed
+R-20260507-00954,V-018,2026-05-07,Late night,G-104430,Standard,5,,Window seat,Confirmed
+R-20260517-00955,V-018,2026-05-17,Late night,G-104032,Platinum,4,,Window seat,Confirmed
+R-20260509-00956,V-018,2026-05-09,Late night,G-102753,Standard,3,,Quiet table,Confirmed
+R-20260515-00957,V-018,2026-05-15,Lunch,G-101226,Standard,5,,,Confirmed
+R-20260508-00958,V-018,2026-05-08,Lunch,G-100107,Platinum,10,,,Confirmed
+R-20260528-00959,V-018,2026-05-28,Dinner,G-101552,Standard,4,,Birthday cake,Waitlist
+R-20260501-00960,V-018,2026-05-01,Lunch,G-101447,Gold,8,,Birthday cake,Deposit paid
+R-20260509-00961,V-018,2026-05-09,Dinner,G-103258,Diamond,8,,Allergy: shellfish,Deposit paid
+R-20260509-00962,V-018,2026-05-09,Lunch,G-103510,Gold,5,,,Confirmed
+R-20260503-00963,V-018,2026-05-03,Dinner,G-102143,Gold,3,Birthday,Window seat,Confirmed
+R-20260510-00964,V-018,2026-05-10,Late night,G-100598,Standard,3,,Allergy: shellfish,Confirmed
+R-20260516-00965,V-018,2026-05-16,Late night,G-102478,Standard,3,,Wine pairing,Confirmed
+R-20260509-00966,V-018,2026-05-09,Dinner,G-104669,Standard,5,Birthday,Allergy: shellfish,Waitlist
+R-20260507-00967,V-018,2026-05-07,Dinner,G-100431,Standard,5,,Wine pairing,Confirmed
+R-20260531-00968,V-018,2026-05-31,Late night,G-100349,Platinum,5,,,Confirmed
+R-20260505-00969,V-018,2026-05-05,Dinner,G-101268,Diamond,6,,Wine pairing,Waitlist
+R-20260511-00970,V-018,2026-05-11,Lunch,G-103786,Standard,5,,,Waitlist
+R-20260502-00971,V-018,2026-05-02,Lunch,G-101540,Platinum,6,,Wine pairing,Confirmed
+R-20260514-00972,V-018,2026-05-14,Dinner,G-102842,Standard,4,,,Confirmed
+R-20260517-00973,V-018,2026-05-17,Late night,G-104897,Diamond,9,,Birthday cake,Deposit paid
+R-20260515-00974,V-018,2026-05-15,Dinner,G-102678,Standard,4,,Allergy: shellfish,Deposit paid
+R-20260504-00975,V-018,2026-05-04,Lunch,G-100807,Gold,4,,,Confirmed
+R-20260522-00976,V-018,2026-05-22,Lunch,G-101968,Standard,3,,,Deposit paid
+R-20260518-00977,V-018,2026-05-18,Lunch,G-104744,Standard,4,,Allergy: shellfish,Confirmed
+R-20260516-00978,V-018,2026-05-16,Late night,G-102410,Standard,7,,,Deposit paid
+R-20260510-00979,V-018,2026-05-10,Dinner,G-104853,Diamond,4,,,Confirmed
+R-20260519-00980,V-018,2026-05-19,Late night,G-101305,Standard,4,,Birthday cake,Confirmed
+R-20260519-00981,V-018,2026-05-19,Lunch,G-102632,Platinum,6,,Allergy: shellfish,Confirmed
+R-20260507-00982,V-018,2026-05-07,Dinner,G-101270,Standard,6,,,Confirmed
+R-20260526-00983,V-018,2026-05-26,Lunch,G-103133,Standard,7,,,Waitlist
+R-20260523-00984,V-018,2026-05-23,Dinner,G-101478,Standard,8,,Birthday cake,Confirmed
+R-20260504-00985,V-018,2026-05-04,Lunch,G-100506,Standard,4,,Window seat,Confirmed
+R-20260508-00986,V-018,2026-05-08,Late night,G-102400,Standard,4,,Wine pairing,Confirmed
+R-20260517-00987,V-018,2026-05-17,Lunch,G-103117,Platinum,6,,Wine pairing,Confirmed
+R-20260522-00988,V-018,2026-05-22,Dinner,G-103692,Standard,9,,Wine pairing,Confirmed
+R-20260502-00989,V-018,2026-05-02,Late night,G-100884,Standard,11,,,Confirmed
+R-20260521-00990,V-018,2026-05-21,Dinner,G-100733,Standard,4,,Birthday cake,Confirmed
+R-20260510-00991,V-018,2026-05-10,Dinner,G-103758,Standard,4,,,Confirmed
+R-20260504-00992,V-018,2026-05-04,Lunch,G-104142,Standard,4,,Birthday cake,Waitlist
+R-20260514-00993,V-018,2026-05-14,Late night,G-103557,Standard,4,,Birthday cake,Waitlist
+R-20260516-00994,V-018,2026-05-16,Dinner,G-103281,Standard,5,,,Confirmed
+R-20260503-00995,V-018,2026-05-03,Dinner,G-103631,Gold,5,Birthday,Allergy: shellfish,Waitlist
+R-20260511-00996,V-018,2026-05-11,Late night,G-101942,Platinum,6,,,Waitlist
+R-20260523-00997,V-018,2026-05-23,Dinner,G-101860,Standard,3,,Window seat,Confirmed
+R-20260502-00998,V-018,2026-05-02,Late night,G-102541,Gold,5,,Window seat,Confirmed
+R-20260509-00999,V-018,2026-05-09,Late night,G-103117,Platinum,7,,Quiet table,Deposit paid
+R-20260506-01000,V-019,2026-05-06,Late night,G-101436,Standard,6,,Wine pairing,Deposit paid
+R-20260529-01001,V-019,2026-05-29,Lunch,G-101471,Standard,3,,,Deposit paid
+R-20260517-01002,V-019,2026-05-17,Lunch,G-100532,Gold,8,,Quiet table,Confirmed
+R-20260504-01003,V-019,2026-05-04,Dinner,G-101442,Platinum,4,,Wine pairing,Confirmed
+R-20260524-01004,V-019,2026-05-24,Lunch,G-102129,Standard,10,,Allergy: shellfish,Deposit paid
+R-20260522-01005,V-019,2026-05-22,Late night,G-104491,Gold,10,,,Confirmed
+R-20260515-01006,V-019,2026-05-15,Dinner,G-102275,Diamond,2,,,Confirmed
+R-20260513-01007,V-019,2026-05-13,Late night,G-100206,Gold,7,,Allergy: shellfish,Confirmed
+R-20260504-01008,V-019,2026-05-04,Lunch,G-104490,Standard,5,,Allergy: shellfish,Deposit paid
+R-20260526-01009,V-019,2026-05-26,Dinner,G-101595,Standard,7,,Allergy: shellfish,Confirmed
+R-20260512-01010,V-019,2026-05-12,Late night,G-104614,Platinum,5,,Wine pairing,Deposit paid
+R-20260527-01011,V-019,2026-05-27,Lunch,G-101979,Standard,4,,,Deposit paid
+R-20260505-01012,V-019,2026-05-05,Dinner,G-100754,Standard,8,Anniversary,Quiet table,Confirmed
+R-20260514-01013,V-019,2026-05-14,Dinner,G-104836,Standard,6,,Wine pairing,Confirmed
+R-20260523-01014,V-019,2026-05-23,Dinner,G-100535,Gold,6,,Window seat,Confirmed
+R-20260507-01015,V-019,2026-05-07,Late night,G-102745,Standard,3,,,Confirmed
+R-20260513-01016,V-019,2026-05-13,Late night,G-103581,Standard,3,,,Confirmed
+R-20260507-01017,V-019,2026-05-07,Lunch,G-101566,Diamond,3,Birthday,,Confirmed
+R-20260529-01018,V-019,2026-05-29,Late night,G-100458,Standard,9,,Birthday cake,Deposit paid
+R-20260506-01019,V-019,2026-05-06,Lunch,G-100102,Standard,7,,Allergy: shellfish,Confirmed
+R-20260507-01020,V-019,2026-05-07,Late night,G-104822,Standard,10,,,Confirmed
+R-20260531-01021,V-019,2026-05-31,Lunch,G-103426,Gold,3,,Quiet table,Deposit paid
+R-20260502-01022,V-019,2026-05-02,Lunch,G-101407,Standard,8,,,Confirmed
+R-20260518-01023,V-019,2026-05-18,Dinner,G-101342,Platinum,5,,Window seat,Confirmed
+R-20260525-01024,V-019,2026-05-25,Lunch,G-100094,Standard,6,Birthday,,Confirmed
+R-20260525-01025,V-019,2026-05-25,Late night,G-102761,Gold,3,,,Deposit paid
+R-20260504-01026,V-019,2026-05-04,Dinner,G-100874,Standard,8,,Window seat,Confirmed
+R-20260517-01027,V-019,2026-05-17,Dinner,G-104106,Gold,3,,Quiet table,Confirmed
+R-20260527-01028,V-019,2026-05-27,Late night,G-101002,Standard,9,,Wine pairing,Waitlist
+R-20260512-01029,V-019,2026-05-12,Late night,G-101481,Standard,4,,,Confirmed
+R-20260530-01030,V-019,2026-05-30,Dinner,G-104584,Standard,4,,Birthday cake,Confirmed
+R-20260524-01031,V-019,2026-05-24,Lunch,G-101137,Standard,5,,,Confirmed
+R-20260519-01032,V-019,2026-05-19,Late night,G-103803,Standard,7,,Wine pairing,Confirmed
+R-20260510-01033,V-019,2026-05-10,Lunch,G-102428,Diamond,4,,Allergy: shellfish,Confirmed
+R-20260504-01034,V-019,2026-05-04,Lunch,G-100512,Gold,6,Anniversary,Birthday cake,Deposit paid
+R-20260505-01035,V-019,2026-05-05,Dinner,G-103636,Gold,9,,Allergy: shellfish,Deposit paid
+R-20260510-01036,V-019,2026-05-10,Dinner,G-104064,Platinum,4,,Birthday cake,Confirmed
+R-20260508-01037,V-019,2026-05-08,Lunch,G-103509,Platinum,2,,,Confirmed
+R-20260520-01038,V-019,2026-05-20,Lunch,G-101643,Standard,5,,,Confirmed
+R-20260509-01039,V-019,2026-05-09,Dinner,G-100675,Standard,9,,,Confirmed
+R-20260502-01040,V-019,2026-05-02,Lunch,G-100553,Platinum,8,,Quiet table,Confirmed
+R-20260516-01041,V-020,2026-05-16,Lunch,G-102522,Gold,2,,Wine pairing,Confirmed
+R-20260514-01042,V-020,2026-05-14,Dinner,G-100117,Standard,3,,Birthday cake,Confirmed
+R-20260529-01043,V-020,2026-05-29,Dinner,G-100849,Standard,4,,,Deposit paid
+R-20260525-01044,V-020,2026-05-25,Dinner,G-102362,Standard,6,,Window seat,Confirmed
+R-20260529-01045,V-020,2026-05-29,Dinner,G-103991,Platinum,9,,Window seat,Confirmed
+R-20260529-01046,V-020,2026-05-29,Late night,G-101323,Standard,4,,Window seat,Confirmed
+R-20260526-01047,V-020,2026-05-26,Late night,G-101638,Standard,6,,,Confirmed
+R-20260522-01048,V-020,2026-05-22,Late night,G-104517,Platinum,6,,Allergy: shellfish,Waitlist
+R-20260524-01049,V-020,2026-05-24,Lunch,G-104722,Standard,7,Anniversary,Quiet table,Confirmed
+R-20260517-01050,V-020,2026-05-17,Dinner,G-103255,Standard,7,,,Confirmed
+R-20260508-01051,V-020,2026-05-08,Lunch,G-104755,Standard,5,,Birthday cake,Confirmed
+R-20260516-01052,V-020,2026-05-16,Dinner,G-104153,Standard,8,Birthday,,Confirmed
+R-20260519-01053,V-020,2026-05-19,Late night,G-100531,Standard,5,,Window seat,Confirmed
+R-20260503-01054,V-020,2026-05-03,Lunch,G-102441,Platinum,3,,Window seat,Waitlist
+R-20260531-01055,V-020,2026-05-31,Late night,G-101088,Gold,3,,Window seat,Confirmed
+R-20260501-01056,V-020,2026-05-01,Late night,G-101541,Standard,4,,,Confirmed
+R-20260518-01057,V-020,2026-05-18,Lunch,G-103919,Standard,9,,,Confirmed
+R-20260525-01058,V-020,2026-05-25,Late night,G-103747,Standard,5,,Birthday cake,Deposit paid
+R-20260510-01059,V-020,2026-05-10,Late night,G-104210,Standard,5,,Quiet table,Confirmed
+R-20260522-01060,V-020,2026-05-22,Lunch,G-103226,Standard,7,,,Confirmed
+R-20260530-01061,V-020,2026-05-30,Dinner,G-103668,Standard,7,,Wine pairing,Deposit paid
+R-20260529-01062,V-020,2026-05-29,Late night,G-102323,Standard,8,,,Confirmed
+R-20260526-01063,V-020,2026-05-26,Lunch,G-100158,Gold,2,,,Confirmed
+R-20260514-01064,V-020,2026-05-14,Dinner,G-103184,Standard,3,,Birthday cake,Deposit paid
+R-20260508-01065,V-020,2026-05-08,Lunch,G-103245,Platinum,6,,Wine pairing,Confirmed
+R-20260530-01066,V-020,2026-05-30,Dinner,G-103029,Standard,5,,Allergy: shellfish,Confirmed
+R-20260506-01067,V-020,2026-05-06,Late night,G-104604,Standard,3,,Quiet table,Confirmed
+R-20260514-01068,V-020,2026-05-14,Lunch,G-104150,Standard,9,,Window seat,Confirmed
+R-20260512-01069,V-020,2026-05-12,Dinner,G-100347,Gold,6,,Quiet table,Confirmed
+R-20260509-01070,V-020,2026-05-09,Late night,G-103191,Gold,5,Anniversary,Quiet table,Confirmed
+R-20260527-01071,V-020,2026-05-27,Dinner,G-103107,Standard,2,,,Confirmed
+R-20260516-01072,V-020,2026-05-16,Lunch,G-100198,Standard,7,,,Waitlist
+R-20260518-01073,V-020,2026-05-18,Late night,G-100169,Standard,4,,Window seat,Confirmed
+R-20260514-01074,V-020,2026-05-14,Late night,G-101311,Standard,6,,Window seat,Confirmed
+R-20260508-01075,V-020,2026-05-08,Dinner,G-102125,Standard,4,,,Confirmed
+R-20260530-01076,V-020,2026-05-30,Late night,G-103378,Standard,3,,,Confirmed
+R-20260527-01077,V-020,2026-05-27,Lunch,G-100029,Standard,11,,Quiet table,Deposit paid
+R-20260515-01078,V-020,2026-05-15,Dinner,G-101969,Standard,5,,,Confirmed
+R-20260529-01079,V-020,2026-05-29,Lunch,G-103953,Standard,2,,Birthday cake,Confirmed
+R-20260525-01080,V-020,2026-05-25,Late night,G-104861,Standard,6,,Wine pairing,Deposit paid
+R-20260525-01081,V-020,2026-05-25,Lunch,G-100855,Diamond,6,,Birthday cake,Confirmed
+R-20260509-01082,V-020,2026-05-09,Lunch,G-101856,Standard,4,,,Deposit paid
+R-20260523-01083,V-020,2026-05-23,Dinner,G-103729,Standard,8,,,Deposit paid
+R-20260512-01084,V-020,2026-05-12,Lunch,G-103890,Standard,10,,Quiet table,Confirmed
+R-20260518-01085,V-020,2026-05-18,Lunch,G-101061,Standard,5,,Window seat,Confirmed
+R-20260521-01086,V-020,2026-05-21,Dinner,G-102014,Platinum,7,,,Confirmed
+R-20260502-01087,V-020,2026-05-02,Late night,G-102947,Platinum,7,,Quiet table,Confirmed
+R-20260522-01088,V-020,2026-05-22,Lunch,G-100783,Gold,5,,Quiet table,Confirmed
+R-20260505-01089,V-020,2026-05-05,Dinner,G-100107,Platinum,5,,Allergy: shellfish,Confirmed
+R-20260502-01090,V-020,2026-05-02,Lunch,G-104143,Diamond,5,,,Waitlist
+R-20260519-01091,V-020,2026-05-19,Lunch,G-104294,Standard,4,,,Confirmed
+R-20260529-01092,V-020,2026-05-29,Late night,G-103828,Standard,6,,,Deposit paid
+R-20260505-01093,V-020,2026-05-05,Late night,G-103664,Standard,5,,,Confirmed
+R-20260522-01094,V-020,2026-05-22,Lunch,G-102227,Standard,7,Anniversary,Quiet table,Confirmed
+R-20260504-01095,V-020,2026-05-04,Dinner,G-100282,Standard,7,,Quiet table,Confirmed
+R-20260525-01096,V-020,2026-05-25,Late night,G-101357,Standard,6,,Wine pairing,Confirmed
+R-20260522-01097,V-020,2026-05-22,Lunch,G-102673,Diamond,4,,Allergy: shellfish,Confirmed
+R-20260509-01098,V-020,2026-05-09,Late night,G-104714,Platinum,3,,,Confirmed
+R-20260505-01099,V-020,2026-05-05,Dinner,G-100970,Standard,5,,Allergy: shellfish,Confirmed
+R-20260520-01100,V-020,2026-05-20,Lunch,G-101095,Standard,5,,,Confirmed
+R-20260503-01101,V-020,2026-05-03,Late night,G-103164,Gold,3,,,Deposit paid
+R-20260508-01102,V-020,2026-05-08,Late night,G-104622,Standard,3,,,Confirmed
+R-20260509-01103,V-020,2026-05-09,Late night,G-104615,Diamond,4,,,Waitlist
+R-20260510-01104,V-021,2026-05-10,Late night,G-102871,Diamond,9,,Allergy: shellfish,Deposit paid
+R-20260509-01105,V-021,2026-05-09,Lunch,G-100670,Platinum,3,,Birthday cake,Confirmed
+R-20260522-01106,V-021,2026-05-22,Lunch,G-104024,Standard,3,,,Confirmed
+R-20260525-01107,V-021,2026-05-25,Dinner,G-102803,Platinum,6,,Birthday cake,Deposit paid
+R-20260503-01108,V-021,2026-05-03,Late night,G-104555,Diamond,3,,,Confirmed
+R-20260510-01109,V-021,2026-05-10,Late night,G-101098,Standard,6,,,Deposit paid
+R-20260524-01110,V-021,2026-05-24,Late night,G-103245,Platinum,5,,,Confirmed
+R-20260519-01111,V-021,2026-05-19,Dinner,G-101928,Standard,3,,Birthday cake,Confirmed
+R-20260526-01112,V-021,2026-05-26,Late night,G-102172,Standard,2,,,Confirmed
+R-20260506-01113,V-021,2026-05-06,Lunch,G-102702,Standard,6,,Wine pairing,Confirmed
+R-20260501-01114,V-021,2026-05-01,Late night,G-103939,Standard,11,,Birthday cake,Deposit paid
+R-20260517-01115,V-021,2026-05-17,Late night,G-104670,Gold,4,,,Confirmed
+R-20260515-01116,V-021,2026-05-15,Lunch,G-104106,Gold,5,,Allergy: shellfish,Deposit paid
+R-20260520-01117,V-021,2026-05-20,Dinner,G-101848,Standard,6,,,Confirmed
+R-20260505-01118,V-021,2026-05-05,Dinner,G-100451,Gold,3,,,Confirmed
+R-20260525-01119,V-021,2026-05-25,Lunch,G-103892,Gold,3,,Allergy: shellfish,Waitlist
+R-20260519-01120,V-021,2026-05-19,Late night,G-101272,Standard,9,,Window seat,Confirmed
+R-20260508-01121,V-021,2026-05-08,Late night,G-100677,Platinum,6,,Wine pairing,Deposit paid
+R-20260504-01122,V-021,2026-05-04,Late night,G-104142,Standard,5,,,Confirmed
+R-20260512-01123,V-021,2026-05-12,Late night,G-100828,Standard,5,,,Confirmed
+R-20260501-01124,V-021,2026-05-01,Dinner,G-103763,Gold,6,,Allergy: shellfish,Confirmed
+R-20260511-01125,V-021,2026-05-11,Dinner,G-102244,Platinum,6,,Allergy: shellfish,Confirmed
+R-20260517-01126,V-021,2026-05-17,Lunch,G-100632,Standard,7,,,Confirmed
+R-20260530-01127,V-021,2026-05-30,Late night,G-103473,Platinum,3,,,Confirmed
+R-20260515-01128,V-021,2026-05-15,Lunch,G-104218,Platinum,8,,,Confirmed
+R-20260510-01129,V-021,2026-05-10,Dinner,G-101960,Standard,4,,Window seat,Waitlist
+R-20260509-01130,V-021,2026-05-09,Late night,G-104655,Standard,5,,,Waitlist
+R-20260505-01131,V-021,2026-05-05,Lunch,G-104159,Standard,6,,,Confirmed
+R-20260527-01132,V-021,2026-05-27,Dinner,G-102628,Standard,4,,Allergy: shellfish,Confirmed
+R-20260527-01133,V-021,2026-05-27,Lunch,G-102176,Platinum,4,,Wine pairing,Confirmed
+R-20260524-01134,V-021,2026-05-24,Lunch,G-100809,Platinum,5,,,Confirmed
+R-20260527-01135,V-021,2026-05-27,Late night,G-101755,Standard,5,,,Waitlist
+R-20260521-01136,V-021,2026-05-21,Late night,G-104860,Standard,2,,Allergy: shellfish,Waitlist
+R-20260511-01137,V-021,2026-05-11,Lunch,G-103795,Platinum,8,,,Confirmed
+R-20260528-01138,V-021,2026-05-28,Late night,G-101069,Standard,11,,Quiet table,Confirmed
+R-20260515-01139,V-021,2026-05-15,Dinner,G-100039,Gold,6,,,Confirmed
+R-20260515-01140,V-021,2026-05-15,Lunch,G-101977,Standard,5,,,Deposit paid
+R-20260520-01141,V-021,2026-05-20,Late night,G-104322,Standard,2,,Birthday cake,Waitlist
+R-20260508-01142,V-021,2026-05-08,Dinner,G-103752,Gold,4,,Window seat,Confirmed
+R-20260506-01143,V-021,2026-05-06,Dinner,G-100864,Standard,4,,Birthday cake,Confirmed
+R-20260521-01144,V-021,2026-05-21,Lunch,G-100178,Standard,8,,Quiet table,Deposit paid
+R-20260504-01145,V-021,2026-05-04,Dinner,G-104757,Gold,7,,Allergy: shellfish,Confirmed
+R-20260529-01146,V-021,2026-05-29,Late night,G-102425,Standard,8,,Window seat,Deposit paid
+R-20260510-01147,V-021,2026-05-10,Lunch,G-102188,Standard,3,,Allergy: shellfish,Confirmed
+R-20260502-01148,V-021,2026-05-02,Dinner,G-101828,Standard,3,,Birthday cake,Waitlist
+R-20260530-01149,V-021,2026-05-30,Dinner,G-101416,Standard,5,,Birthday cake,Confirmed
+R-20260512-01150,V-021,2026-05-12,Late night,G-104861,Standard,8,,Allergy: shellfish,Deposit paid
+R-20260523-01151,V-021,2026-05-23,Dinner,G-104909,Standard,8,,,Confirmed
+R-20260503-01152,V-021,2026-05-03,Late night,G-102849,Diamond,4,,,Confirmed
+R-20260517-01153,V-021,2026-05-17,Late night,G-100071,Standard,4,,Wine pairing,Confirmed
+R-20260525-01154,V-021,2026-05-25,Lunch,G-102018,Standard,8,,Allergy: shellfish,Confirmed
+R-20260531-01155,V-021,2026-05-31,Late night,G-102390,Standard,9,,Wine pairing,Confirmed
+R-20260509-01156,V-021,2026-05-09,Dinner,G-104201,Standard,10,,,Waitlist
+R-20260518-01157,V-021,2026-05-18,Dinner,G-104287,Standard,5,,Wine pairing,Confirmed
+R-20260511-01158,V-021,2026-05-11,Late night,G-104667,Gold,4,,Wine pairing,Confirmed
+R-20260513-01159,V-021,2026-05-13,Lunch,G-100009,Standard,2,,Window seat,Deposit paid
+R-20260502-01160,V-021,2026-05-02,Lunch,G-102805,Standard,7,,Wine pairing,Confirmed
+R-20260520-01161,V-021,2026-05-20,Lunch,G-104719,Standard,7,,Allergy: shellfish,Confirmed
+R-20260509-01162,V-021,2026-05-09,Dinner,G-101134,Standard,7,,Allergy: shellfish,Confirmed
+R-20260508-01163,V-021,2026-05-08,Late night,G-104784,Standard,3,,Birthday cake,Confirmed
+R-20260508-01164,V-021,2026-05-08,Lunch,G-100687,Platinum,5,,,Confirmed
+R-20260506-01165,V-021,2026-05-06,Lunch,G-104187,Standard,6,,,Confirmed
+R-20260504-01166,V-021,2026-05-04,Dinner,G-102765,Gold,8,,,Confirmed
+R-20260504-01167,V-021,2026-05-04,Lunch,G-101024,Diamond,6,,Birthday cake,Confirmed
+R-20260506-01168,V-021,2026-05-06,Lunch,G-102717,Gold,3,,Birthday cake,Waitlist
+R-20260515-01169,V-021,2026-05-15,Lunch,G-104414,Standard,4,,Quiet table,Confirmed
+R-20260508-01170,V-021,2026-05-08,Late night,G-101784,Standard,4,,,Confirmed
+R-20260526-01171,V-021,2026-05-26,Dinner,G-103859,Gold,8,,Allergy: shellfish,Deposit paid
+R-20260505-01172,V-021,2026-05-05,Dinner,G-104242,Gold,10,,,Confirmed
+R-20260520-01173,V-021,2026-05-20,Dinner,G-104855,Standard,6,,,Confirmed
+R-20260525-01174,V-021,2026-05-25,Late night,G-104273,Standard,3,,Window seat,Waitlist
+R-20260506-01175,V-022,2026-05-06,Late night,G-101913,Standard,3,,,Confirmed
+R-20260507-01176,V-022,2026-05-07,Dinner,G-102581,Standard,6,,Allergy: shellfish,Confirmed
+R-20260509-01177,V-022,2026-05-09,Lunch,G-104819,Diamond,9,,,Confirmed
+R-20260509-01178,V-022,2026-05-09,Late night,G-100080,Standard,8,,,Confirmed
+R-20260503-01179,V-022,2026-05-03,Lunch,G-103962,Platinum,4,,,Waitlist
+R-20260509-01180,V-022,2026-05-09,Dinner,G-102140,Gold,3,,,Confirmed
+R-20260521-01181,V-022,2026-05-21,Late night,G-102748,Standard,10,,,Confirmed
+R-20260521-01182,V-022,2026-05-21,Dinner,G-103011,Platinum,7,Birthday,Window seat,Confirmed
+R-20260515-01183,V-022,2026-05-15,Late night,G-100474,Diamond,6,,,Confirmed
+R-20260518-01184,V-022,2026-05-18,Lunch,G-103500,Standard,2,,Birthday cake,Confirmed
+R-20260503-01185,V-022,2026-05-03,Late night,G-101868,Gold,8,,Quiet table,Confirmed
+R-20260518-01186,V-022,2026-05-18,Lunch,G-100699,Standard,7,,Window seat,Deposit paid
+R-20260527-01187,V-022,2026-05-27,Lunch,G-100899,Standard,6,,Quiet table,Confirmed
+R-20260502-01188,V-022,2026-05-02,Late night,G-104445,Standard,6,,Birthday cake,Waitlist
+R-20260514-01189,V-022,2026-05-14,Late night,G-100397,Platinum,7,,,Confirmed
+R-20260504-01190,V-022,2026-05-04,Late night,G-103793,Standard,2,,Wine pairing,Confirmed
+R-20260504-01191,V-022,2026-05-04,Late night,G-104369,Standard,7,,Birthday cake,Confirmed
+R-20260503-01192,V-022,2026-05-03,Lunch,G-102428,Diamond,4,,Window seat,Waitlist
+R-20260529-01193,V-022,2026-05-29,Late night,G-104685,Gold,5,,,Waitlist
+R-20260511-01194,V-022,2026-05-11,Dinner,G-100881,Standard,4,,Window seat,Confirmed
+R-20260517-01195,V-022,2026-05-17,Lunch,G-104903,Platinum,10,,,Confirmed
+R-20260528-01196,V-022,2026-05-28,Lunch,G-104819,Diamond,10,,,Confirmed
+R-20260515-01197,V-022,2026-05-15,Dinner,G-104657,Standard,2,,Window seat,Confirmed
+R-20260509-01198,V-022,2026-05-09,Lunch,G-103883,Gold,5,,Birthday cake,Deposit paid
+R-20260520-01199,V-022,2026-05-20,Lunch,G-101262,Standard,2,,,Waitlist
+R-20260528-01200,V-022,2026-05-28,Lunch,G-103018,Standard,4,,,Confirmed
+R-20260530-01201,V-022,2026-05-30,Lunch,G-104093,Gold,3,,Allergy: shellfish,Confirmed
+R-20260528-01202,V-022,2026-05-28,Lunch,G-102932,Standard,4,,Window seat,Confirmed
+R-20260508-01203,V-022,2026-05-08,Dinner,G-103767,Standard,3,,,Confirmed
+R-20260528-01204,V-022,2026-05-28,Lunch,G-103390,Gold,4,,,Deposit paid
+R-20260520-01205,V-022,2026-05-20,Dinner,G-104942,Gold,2,,Window seat,Waitlist
+R-20260516-01206,V-022,2026-05-16,Dinner,G-104367,Platinum,5,,Birthday cake,Confirmed
+R-20260530-01207,V-022,2026-05-30,Lunch,G-102323,Standard,11,,,Deposit paid
+R-20260515-01208,V-022,2026-05-15,Lunch,G-103479,Platinum,9,,Window seat,Deposit paid
+R-20260530-01209,V-022,2026-05-30,Lunch,G-100248,Gold,7,,Wine pairing,Confirmed
+R-20260523-01210,V-022,2026-05-23,Dinner,G-103818,Standard,4,,Birthday cake,Deposit paid
+R-20260502-01211,V-022,2026-05-02,Late night,G-100497,Standard,6,,,Deposit paid
+R-20260509-01212,V-022,2026-05-09,Lunch,G-102368,Platinum,5,,Wine pairing,Deposit paid
+R-20260502-01213,V-022,2026-05-02,Late night,G-101678,Standard,4,,Quiet table,Confirmed
+R-20260528-01214,V-022,2026-05-28,Lunch,G-104562,Standard,5,,,Deposit paid
+R-20260508-01215,V-022,2026-05-08,Lunch,G-104713,Standard,9,,Window seat,Deposit paid
+R-20260504-01216,V-022,2026-05-04,Lunch,G-100323,Standard,11,,,Confirmed
+R-20260528-01217,V-022,2026-05-28,Lunch,G-100278,Standard,6,,Wine pairing,Confirmed
+R-20260531-01218,V-022,2026-05-31,Dinner,G-101724,Gold,7,,Quiet table,Confirmed
+R-20260527-01219,V-022,2026-05-27,Lunch,G-101956,Standard,5,Anniversary,,Confirmed
+R-20260504-01220,V-023,2026-05-04,Lunch,G-102802,Gold,4,,Allergy: shellfish,Confirmed
+R-20260521-01221,V-023,2026-05-21,Dinner,G-104400,Standard,9,,Window seat,Confirmed
+R-20260502-01222,V-023,2026-05-02,Dinner,G-103887,Standard,4,,,Confirmed
+R-20260525-01223,V-023,2026-05-25,Lunch,G-100946,Standard,5,,Quiet table,Waitlist
+R-20260520-01224,V-023,2026-05-20,Dinner,G-103587,Standard,6,,Wine pairing,Confirmed
+R-20260527-01225,V-023,2026-05-27,Lunch,G-103094,Standard,6,,Quiet table,Confirmed
+R-20260502-01226,V-023,2026-05-02,Late night,G-100972,Standard,5,Birthday,,Confirmed
+R-20260530-01227,V-023,2026-05-30,Lunch,G-103591,Standard,7,,Wine pairing,Confirmed
+R-20260502-01228,V-023,2026-05-02,Dinner,G-102163,Platinum,7,,,Confirmed
+R-20260515-01229,V-023,2026-05-15,Dinner,G-101318,Standard,5,,Window seat,Deposit paid
+R-20260527-01230,V-023,2026-05-27,Dinner,G-100089,Gold,7,,,Confirmed
+R-20260508-01231,V-023,2026-05-08,Dinner,G-101117,Gold,6,,Wine pairing,Confirmed
+R-20260510-01232,V-023,2026-05-10,Lunch,G-100146,Platinum,6,,,Waitlist
+R-20260520-01233,V-023,2026-05-20,Late night,G-103158,Gold,8,,Wine pairing,Deposit paid
+R-20260524-01234,V-023,2026-05-24,Dinner,G-100842,Gold,2,,Allergy: shellfish,Confirmed
+R-20260518-01235,V-023,2026-05-18,Lunch,G-104903,Platinum,8,,Wine pairing,Confirmed
+R-20260520-01236,V-023,2026-05-20,Dinner,G-101301,Standard,4,,Wine pairing,Confirmed
+R-20260507-01237,V-023,2026-05-07,Lunch,G-100369,Platinum,7,,,Confirmed
+R-20260503-01238,V-023,2026-05-03,Late night,G-101782,Standard,7,,Birthday cake,Confirmed
+R-20260525-01239,V-023,2026-05-25,Late night,G-104120,Standard,3,,Window seat,Deposit paid
+R-20260515-01240,V-023,2026-05-15,Late night,G-102484,Standard,4,,Allergy: shellfish,Confirmed
+R-20260517-01241,V-023,2026-05-17,Lunch,G-104174,Standard,8,,Wine pairing,Deposit paid
+R-20260513-01242,V-023,2026-05-13,Late night,G-101556,Diamond,2,,Window seat,Deposit paid
+R-20260527-01243,V-023,2026-05-27,Dinner,G-102090,Standard,7,,Allergy: shellfish,Confirmed
+R-20260523-01244,V-023,2026-05-23,Lunch,G-102733,Standard,2,,Allergy: shellfish,Confirmed
+R-20260506-01245,V-023,2026-05-06,Dinner,G-102727,Standard,6,,,Confirmed
+R-20260529-01246,V-023,2026-05-29,Dinner,G-102194,Standard,3,,Quiet table,Confirmed
+R-20260501-01247,V-023,2026-05-01,Late night,G-104138,Standard,6,,Allergy: shellfish,Confirmed
+R-20260504-01248,V-023,2026-05-04,Dinner,G-101024,Diamond,6,,Wine pairing,Confirmed
+R-20260509-01249,V-023,2026-05-09,Late night,G-103706,Standard,3,,Allergy: shellfish,Deposit paid
+R-20260503-01250,V-023,2026-05-03,Dinner,G-101196,Standard,3,,Allergy: shellfish,Deposit paid
+R-20260503-01251,V-023,2026-05-03,Dinner,G-102032,Platinum,9,,,Confirmed
+R-20260522-01252,V-024,2026-05-22,Lunch,G-100464,Standard,10,,,Confirmed
+R-20260502-01253,V-024,2026-05-02,Lunch,G-104283,Gold,3,,,Waitlist
+R-20260510-01254,V-024,2026-05-10,Dinner,G-102610,Standard,7,,Window seat,Confirmed
+R-20260531-01255,V-024,2026-05-31,Lunch,G-101590,Standard,2,,Wine pairing,Confirmed
+R-20260526-01256,V-024,2026-05-26,Late night,G-102103,Standard,3,,Birthday cake,Confirmed
+R-20260529-01257,V-024,2026-05-29,Dinner,G-104411,Gold,6,,Window seat,Confirmed
+R-20260503-01258,V-024,2026-05-03,Lunch,G-102752,Standard,2,,Birthday cake,Deposit paid
+R-20260514-01259,V-024,2026-05-14,Lunch,G-101149,Standard,6,,,Confirmed
+R-20260525-01260,V-024,2026-05-25,Late night,G-101637,Standard,2,,,Confirmed
+R-20260524-01261,V-024,2026-05-24,Lunch,G-104131,Standard,5,,,Deposit paid
+R-20260515-01262,V-024,2026-05-15,Late night,G-104142,Standard,5,,,Confirmed
+R-20260525-01263,V-024,2026-05-25,Late night,G-104266,Standard,5,,Window seat,Confirmed
+R-20260524-01264,V-024,2026-05-24,Lunch,G-100066,Standard,3,,Window seat,Confirmed
+R-20260503-01265,V-024,2026-05-03,Dinner,G-101345,Platinum,6,,Allergy: shellfish,Confirmed
+R-20260521-01266,V-024,2026-05-21,Late night,G-103174,Platinum,5,Birthday,Birthday cake,Confirmed
+R-20260511-01267,V-024,2026-05-11,Late night,G-101640,Gold,5,,Birthday cake,Confirmed
+R-20260518-01268,V-024,2026-05-18,Lunch,G-100681,Platinum,6,,,Confirmed
+R-20260525-01269,V-024,2026-05-25,Dinner,G-103818,Standard,4,,Window seat,Confirmed
+R-20260529-01270,V-024,2026-05-29,Dinner,G-104933,Standard,4,,,Waitlist
+R-20260528-01271,V-024,2026-05-28,Dinner,G-101767,Diamond,4,,,Confirmed
+R-20260522-01272,V-024,2026-05-22,Late night,G-100469,Standard,3,,Birthday cake,Confirmed
+R-20260509-01273,V-024,2026-05-09,Late night,G-100107,Platinum,10,,,Confirmed
+R-20260531-01274,V-024,2026-05-31,Late night,G-104276,Standard,2,,,Deposit paid
+R-20260501-01275,V-024,2026-05-01,Late night,G-104180,Platinum,6,,Window seat,Waitlist
+R-20260518-01276,V-024,2026-05-18,Lunch,G-104265,Gold,5,,Birthday cake,Confirmed
+R-20260520-01277,V-024,2026-05-20,Dinner,G-104363,Standard,3,,,Confirmed
+R-20260524-01278,V-024,2026-05-24,Lunch,G-102593,Gold,3,,,Deposit paid
+R-20260505-01279,V-024,2026-05-05,Late night,G-101431,Gold,4,,Quiet table,Confirmed
+R-20260530-01280,V-024,2026-05-30,Dinner,G-101044,Platinum,3,,,Confirmed
+R-20260514-01281,V-024,2026-05-14,Late night,G-100744,Standard,5,,Wine pairing,Confirmed
+R-20260512-01282,V-024,2026-05-12,Lunch,G-101791,Standard,8,,Wine pairing,Confirmed
+R-20260529-01283,V-024,2026-05-29,Late night,G-104487,Standard,5,,Quiet table,Confirmed
+R-20260529-01284,V-024,2026-05-29,Dinner,G-103022,Gold,4,,,Deposit paid
+R-20260519-01285,V-024,2026-05-19,Dinner,G-102919,Standard,11,Birthday,Window seat,Confirmed
+R-20260503-01286,V-024,2026-05-03,Lunch,G-100322,Standard,10,,,Confirmed
+R-20260502-01287,V-024,2026-05-02,Lunch,G-103619,Gold,5,,,Confirmed
+R-20260501-01288,V-024,2026-05-01,Late night,G-101793,Platinum,3,,,Deposit paid
+R-20260516-01289,V-024,2026-05-16,Lunch,G-102478,Standard,4,,Wine pairing,Confirmed
+R-20260519-01290,V-024,2026-05-19,Lunch,G-104657,Standard,3,,Allergy: shellfish,Confirmed
+R-20260529-01291,V-024,2026-05-29,Late night,G-100787,Gold,8,,Birthday cake,Confirmed
+R-20260508-01292,V-024,2026-05-08,Dinner,G-100931,Gold,6,,,Confirmed
+R-20260521-01293,V-024,2026-05-21,Lunch,G-103986,Standard,8,,Allergy: shellfish,Waitlist
+R-20260518-01294,V-024,2026-05-18,Lunch,G-101906,Standard,8,,Birthday cake,Confirmed
+R-20260527-01295,V-024,2026-05-27,Dinner,G-101391,Platinum,4,,,Confirmed
+R-20260524-01296,V-024,2026-05-24,Dinner,G-104945,Standard,2,,Window seat,Confirmed
+R-20260517-01297,V-024,2026-05-17,Dinner,G-100976,Standard,7,,Wine pairing,Deposit paid
+R-20260501-01298,V-024,2026-05-01,Dinner,G-100991,Diamond,4,,Window seat,Confirmed
+R-20260507-01299,V-024,2026-05-07,Late night,G-103792,Platinum,5,,,Confirmed
+R-20260512-01300,V-024,2026-05-12,Late night,G-101793,Platinum,7,,Quiet table,Confirmed
+R-20260530-01301,V-024,2026-05-30,Dinner,G-103059,Standard,5,,,Deposit paid
+R-20260507-01302,V-024,2026-05-07,Lunch,G-101653,Standard,7,,,Confirmed
+R-20260529-01303,V-024,2026-05-29,Lunch,G-100585,Standard,9,,Wine pairing,Deposit paid
+R-20260503-01304,V-024,2026-05-03,Lunch,G-104050,Standard,7,,Window seat,Deposit paid
+R-20260519-01305,V-024,2026-05-19,Late night,G-103973,Gold,5,,,Deposit paid
+R-20260510-01306,V-024,2026-05-10,Dinner,G-102965,Standard,6,,,Confirmed
+R-20260523-01307,V-025,2026-05-23,Dinner,G-103081,Diamond,5,,Birthday cake,Waitlist
+R-20260530-01308,V-025,2026-05-30,Lunch,G-100309,Gold,10,,Birthday cake,Confirmed
+R-20260504-01309,V-025,2026-05-04,Lunch,G-104414,Standard,3,,Quiet table,Confirmed
+R-20260526-01310,V-025,2026-05-26,Dinner,G-103750,Platinum,5,,,Confirmed
+R-20260525-01311,V-025,2026-05-25,Dinner,G-101418,Standard,8,,Birthday cake,Deposit paid
+R-20260512-01312,V-025,2026-05-12,Dinner,G-102163,Platinum,4,,Quiet table,Waitlist
+R-20260513-01313,V-025,2026-05-13,Dinner,G-100475,Standard,9,,,Confirmed
+R-20260517-01314,V-025,2026-05-17,Late night,G-100132,Standard,6,,Allergy: shellfish,Confirmed
+R-20260515-01315,V-025,2026-05-15,Dinner,G-103608,Standard,10,,,Waitlist
+R-20260505-01316,V-025,2026-05-05,Dinner,G-100098,Standard,4,,,Confirmed
+R-20260523-01317,V-025,2026-05-23,Late night,G-104056,Standard,3,,,Confirmed
+R-20260519-01318,V-025,2026-05-19,Dinner,G-100077,Standard,9,,,Confirmed
+R-20260503-01319,V-025,2026-05-03,Dinner,G-100358,Standard,8,,,Deposit paid
+R-20260509-01320,V-025,2026-05-09,Late night,G-104978,Standard,5,,,Confirmed
+R-20260509-01321,V-025,2026-05-09,Lunch,G-104600,Gold,4,,Allergy: shellfish,Confirmed
+R-20260509-01322,V-025,2026-05-09,Lunch,G-100290,Standard,5,,,Deposit paid
+R-20260511-01323,V-025,2026-05-11,Dinner,G-103205,Standard,4,,,Deposit paid
+R-20260503-01324,V-025,2026-05-03,Late night,G-104244,Gold,6,,,Confirmed
+R-20260513-01325,V-025,2026-05-13,Late night,G-103008,Gold,8,Birthday,,Confirmed
+R-20260501-01326,V-025,2026-05-01,Late night,G-103507,Platinum,3,,,Deposit paid
+R-20260528-01327,V-025,2026-05-28,Late night,G-104378,Platinum,5,Birthday,Window seat,Confirmed
+R-20260518-01328,V-025,2026-05-18,Dinner,G-102049,Gold,5,,,Waitlist
+R-20260511-01329,V-025,2026-05-11,Dinner,G-102899,Gold,9,Anniversary,,Confirmed
+R-20260510-01330,V-025,2026-05-10,Dinner,G-101157,Standard,3,,Window seat,Confirmed
+R-20260508-01331,V-025,2026-05-08,Lunch,G-103411,Standard,5,,Wine pairing,Confirmed
+R-20260531-01332,V-025,2026-05-31,Lunch,G-100020,Platinum,5,,Birthday cake,Confirmed
+R-20260503-01333,V-025,2026-05-03,Lunch,G-102356,Standard,8,,,Confirmed
+R-20260526-01334,V-025,2026-05-26,Dinner,G-103723,Platinum,9,,Wine pairing,Confirmed
+R-20260513-01335,V-025,2026-05-13,Lunch,G-101234,Gold,5,,,Confirmed
+R-20260518-01336,V-025,2026-05-18,Late night,G-104184,Standard,2,,,Deposit paid
+R-20260512-01337,V-025,2026-05-12,Dinner,G-102958,Platinum,6,,Wine pairing,Confirmed
+R-20260526-01338,V-025,2026-05-26,Dinner,G-104540,Standard,8,,Birthday cake,Confirmed
+R-20260531-01339,V-025,2026-05-31,Dinner,G-100006,Standard,5,Birthday,Quiet table,Confirmed
+R-20260502-01340,V-025,2026-05-02,Lunch,G-104084,Standard,5,Birthday,,Confirmed
+R-20260506-01341,V-026,2026-05-06,Lunch,G-103626,Platinum,7,,Quiet table,Confirmed
+R-20260513-01342,V-026,2026-05-13,Lunch,G-102023,Standard,4,,Birthday cake,Deposit paid
+R-20260528-01343,V-026,2026-05-28,Dinner,G-102677,Standard,11,,Allergy: shellfish,Confirmed
+R-20260522-01344,V-026,2026-05-22,Dinner,G-102266,Standard,4,,Window seat,Confirmed
+R-20260502-01345,V-026,2026-05-02,Late night,G-100119,Standard,3,,Wine pairing,Confirmed
+R-20260519-01346,V-026,2026-05-19,Late night,G-102152,Gold,10,,Quiet table,Confirmed
+R-20260528-01347,V-026,2026-05-28,Lunch,G-102681,Platinum,7,,,Confirmed
+R-20260522-01348,V-026,2026-05-22,Dinner,G-100448,Gold,8,Birthday,,Deposit paid
+R-20260525-01349,V-026,2026-05-25,Late night,G-104087,Standard,8,,,Confirmed
+R-20260510-01350,V-026,2026-05-10,Lunch,G-103833,Platinum,5,,Window seat,Confirmed
+R-20260512-01351,V-026,2026-05-12,Late night,G-102283,Standard,3,,Wine pairing,Confirmed
+R-20260519-01352,V-026,2026-05-19,Late night,G-103472,Standard,7,,Wine pairing,Deposit paid
+R-20260530-01353,V-026,2026-05-30,Lunch,G-101268,Diamond,4,,Wine pairing,Confirmed
+R-20260519-01354,V-026,2026-05-19,Lunch,G-103170,Standard,7,,Window seat,Confirmed
+R-20260501-01355,V-026,2026-05-01,Late night,G-100497,Standard,5,,Birthday cake,Deposit paid
+R-20260505-01356,V-026,2026-05-05,Lunch,G-104334,Gold,3,,,Confirmed
+R-20260513-01357,V-026,2026-05-13,Dinner,G-104932,Standard,8,,Allergy: shellfish,Waitlist
+R-20260509-01358,V-026,2026-05-09,Late night,G-102446,Standard,4,,,Confirmed
+R-20260506-01359,V-026,2026-05-06,Lunch,G-102198,Standard,4,,Birthday cake,Waitlist
+R-20260525-01360,V-026,2026-05-25,Lunch,G-100880,Gold,7,,Birthday cake,Confirmed
+R-20260531-01361,V-026,2026-05-31,Late night,G-101735,Standard,5,,Wine pairing,Deposit paid
+R-20260514-01362,V-026,2026-05-14,Late night,G-101504,Platinum,11,,,Waitlist
+R-20260507-01363,V-026,2026-05-07,Dinner,G-101762,Standard,3,,,Confirmed
+R-20260528-01364,V-026,2026-05-28,Late night,G-104045,Standard,6,,Window seat,Confirmed
+R-20260529-01365,V-026,2026-05-29,Dinner,G-103759,Standard,6,,Birthday cake,Deposit paid
+R-20260518-01366,V-026,2026-05-18,Late night,G-102881,Diamond,6,,,Waitlist
+R-20260531-01367,V-026,2026-05-31,Late night,G-100982,Gold,9,,,Confirmed
+R-20260526-01368,V-026,2026-05-26,Late night,G-102566,Gold,6,,Birthday cake,Confirmed
+R-20260527-01369,V-026,2026-05-27,Dinner,G-103191,Gold,3,,,Confirmed
+R-20260502-01370,V-027,2026-05-02,Dinner,G-103300,Platinum,6,,Wine pairing,Confirmed
+R-20260514-01371,V-027,2026-05-14,Lunch,G-102964,Platinum,8,,Wine pairing,Deposit paid
+R-20260504-01372,V-027,2026-05-04,Lunch,G-100927,Standard,7,,,Confirmed
+R-20260514-01373,V-027,2026-05-14,Lunch,G-103577,Gold,8,,,Confirmed
+R-20260501-01374,V-027,2026-05-01,Dinner,G-101442,Platinum,6,,Quiet table,Confirmed
+R-20260530-01375,V-027,2026-05-30,Late night,G-102850,Gold,4,,Allergy: shellfish,Confirmed
+R-20260503-01376,V-027,2026-05-03,Lunch,G-103059,Standard,4,,Allergy: shellfish,Confirmed
+R-20260503-01377,V-027,2026-05-03,Late night,G-102514,Standard,8,,Birthday cake,Deposit paid
+R-20260522-01378,V-027,2026-05-22,Dinner,G-101088,Gold,2,,Window seat,Confirmed
+R-20260512-01379,V-027,2026-05-12,Late night,G-103704,Standard,4,,Birthday cake,Deposit paid
+R-20260504-01380,V-027,2026-05-04,Lunch,G-104759,Platinum,6,,Allergy: shellfish,Confirmed
+R-20260502-01381,V-027,2026-05-02,Late night,G-101248,Gold,11,Anniversary,,Confirmed
+R-20260502-01382,V-027,2026-05-02,Lunch,G-101322,Standard,3,,,Deposit paid
+R-20260520-01383,V-027,2026-05-20,Late night,G-100655,Standard,5,,,Confirmed
+R-20260531-01384,V-027,2026-05-31,Dinner,G-102110,Diamond,5,,Birthday cake,Confirmed
+R-20260515-01385,V-027,2026-05-15,Dinner,G-103116,Standard,5,,Birthday cake,Confirmed
+R-20260522-01386,V-027,2026-05-22,Late night,G-102784,Standard,3,,Birthday cake,Confirmed
+R-20260508-01387,V-027,2026-05-08,Lunch,G-101880,Standard,4,,Window seat,Confirmed
+R-20260514-01388,V-027,2026-05-14,Late night,G-103550,Standard,5,,Window seat,Confirmed
+R-20260507-01389,V-027,2026-05-07,Lunch,G-104461,Standard,7,,Window seat,Confirmed
+R-20260508-01390,V-027,2026-05-08,Late night,G-103989,Platinum,8,,Wine pairing,Confirmed
+R-20260509-01391,V-027,2026-05-09,Lunch,G-103404,Standard,8,,,Confirmed
+R-20260502-01392,V-027,2026-05-02,Late night,G-100492,Standard,3,,,Confirmed
+R-20260525-01393,V-027,2026-05-25,Dinner,G-101397,Platinum,6,,,Confirmed
+R-20260510-01394,V-027,2026-05-10,Lunch,G-101184,Standard,4,,Birthday cake,Confirmed
+R-20260503-01395,V-027,2026-05-03,Late night,G-100831,Standard,6,,Window seat,Confirmed
+R-20260505-01396,V-027,2026-05-05,Dinner,G-100470,Standard,7,,,Confirmed
+R-20260517-01397,V-027,2026-05-17,Dinner,G-103516,Standard,9,,Birthday cake,Confirmed
+R-20260510-01398,V-027,2026-05-10,Late night,G-100936,Standard,5,,Quiet table,Confirmed
+R-20260526-01399,V-027,2026-05-26,Lunch,G-100466,Standard,2,,,Confirmed
+R-20260516-01400,V-027,2026-05-16,Lunch,G-101071,Standard,5,,Quiet table,Confirmed
+R-20260504-01401,V-027,2026-05-04,Late night,G-102063,Diamond,4,,Allergy: shellfish,Deposit paid
+R-20260524-01402,V-027,2026-05-24,Dinner,G-100989,Standard,8,,,Deposit paid
+R-20260518-01403,V-027,2026-05-18,Lunch,G-104043,Standard,7,,Wine pairing,Confirmed
+R-20260502-01404,V-027,2026-05-02,Lunch,G-102067,Standard,10,,Wine pairing,Confirmed
+R-20260514-01405,V-027,2026-05-14,Lunch,G-102114,Standard,4,,,Confirmed
+R-20260506-01406,V-027,2026-05-06,Late night,G-103365,Standard,5,,Quiet table,Deposit paid
+R-20260509-01407,V-027,2026-05-09,Dinner,G-100746,Standard,8,,Window seat,Confirmed
+R-20260529-01408,V-027,2026-05-29,Lunch,G-102539,Platinum,5,,Allergy: shellfish,Deposit paid
+R-20260520-01409,V-027,2026-05-20,Late night,G-103335,Gold,4,,,Confirmed
+R-20260510-01410,V-027,2026-05-10,Dinner,G-104919,Standard,5,,,Confirmed
+R-20260518-01411,V-027,2026-05-18,Dinner,G-104965,Standard,5,,,Confirmed
+R-20260524-01412,V-027,2026-05-24,Late night,G-102824,Standard,6,,Birthday cake,Confirmed
+R-20260512-01413,V-027,2026-05-12,Late night,G-103217,Gold,5,,Birthday cake,Confirmed
+R-20260525-01414,V-027,2026-05-25,Dinner,G-101483,Gold,4,,Birthday cake,Confirmed
+R-20260516-01415,V-027,2026-05-16,Dinner,G-103008,Gold,2,,,Confirmed
+R-20260513-01416,V-028,2026-05-13,Lunch,G-102900,Standard,4,,,Confirmed
+R-20260516-01417,V-028,2026-05-16,Dinner,G-100709,Platinum,5,,,Confirmed
+R-20260518-01418,V-028,2026-05-18,Lunch,G-104288,Gold,8,Birthday,,Deposit paid
+R-20260522-01419,V-028,2026-05-22,Late night,G-104381,Gold,3,,Quiet table,Confirmed
+R-20260504-01420,V-028,2026-05-04,Dinner,G-103714,Standard,5,,,Confirmed
+R-20260502-01421,V-028,2026-05-02,Dinner,G-104060,Gold,7,,Allergy: shellfish,Confirmed
+R-20260501-01422,V-028,2026-05-01,Late night,G-105000,Gold,4,,,Confirmed
+R-20260508-01423,V-028,2026-05-08,Late night,G-101171,Gold,4,,Birthday cake,Deposit paid
+R-20260523-01424,V-028,2026-05-23,Lunch,G-101074,Standard,4,Birthday,Allergy: shellfish,Confirmed
+R-20260506-01425,V-028,2026-05-06,Dinner,G-103635,Gold,2,,Quiet table,Confirmed
+R-20260510-01426,V-028,2026-05-10,Late night,G-101117,Gold,4,,Birthday cake,Confirmed
+R-20260524-01427,V-028,2026-05-24,Lunch,G-102913,Standard,4,,Window seat,Confirmed
+R-20260531-01428,V-028,2026-05-31,Late night,G-100918,Platinum,7,,,Confirmed
+R-20260516-01429,V-028,2026-05-16,Lunch,G-100504,Standard,4,,Quiet table,Confirmed
+R-20260517-01430,V-028,2026-05-17,Lunch,G-100655,Standard,4,,,Confirmed
+R-20260511-01431,V-028,2026-05-11,Late night,G-101744,Standard,6,,Allergy: shellfish,Confirmed
+R-20260530-01432,V-028,2026-05-30,Lunch,G-101285,Diamond,5,,Allergy: shellfish,Confirmed
+R-20260524-01433,V-028,2026-05-24,Late night,G-104620,Standard,3,,,Deposit paid
+R-20260520-01434,V-028,2026-05-20,Dinner,G-104227,Gold,5,,Birthday cake,Waitlist
+R-20260527-01435,V-028,2026-05-27,Late night,G-102619,Standard,8,,,Confirmed
+R-20260525-01436,V-028,2026-05-25,Late night,G-100954,Standard,7,,,Confirmed
+R-20260508-01437,V-028,2026-05-08,Lunch,G-100537,Standard,9,,Allergy: shellfish,Confirmed
+R-20260515-01438,V-028,2026-05-15,Late night,G-102567,Standard,3,,Allergy: shellfish,Confirmed
+R-20260513-01439,V-028,2026-05-13,Dinner,G-102796,Gold,2,,,Confirmed
+R-20260524-01440,V-028,2026-05-24,Late night,G-102244,Platinum,5,,,Confirmed
+R-20260508-01441,V-028,2026-05-08,Dinner,G-102719,Platinum,3,,Quiet table,Confirmed
+R-20260530-01442,V-028,2026-05-30,Late night,G-101175,Standard,5,,,Waitlist
+R-20260523-01443,V-028,2026-05-23,Lunch,G-100210,Platinum,10,,Wine pairing,Confirmed
+R-20260519-01444,V-028,2026-05-19,Lunch,G-103934,Diamond,4,,Quiet table,Confirmed
+R-20260509-01445,V-028,2026-05-09,Late night,G-104904,Standard,5,,Quiet table,Confirmed
+R-20260526-01446,V-028,2026-05-26,Lunch,G-104921,Standard,9,,,Confirmed
+R-20260531-01447,V-028,2026-05-31,Lunch,G-102902,Standard,4,Birthday,,Waitlist
+R-20260526-01448,V-028,2026-05-26,Dinner,G-102331,Gold,9,,,Confirmed
+R-20260505-01449,V-028,2026-05-05,Lunch,G-101942,Platinum,10,,Window seat,Confirmed
+R-20260519-01450,V-028,2026-05-19,Late night,G-101204,Standard,6,,Wine pairing,Deposit paid
+R-20260506-01451,V-028,2026-05-06,Late night,G-101075,Gold,5,,,Confirmed
+R-20260515-01452,V-028,2026-05-15,Late night,G-100836,Standard,7,,Allergy: shellfish,Waitlist
+R-20260528-01453,V-028,2026-05-28,Dinner,G-101515,Standard,4,,,Confirmed
+R-20260511-01454,V-028,2026-05-11,Dinner,G-104431,Diamond,8,,,Confirmed
+R-20260517-01455,V-028,2026-05-17,Lunch,G-104020,Platinum,2,,Quiet table,Confirmed
+R-20260519-01456,V-028,2026-05-19,Late night,G-104938,Standard,2,,Wine pairing,Confirmed
+R-20260520-01457,V-028,2026-05-20,Lunch,G-100763,Standard,4,,Birthday cake,Confirmed
+R-20260522-01458,V-028,2026-05-22,Late night,G-103981,Standard,3,,Allergy: shellfish,Waitlist
+R-20260522-01459,V-028,2026-05-22,Dinner,G-100569,Platinum,5,,Quiet table,Confirmed
+R-20260507-01460,V-028,2026-05-07,Late night,G-104496,Diamond,4,,Window seat,Confirmed
+R-20260509-01461,V-028,2026-05-09,Dinner,G-103356,Standard,4,,,Confirmed
+R-20260506-01462,V-028,2026-05-06,Late night,G-104117,Platinum,7,,,Confirmed
+R-20260524-01463,V-028,2026-05-24,Late night,G-100748,Standard,9,,Wine pairing,Deposit paid
+R-20260513-01464,V-028,2026-05-13,Dinner,G-100785,Standard,8,,Quiet table,Confirmed
+R-20260509-01465,V-028,2026-05-09,Dinner,G-102555,Gold,4,,Allergy: shellfish,Deposit paid
+R-20260502-01466,V-028,2026-05-02,Late night,G-104643,Standard,2,,,Confirmed
+R-20260501-01467,V-028,2026-05-01,Late night,G-102921,Standard,3,,Window seat,Waitlist
+R-20260530-01468,V-028,2026-05-30,Dinner,G-102924,Standard,2,,Allergy: shellfish,Confirmed
+R-20260510-01469,V-028,2026-05-10,Lunch,G-101498,Standard,8,,Quiet table,Deposit paid
+R-20260528-01470,V-028,2026-05-28,Lunch,G-101010,Standard,5,,Birthday cake,Confirmed
+R-20260503-01471,V-029,2026-05-03,Dinner,G-102507,Gold,11,,Quiet table,Confirmed
+R-20260507-01472,V-029,2026-05-07,Late night,G-100286,Standard,4,,,Confirmed
+R-20260504-01473,V-029,2026-05-04,Late night,G-102133,Standard,3,,,Deposit paid
+R-20260504-01474,V-029,2026-05-04,Lunch,G-101640,Gold,5,,Allergy: shellfish,Deposit paid
+R-20260526-01475,V-029,2026-05-26,Dinner,G-100259,Standard,4,,,Waitlist
+R-20260520-01476,V-029,2026-05-20,Dinner,G-101176,Platinum,6,,,Confirmed
+R-20260518-01477,V-029,2026-05-18,Lunch,G-100426,Standard,2,,Window seat,Confirmed
+R-20260501-01478,V-029,2026-05-01,Dinner,G-104592,Standard,6,Birthday,Window seat,Deposit paid
+R-20260521-01479,V-029,2026-05-21,Dinner,G-100661,Standard,6,,Window seat,Confirmed
+R-20260515-01480,V-029,2026-05-15,Dinner,G-102553,Diamond,10,,,Confirmed
+R-20260522-01481,V-029,2026-05-22,Lunch,G-102231,Standard,5,,Wine pairing,Confirmed
+R-20260518-01482,V-029,2026-05-18,Lunch,G-104825,Gold,7,,,Confirmed
+R-20260512-01483,V-029,2026-05-12,Late night,G-103317,Platinum,9,,Window seat,Confirmed
+R-20260522-01484,V-029,2026-05-22,Late night,G-102027,Standard,7,Birthday,Allergy: shellfish,Confirmed
+R-20260516-01485,V-029,2026-05-16,Dinner,G-100642,Standard,6,,Allergy: shellfish,Confirmed
+R-20260511-01486,V-029,2026-05-11,Late night,G-102820,Standard,3,,,Confirmed
+R-20260515-01487,V-029,2026-05-15,Dinner,G-100045,Platinum,9,,Window seat,Confirmed
+R-20260528-01488,V-029,2026-05-28,Lunch,G-104433,Gold,4,,Wine pairing,Confirmed
+R-20260509-01489,V-029,2026-05-09,Lunch,G-104021,Standard,11,,Quiet table,Confirmed
+R-20260514-01490,V-029,2026-05-14,Lunch,G-103393,Standard,6,,Window seat,Confirmed
+R-20260519-01491,V-029,2026-05-19,Late night,G-104933,Standard,5,,Wine pairing,Deposit paid
+R-20260514-01492,V-029,2026-05-14,Late night,G-101375,Standard,4,Birthday,Birthday cake,Confirmed
+R-20260501-01493,V-029,2026-05-01,Lunch,G-103230,Standard,4,,Window seat,Waitlist
+R-20260521-01494,V-029,2026-05-21,Dinner,G-104171,Standard,2,,,Deposit paid
+R-20260520-01495,V-029,2026-05-20,Dinner,G-101620,Standard,6,,Quiet table,Confirmed
+R-20260515-01496,V-029,2026-05-15,Dinner,G-104925,Standard,6,,Allergy: shellfish,Confirmed
+R-20260508-01497,V-029,2026-05-08,Lunch,G-103115,Diamond,4,,,Confirmed
+R-20260509-01498,V-029,2026-05-09,Late night,G-103593,Standard,5,,Quiet table,Waitlist
+R-20260525-01499,V-029,2026-05-25,Dinner,G-103346,Standard,4,,,Confirmed
+R-20260529-01500,V-029,2026-05-29,Lunch,G-104544,Platinum,4,,Birthday cake,Confirmed
+R-20260503-01501,V-029,2026-05-03,Lunch,G-100032,Standard,4,,Allergy: shellfish,Confirmed
+R-20260502-01502,V-029,2026-05-02,Late night,G-103958,Gold,3,,Window seat,Confirmed
+R-20260531-01503,V-029,2026-05-31,Late night,G-104041,Gold,7,,Wine pairing,Confirmed
+R-20260531-01504,V-029,2026-05-31,Late night,G-103072,Gold,3,Birthday,Allergy: shellfish,Deposit paid
+R-20260530-01505,V-029,2026-05-30,Dinner,G-101251,Standard,4,,Birthday cake,Confirmed
+R-20260513-01506,V-029,2026-05-13,Lunch,G-102162,Standard,6,,Allergy: shellfish,Confirmed
+R-20260525-01507,V-029,2026-05-25,Late night,G-103171,Standard,3,Birthday,,Confirmed
+R-20260528-01508,V-029,2026-05-28,Late night,G-100983,Standard,10,,Quiet table,Waitlist
+R-20260508-01509,V-029,2026-05-08,Lunch,G-103114,Standard,6,,,Confirmed
+R-20260518-01510,V-029,2026-05-18,Late night,G-103927,Platinum,5,,Quiet table,Confirmed
+R-20260505-01511,V-029,2026-05-05,Lunch,G-100079,Platinum,7,,,Confirmed
+R-20260531-01512,V-029,2026-05-31,Dinner,G-104216,Standard,2,,,Confirmed
+R-20260507-01513,V-029,2026-05-07,Lunch,G-101756,Standard,3,,Birthday cake,Waitlist
+R-20260508-01514,V-029,2026-05-08,Late night,G-102310,Diamond,6,Anniversary,,Waitlist
+R-20260522-01515,V-029,2026-05-22,Late night,G-102528,Diamond,5,,,Confirmed
+R-20260520-01516,V-029,2026-05-20,Late night,G-103043,Standard,3,,,Confirmed
+R-20260509-01517,V-029,2026-05-09,Late night,G-104008,Standard,8,,Wine pairing,Confirmed
+R-20260520-01518,V-029,2026-05-20,Late night,G-103166,Standard,5,,Birthday cake,Confirmed
+R-20260511-01519,V-029,2026-05-11,Lunch,G-103940,Standard,6,,Window seat,Deposit paid
+R-20260522-01520,V-029,2026-05-22,Dinner,G-102266,Standard,3,,Birthday cake,Confirmed
+R-20260521-01521,V-029,2026-05-21,Lunch,G-102332,Platinum,3,,Window seat,Confirmed
+R-20260517-01522,V-029,2026-05-17,Late night,G-104562,Standard,5,,,Deposit paid
+R-20260516-01523,V-029,2026-05-16,Lunch,G-100038,Platinum,10,,Birthday cake,Confirmed
+R-20260509-01524,V-029,2026-05-09,Late night,G-103569,Gold,3,,Birthday cake,Confirmed
+R-20260511-01525,V-029,2026-05-11,Lunch,G-102690,Platinum,3,,,Confirmed
+R-20260528-01526,V-029,2026-05-28,Late night,G-103459,Standard,5,,Wine pairing,Waitlist
+R-20260513-01527,V-029,2026-05-13,Late night,G-102375,Standard,7,,,Confirmed
+R-20260513-01528,V-029,2026-05-13,Late night,G-100909,Standard,5,,Allergy: shellfish,Confirmed
+R-20260503-01529,V-030,2026-05-03,Lunch,G-101042,Gold,2,,Allergy: shellfish,Confirmed
+R-20260512-01530,V-030,2026-05-12,Dinner,G-104143,Diamond,4,,Quiet table,Confirmed
+R-20260530-01531,V-030,2026-05-30,Late night,G-103601,Standard,3,,Allergy: shellfish,Confirmed
+R-20260520-01532,V-030,2026-05-20,Lunch,G-103791,Gold,8,Birthday,Wine pairing,Waitlist
+R-20260519-01533,V-030,2026-05-19,Late night,G-104835,Gold,5,,Allergy: shellfish,Confirmed
+R-20260528-01534,V-030,2026-05-28,Dinner,G-102303,Standard,7,,Quiet table,Confirmed
+R-20260508-01535,V-030,2026-05-08,Dinner,G-104389,Diamond,9,Anniversary,,Deposit paid
+R-20260504-01536,V-030,2026-05-04,Dinner,G-103848,Diamond,9,,,Deposit paid
+R-20260525-01537,V-030,2026-05-25,Late night,G-104006,Platinum,9,,,Waitlist
+R-20260520-01538,V-030,2026-05-20,Lunch,G-101978,Standard,3,,,Deposit paid
+R-20260507-01539,V-030,2026-05-07,Lunch,G-100674,Standard,3,,,Confirmed
+R-20260505-01540,V-030,2026-05-05,Lunch,G-100589,Standard,5,Birthday,Birthday cake,Deposit paid
+R-20260514-01541,V-030,2026-05-14,Late night,G-104963,Standard,9,,Quiet table,Confirmed
+R-20260506-01542,V-030,2026-05-06,Late night,G-100012,Standard,3,,,Waitlist
+R-20260516-01543,V-030,2026-05-16,Dinner,G-102973,Platinum,7,,Allergy: shellfish,Deposit paid
+R-20260509-01544,V-030,2026-05-09,Lunch,G-102137,Standard,6,,,Confirmed
+R-20260505-01545,V-030,2026-05-05,Lunch,G-101488,Standard,3,,Quiet table,Confirmed
+R-20260501-01546,V-030,2026-05-01,Dinner,G-104005,Gold,4,,Allergy: shellfish,Deposit paid
+R-20260520-01547,V-030,2026-05-20,Late night,G-103788,Standard,3,,Birthday cake,Confirmed
+R-20260503-01548,V-030,2026-05-03,Dinner,G-103362,Gold,6,,Wine pairing,Confirmed
+R-20260516-01549,V-030,2026-05-16,Lunch,G-103303,Gold,6,,Birthday cake,Confirmed
+R-20260519-01550,V-030,2026-05-19,Dinner,G-103572,Diamond,2,,,Deposit paid
+R-20260522-01551,V-030,2026-05-22,Dinner,G-101352,Standard,9,,,Deposit paid
+R-20260508-01552,V-030,2026-05-08,Late night,G-100032,Standard,2,Anniversary,Window seat,Waitlist
+R-20260526-01553,V-030,2026-05-26,Late night,G-100018,Gold,9,Birthday,,Deposit paid
+R-20260517-01554,V-030,2026-05-17,Lunch,G-100521,Standard,6,,,Deposit paid
+R-20260502-01555,V-030,2026-05-02,Dinner,G-102676,Standard,2,,Window seat,Confirmed
+R-20260505-01556,V-030,2026-05-05,Lunch,G-101281,Standard,5,,,Deposit paid
+R-20260520-01557,V-030,2026-05-20,Late night,G-104855,Standard,3,,Quiet table,Confirmed
+R-20260525-01558,V-030,2026-05-25,Late night,G-104126,Gold,3,,Birthday cake,Confirmed
+R-20260522-01559,V-030,2026-05-22,Dinner,G-100304,Gold,3,,,Confirmed
+R-20260509-01560,V-030,2026-05-09,Lunch,G-101239,Standard,9,,Allergy: shellfish,Confirmed
+R-20260520-01561,V-030,2026-05-20,Lunch,G-100600,Gold,3,,Birthday cake,Confirmed
+R-20260529-01562,V-030,2026-05-29,Dinner,G-101964,Standard,4,,,Confirmed

@@ -1,0 +1,31 @@
+vendor_id,vendor_name,category,signature_flag,on_time_delivery_pct,quality_score,risk_flag
+VEN-001,Aegean Premium Seafood,Signature seafood,Yes,0.96,4.8,Low
+VEN-002,Maldivian Reef Co.,Signature seafood,Yes,0.94,4.6,Low
+VEN-003,Mediterranean Catch Ltd,Signature seafood,Yes,0.91,4.5,Medium
+VEN-004,Tokyo Wagyu Direct,Signature meat,Yes,0.88,4.7,Medium
+VEN-005,Argentina Beef Heritage,Signature meat,Yes,0.93,4.7,Low
+VEN-006,Lebanese Heritage Spices Co.,Signature spices,Yes,0.95,4.9,Low
+VEN-007,Levant Produce Specialists,Signature produce,Yes,0.92,4.6,Low
+VEN-008,Greek Island Olive Oil Co-op,Signature oils,Yes,0.94,4.8,Low
+VEN-009,Burgundy Grand Cru Imports,Signature wine,Yes,0.89,4.7,Medium
+VEN-010,Champagne Maison Direct,Signature wine,Yes,0.93,4.8,Low
+VEN-011,Japanese Sake & Whisky Imports,Signature beverage,Yes,0.9,4.6,Medium
+VEN-012,Mykonos Local Producers Co.,Signature produce,Yes,0.78,3.8,High
+VEN-013,UAE Linen Group,Commodity linen,No,0.99,4.5,Low
+VEN-014,Emirates Cleaning Services,Commodity cleaning,No,0.96,4.3,Low
+VEN-015,Global Cleaning Supplies UAE,Commodity supplies,No,0.97,4.2,Low
+VEN-016,London Linen Services,Commodity linen,No,0.98,4.4,Low
+VEN-017,European Cleaning Network,Commodity cleaning,No,0.95,4.1,Low
+VEN-018,Pan-Asia Hospitality Supplies,Commodity supplies,No,0.94,4.0,Low
+VEN-019,Gulf Beverage Distribution,Commodity beverage,No,0.97,4.3,Low
+VEN-020,Global Coffee Roasters,Commodity coffee,No,0.96,4.4,Low
+VEN-021,POS Hospitality Cloud,Tech/POS,No,0.99,4.6,Low
+VEN-022,Reservation Engine Co.,Tech/Reservations,No,0.97,4.5,Low
+VEN-023,Premium Insurance Brokers,Insurance,No,0.99,4.4,Low
+VEN-024,Energy Optimization Group,Utilities,No,0.98,4.3,Low
+VEN-025,Elastic Architects London,Signature design,Yes,0.95,4.9,Low
+VEN-026,Dior Hospitality Partnerships,Signature partnership,Yes,1.0,5.0,Low
+VEN-027,Truffle Specialists Italy,Signature produce,Yes,0.87,4.6,Medium
+VEN-028,Caviar House Direct,Signature produce,Yes,0.92,4.8,Low
+VEN-029,Specialty Tea Imports,Signature beverage,Yes,0.91,4.5,Low
+VEN-030,Bakery Artisans International,Signature bakery,Yes,0.93,4.7,Low

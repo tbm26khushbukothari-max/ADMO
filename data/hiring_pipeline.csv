@@ -1,0 +1,202 @@
+position_id,venue_id,role,seniority,criticality,open_date,days_open,status,blocks_opening
+H-2026-0001,V-006,Executive Chef,Senior,Critical,2026-01-15,124,Open,Yes
+H-2026-0002,V-002,Head Chef,Senior,High,2026-01-31,90,Open,No
+H-2026-0003,V-029,Head Sommelier,Senior,High,2026-01-17,104,Open,No
+H-2026-0004,V-029,Executive Chef,Senior,High,2026-03-21,41,Open,No
+H-2026-0005,V-022,Head Sommelier,Senior,High,2026-02-14,76,Open,No
+H-2026-0006,V-021,Events Manager,Senior,High,2026-03-29,33,Open,No
+H-2026-0007,V-022,Director of Operations,Senior,High,2026-04-25,6,Open,No
+H-2026-0008,V-028,Bar Manager,Mid,Medium,2026-02-28,62,Open,No
+H-2026-0009,V-022,Server,Junior,Low,2026-02-09,81,Open,No
+H-2026-0010,V-016,Sommelier,Mid,Medium,2025-12-06,146,Open,No
+H-2026-0011,V-028,Server,Junior,Low,2026-01-31,90,Open,No
+H-2026-0012,V-014,Sommelier,Mid,Medium,2026-03-21,41,Open,No
+H-2026-0013,V-018,Server,Junior,Low,2025-12-12,140,Open,No
+H-2026-0014,V-007,Reservations Manager,Mid,Medium,2026-04-25,6,Open,No
+H-2026-0015,V-029,Events Manager,Senior,High,2025-11-14,168,Open,No
+H-2026-0016,V-020,Events Manager,Senior,High,2026-01-31,90,Open,No
+H-2026-0017,V-018,Sommelier,Mid,Medium,2026-03-04,58,Open,No
+H-2026-0018,V-014,Sous Chef,Mid,Medium,2025-11-10,172,Open,No
+H-2026-0019,V-028,Mixologist,Mid,Low,2025-11-28,154,Open,No
+H-2026-0020,V-013,Finance Controller,Senior,High,2026-04-19,12,Open,No
+H-2026-0021,V-007,Host,Junior,Low,2026-02-16,74,Open,No
+H-2026-0022,V-030,Sous Chef,Mid,Medium,2026-04-22,9,Open,No
+H-2026-0023,V-007,Events Manager,Senior,High,2026-04-07,24,Open,No
+H-2026-0024,V-010,Marketing Manager,Mid,Medium,2026-01-01,120,Open,No
+H-2026-0025,V-013,Floor Manager,Mid,Medium,2025-12-28,124,Open,No
+H-2026-0026,V-023,Marketing Manager,Mid,Medium,2026-02-14,76,Open,No
+H-2026-0027,V-021,Pastry Chef,Mid,Medium,2026-02-13,77,Open,No
+H-2026-0028,V-019,Sous Chef,Mid,Medium,2026-03-19,43,Open,No
+H-2026-0029,V-030,Host,Junior,Low,2026-03-09,53,Open,No
+H-2026-0030,V-026,Pastry Chef,Mid,Medium,2026-03-13,49,Open,No
+H-2026-0031,V-028,Head Chef,Senior,High,2026-02-01,89,Open,No
+H-2026-0032,V-015,Bar Manager,Mid,Medium,2025-12-16,136,Open,No
+H-2026-0033,V-002,Mixologist,Mid,Low,2026-02-24,66,Open,No
+H-2026-0034,V-010,HR Manager,Mid,Medium,2026-02-03,87,Open,No
+H-2026-0035,V-030,Floor Manager,Mid,Medium,2025-11-22,160,Open,No
+H-2026-0036,V-006,Mixologist,Mid,Low,2026-01-06,115,Open,No
+H-2026-0037,V-005,Bar Manager,Mid,Medium,2026-01-01,120,Open,No
+H-2026-0038,V-029,Server,Junior,Low,2025-11-24,158,Open,No
+H-2026-0039,V-028,Head Chef,Senior,High,2026-04-02,29,Open,No
+H-2026-0040,V-030,Pastry Chef,Mid,Medium,2025-12-27,125,Open,No
+H-2026-0041,V-014,Reservations Manager,Mid,Medium,2025-11-26,156,Open,No
+H-2026-0042,V-023,Pastry Chef,Mid,Medium,2026-04-08,23,Open,No
+H-2026-0043,V-016,Head Chef,Senior,High,2026-04-14,17,Open,No
+H-2026-0044,V-013,Pastry Chef,Mid,Medium,2025-12-26,126,Open,No
+H-2026-0045,V-005,Pastry Chef,Mid,Medium,2025-11-27,155,Open,No
+H-2026-0046,V-015,Mixologist,Mid,Low,2026-03-30,32,Open,No
+H-2026-0047,V-021,Floor Manager,Mid,Medium,2026-01-01,120,Open,No
+H-2026-0048,V-026,Sommelier,Mid,Medium,2025-11-14,168,Open,No
+H-2026-0049,V-015,Bar Manager,Mid,Medium,2026-02-19,71,Open,No
+H-2026-0050,V-002,Marketing Manager,Mid,Medium,2025-11-08,174,Open,No
+H-2026-0051,V-013,Finance Controller,Senior,High,2025-12-24,128,Open,No
+H-2026-0052,V-019,Events Manager,Senior,High,2026-02-04,86,Open,No
+H-2026-0053,V-022,Restaurant Manager,Senior,High,2026-01-08,113,Open,No
+H-2026-0054,V-030,Floor Manager,Mid,Medium,2026-02-08,82,Open,No
+H-2026-0055,V-030,Finance Controller,Senior,High,2026-04-04,27,Open,No
+H-2026-0056,V-017,Pastry Chef,Mid,Medium,2026-01-16,105,Open,No
+H-2026-0057,V-026,Sommelier,Mid,Medium,2026-02-06,84,Open,No
+H-2026-0058,V-017,Sommelier,Mid,Medium,2026-01-17,104,Open,No
+H-2026-0059,V-010,Restaurant Manager,Senior,High,2026-01-18,103,Open,No
+H-2026-0060,V-005,HR Manager,Mid,Medium,2026-01-23,98,Open,No
+H-2026-0061,V-001,Host,Junior,Low,2026-02-13,77,Open,No
+H-2026-0062,V-013,Bar Manager,Mid,Medium,2025-12-14,138,Open,No
+H-2026-0063,V-016,Pastry Chef,Mid,Medium,2025-11-28,154,Open,No
+H-2026-0064,V-022,Floor Manager,Mid,Medium,2026-02-14,76,Open,No
+H-2026-0065,V-022,Sous Chef,Mid,Medium,2026-01-02,119,Open,No
+H-2026-0066,V-025,Head Chef,Senior,High,2026-03-15,47,Open,No
+H-2026-0067,V-022,Server,Junior,Low,2026-03-14,48,Open,No
+H-2026-0068,V-012,Head Chef,Senior,High,2026-01-29,92,Open,No
+H-2026-0069,V-009,Floor Manager,Mid,Medium,2026-04-17,14,Open,No
+H-2026-0070,V-008,Server,Junior,Low,2026-03-20,42,Open,No
+H-2026-0071,V-014,Marketing Manager,Mid,Medium,2026-02-06,84,Open,No
+H-2026-0072,V-022,Mixologist,Mid,Low,2025-12-22,130,Open,No
+H-2026-0073,V-002,Pastry Chef,Mid,Medium,2025-12-26,126,Open,No
+H-2026-0074,V-029,Finance Controller,Senior,High,2026-03-14,48,Open,No
+H-2026-0075,V-016,Sous Chef,Mid,Medium,2025-11-25,157,Open,No
+H-2026-0076,V-010,Events Manager,Senior,High,2026-01-04,117,Open,No
+H-2026-0077,V-023,Pastry Chef,Mid,Medium,2026-04-06,25,Open,No
+H-2026-0078,V-010,Server,Junior,Low,2025-11-06,176,Open,No
+H-2026-0079,V-025,Sommelier,Mid,Medium,2026-02-15,75,Open,No
+H-2026-0080,V-023,Director of Operations,Senior,High,2026-01-20,101,Open,No
+H-2026-0081,V-018,Director of Operations,Senior,High,2025-11-18,164,Open,No
+H-2025-0082,V-021,Finance Controller,Senior,High,2025-08-12,26,Filled,No
+H-2025-0083,V-013,Bar Manager,Mid,Medium,2025-05-29,63,Filled,No
+H-2025-0084,V-029,Restaurant Manager,Senior,High,2025-04-11,58,Filled,No
+H-2025-0085,V-016,Marketing Manager,Mid,Medium,2026-01-19,16,Filled,No
+H-2025-0086,V-017,Finance Controller,Senior,High,2025-10-06,28,Filled,No
+H-2025-0087,V-021,Server,Junior,Low,2025-07-25,62,Filled,No
+H-2025-0088,V-009,Sous Chef,Mid,Medium,2025-12-19,65,Filled,No
+H-2025-0089,V-005,Head Chef,Senior,High,2025-05-19,85,Filled,No
+H-2025-0090,V-022,Director of Operations,Senior,High,2024-12-15,33,Filled,No
+H-2025-0091,V-030,Server,Junior,Low,2025-02-03,58,Filled,No
+H-2025-0092,V-025,Finance Controller,Senior,High,2024-11-10,73,Filled,No
+H-2025-0093,V-011,Mixologist,Mid,Low,2025-06-01,33,Filled,No
+H-2025-0094,V-025,Sous Chef,Mid,Medium,2025-02-26,84,Filled,No
+H-2025-0095,V-001,HR Manager,Mid,Medium,2025-04-25,80,Filled,No
+H-2025-0096,V-006,Executive Chef,Senior,High,2025-01-11,49,Filled,No
+H-2025-0097,V-018,Server,Junior,Low,2025-05-31,48,Filled,No
+H-2025-0098,V-017,Host,Junior,Low,2024-12-18,42,Filled,No
+H-2025-0099,V-024,Head Chef,Senior,High,2025-11-26,40,Filled,No
+H-2025-0100,V-004,Sommelier,Mid,Medium,2025-10-29,88,Filled,No
+H-2025-0101,V-004,Head Sommelier,Senior,High,2026-02-23,67,Filled,No
+H-2025-0102,V-011,Head Chef,Senior,High,2025-11-03,50,Filled,No
+H-2025-0103,V-016,Server,Junior,Low,2025-08-19,38,Filled,No
+H-2025-0104,V-026,Reservations Manager,Mid,Medium,2025-01-17,72,Filled,No
+H-2025-0105,V-011,Director of Operations,Senior,High,2026-01-11,30,Filled,No
+H-2025-0106,V-018,Events Manager,Senior,High,2025-06-19,36,Filled,No
+H-2025-0107,V-004,Executive Chef,Senior,High,2024-11-11,66,Filled,No
+H-2025-0108,V-015,Mixologist,Mid,Low,2025-01-29,60,Filled,No
+H-2025-0109,V-029,Host,Junior,Low,2026-02-16,65,Filled,No
+H-2025-0110,V-008,Floor Manager,Mid,Medium,2024-12-09,72,Filled,No
+H-2025-0111,V-020,Floor Manager,Mid,Medium,2025-06-11,26,Filled,No
+H-2025-0112,V-012,Finance Controller,Senior,High,2025-01-11,30,Filled,No
+H-2025-0113,V-021,Executive Chef,Senior,High,2025-12-05,63,Filled,No
+H-2025-0114,V-029,Mixologist,Mid,Low,2025-11-25,24,Filled,No
+H-2025-0115,V-005,HR Manager,Mid,Medium,2025-01-08,65,Filled,No
+H-2025-0116,V-025,Finance Controller,Senior,High,2025-05-02,19,Filled,No
+H-2025-0117,V-018,Server,Junior,Low,2026-01-09,87,Filled,No
+H-2025-0118,V-019,Events Manager,Senior,High,2026-03-01,20,Filled,No
+H-2025-0119,V-020,Head Chef,Senior,High,2025-12-26,42,Filled,No
+H-2025-0120,V-006,Head Sommelier,Senior,High,2025-07-15,89,Filled,No
+H-2025-0121,V-023,Reservations Manager,Mid,Medium,2025-10-26,67,Filled,No
+H-2025-0122,V-009,Sommelier,Mid,Medium,2025-08-22,78,Filled,No
+H-2025-0123,V-013,Head Sommelier,Senior,High,2026-02-14,53,Filled,No
+H-2025-0124,V-024,Head Sommelier,Senior,High,2025-11-20,87,Filled,No
+H-2025-0125,V-027,Events Manager,Senior,High,2025-04-18,65,Filled,No
+H-2025-0126,V-008,Server,Junior,Low,2025-03-29,40,Filled,No
+H-2025-0127,V-013,Reservations Manager,Mid,Medium,2025-08-31,55,Filled,No
+H-2025-0128,V-017,Finance Controller,Senior,High,2025-12-15,28,Filled,No
+H-2025-0129,V-015,Head Sommelier,Senior,High,2024-12-25,81,Filled,No
+H-2025-0130,V-015,Bar Manager,Mid,Medium,2026-02-16,35,Filled,No
+H-2025-0131,V-019,Sommelier,Mid,Medium,2025-03-23,25,Filled,No
+H-2025-0132,V-016,Director of Operations,Senior,High,2025-08-26,83,Filled,No
+H-2025-0133,V-008,HR Manager,Mid,Medium,2025-01-14,27,Filled,No
+H-2025-0134,V-026,Finance Controller,Senior,High,2024-11-14,48,Filled,No
+H-2025-0135,V-013,Server,Junior,Low,2025-12-03,55,Filled,No
+H-2025-0136,V-007,Events Manager,Senior,High,2025-06-14,41,Filled,No
+H-2025-0137,V-013,Pastry Chef,Mid,Medium,2025-11-15,33,Filled,No
+H-2025-0138,V-025,Bar Manager,Mid,Medium,2025-03-10,28,Filled,No
+H-2025-0139,V-025,Restaurant Manager,Senior,High,2026-01-10,71,Filled,No
+H-2025-0140,V-019,Head Sommelier,Senior,High,2025-12-01,60,Filled,No
+H-2025-0141,V-003,Host,Junior,Low,2025-06-02,66,Filled,No
+H-2025-0142,V-017,Server,Junior,Low,2025-10-23,29,Filled,No
+H-2025-0143,V-005,Mixologist,Mid,Low,2025-12-12,49,Filled,No
+H-2025-0144,V-002,Marketing Manager,Mid,Medium,2025-12-10,67,Filled,No
+H-2025-0145,V-005,Sommelier,Mid,Medium,2024-12-02,68,Filled,No
+H-2025-0146,V-009,Sous Chef,Mid,Medium,2025-04-24,32,Filled,No
+H-2025-0147,V-024,Sommelier,Mid,Medium,2024-12-15,57,Filled,No
+H-2025-0148,V-021,Server,Junior,Low,2024-11-26,41,Filled,No
+H-2025-0149,V-005,Floor Manager,Mid,Medium,2025-05-09,41,Filled,No
+H-2025-0150,V-022,Director of Operations,Senior,High,2025-05-12,16,Filled,No
+H-2025-0151,V-026,Bar Manager,Mid,Medium,2026-01-08,53,Filled,No
+H-2025-0152,V-023,Host,Junior,Low,2025-03-23,21,Filled,No
+H-2025-0153,V-022,Finance Controller,Senior,High,2025-05-11,68,Filled,No
+H-2025-0154,V-029,Events Manager,Senior,High,2025-03-16,26,Filled,No
+H-2025-0155,V-001,Sous Chef,Mid,Medium,2024-12-30,40,Filled,No
+H-2025-0156,V-015,Finance Controller,Senior,High,2025-01-09,60,Filled,No
+H-2025-0157,V-028,Bar Manager,Mid,Medium,2025-02-27,21,Filled,No
+H-2025-0158,V-011,Marketing Manager,Mid,Medium,2026-02-06,78,Filled,No
+H-2025-0159,V-012,Finance Controller,Senior,High,2025-12-31,37,Filled,No
+H-2025-0160,V-012,HR Manager,Mid,Medium,2025-12-02,56,Filled,No
+H-2025-0161,V-028,Marketing Manager,Mid,Medium,2025-10-11,42,Filled,No
+H-2025-0162,V-008,Reservations Manager,Mid,Medium,2025-07-10,78,Filled,No
+H-2025-0163,V-007,Pastry Chef,Mid,Medium,2025-07-21,31,Filled,No
+H-2025-0164,V-010,Server,Junior,Low,2025-03-02,55,Filled,No
+H-2025-0165,V-020,Bar Manager,Mid,Medium,2026-01-15,43,Filled,No
+H-2025-0166,V-018,Restaurant Manager,Senior,High,2024-11-22,71,Filled,No
+H-2025-0167,V-011,Events Manager,Senior,High,2025-10-12,40,Filled,No
+H-2025-0168,V-008,Director of Operations,Senior,High,2025-07-21,77,Filled,No
+H-2025-0169,V-020,Pastry Chef,Mid,Medium,2024-11-30,42,Filled,No
+H-2025-0170,V-030,Events Manager,Senior,High,2025-08-03,20,Filled,No
+H-2025-0171,V-025,Events Manager,Senior,High,2026-02-02,63,Filled,No
+H-2025-0172,V-008,Pastry Chef,Mid,Medium,2024-12-10,38,Filled,No
+H-2025-0173,V-023,Events Manager,Senior,High,2025-08-31,16,Filled,No
+H-2025-0174,V-030,Finance Controller,Senior,High,2025-10-04,67,Filled,No
+H-2025-0175,V-002,Server,Junior,Low,2025-03-16,48,Filled,No
+H-2025-0176,V-010,Mixologist,Mid,Low,2025-01-01,74,Filled,No
+H-2025-0177,V-024,Mixologist,Mid,Low,2025-11-26,52,Filled,No
+H-2025-0178,V-024,Sous Chef,Mid,Medium,2026-01-25,44,Filled,No
+H-2025-0179,V-020,Floor Manager,Mid,Medium,2026-02-02,35,Filled,No
+H-2025-0180,V-023,Events Manager,Senior,High,2024-12-03,85,Filled,No
+H-2025-0181,V-022,Sous Chef,Mid,Medium,2026-01-13,77,Filled,No
+H-2025-0182,V-003,Mixologist,Mid,Low,2026-02-16,34,Filled,No
+H-2025-0183,V-025,Server,Junior,Low,2026-02-15,34,Filled,No
+H-2025-0184,V-021,Sous Chef,Mid,Medium,2025-06-04,34,Filled,No
+H-2025-0185,V-007,Bar Manager,Mid,Medium,2024-12-03,55,Filled,No
+H-2025-0186,V-014,Host,Junior,Low,2025-05-05,90,Filled,No
+H-2025-0187,V-005,Marketing Manager,Mid,Medium,2025-04-28,78,Filled,No
+H-2025-0188,V-018,Head Chef,Senior,High,2025-07-05,77,Filled,No
+H-2025-0189,V-011,Finance Controller,Senior,High,2025-10-23,47,Filled,No
+H-2025-0190,V-014,Server,Junior,Low,2025-11-29,58,Filled,No
+H-2025-0191,V-015,Mixologist,Mid,Low,2025-12-24,59,Filled,No
+H-2025-0192,V-015,Restaurant Manager,Senior,High,2025-12-09,68,Filled,No
+H-2025-0193,V-009,Floor Manager,Mid,Medium,2025-01-16,20,Filled,No
+H-2025-0194,V-017,Floor Manager,Mid,Medium,2025-04-18,70,Filled,No
+H-2025-0195,V-017,Finance Controller,Senior,High,2025-01-01,62,Filled,No
+H-2025-0196,V-001,Executive Chef,Senior,High,2025-10-20,64,Filled,No
+H-2025-0197,V-017,Host,Junior,Low,2024-11-06,16,Filled,No
+H-2025-0198,V-015,Finance Controller,Senior,High,2025-05-12,49,Filled,No
+H-2025-0199,V-027,Floor Manager,Mid,Medium,2025-05-07,53,Filled,No
+H-2025-0200,V-029,Head Chef,Senior,High,2025-03-30,65,Filled,No
+H-2025-0201,V-012,Finance Controller,Senior,High,2025-06-21,58,Filled,No

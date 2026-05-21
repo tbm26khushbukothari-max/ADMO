@@ -1,0 +1,11 @@
+exposure_id,venue_id,start_date,end_date,name,type,exposure_level,notes
+BX-001,V-001,2026-03-01,2026-05-31,Dior Dioriviera Partnership,Partnership,High,+18% revenue lift confirmed
+BX-002,V-001,2025-12-05,2025-12-08,Abu Dhabi GP Weekend,Major Event,Maximum,+45% bookings
+BX-003,V-008,2026-02-15,2026-02-22,Em Sherif Art Foundation London Opening,Brand Activation,High,PR push planned
+BX-004,V-002,2026-06-15,2026-09-15,Mykonos High Season,Seasonal,Maximum,Annual peak
+BX-005,V-006,2026-04-01,2026-04-30,Nammos Maldives Opening,Launch,Maximum,Global press coverage
+BX-006,V-003,2025-07-01,2025-08-31,Nammos Mayfair Soft Opening Run,Launch,Maximum,London press cycle
+BX-007,V-020,2025-09-01,2025-10-31,CE LA VI London Opening,Launch,High,Press preview cycle
+BX-008,V-023,2025-06-01,2025-09-30,CLAP HOUSE Ibiza Inaugural Summer,Launch,High,Ibiza season exposure
+BX-009,V-001,2026-02-17,2026-03-19,Ramadan Period,Cultural,Medium,Iftar bookings spike
+BX-010,V-027,2025-12-05,2025-12-08,F1 Yas Marina,Major Event,Maximum,+50% expected

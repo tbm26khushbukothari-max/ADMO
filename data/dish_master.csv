@@ -1,0 +1,235 @@
+dish_id,venue_id,dish_name,price_aed,food_cost_pct,margin_aed,signature_flag,category
+D-0001,V-001,Mediterranean Sea Bass Carpaccio,240,0.31,165.6,Yes,Dessert
+D-0002,V-001,Wagyu Ribeye 400g,680,0.36,435.2,Yes,Main
+D-0003,V-001,Lobster Linguine,320,0.34,211.2,Yes,Dessert
+D-0004,V-001,Greek Octopus Carbonara,220,0.3,154.0,No,Main
+D-0005,V-001,Truffle Pizza,280,0.33,187.6,No,Beverage
+D-0006,V-001,Tuna Tartare,180,0.29,127.8,Yes,Main
+D-0007,V-001,Spicy Crab Sushi,165,0.3,115.5,No,Beverage
+D-0008,V-001,Prawn Tempura,145,0.3,101.5,No,Main
+D-0009,V-001,Nammos Signature Salad,95,0.2,76.0,Yes,Dessert
+D-0010,V-001,Greek Yogurt with Honey,65,0.18,53.3,No,Starter
+D-0011,V-002,Mediterranean Sea Bass Carpaccio,240,0.31,165.6,Yes,Beverage
+D-0012,V-002,Wagyu Ribeye 400g,680,0.36,435.2,Yes,Beverage
+D-0013,V-002,Lobster Linguine,320,0.34,211.2,Yes,Beverage
+D-0014,V-002,Greek Octopus Carbonara,220,0.3,154.0,No,Dessert
+D-0015,V-002,Truffle Pizza,280,0.33,187.6,No,Main
+D-0016,V-002,Tuna Tartare,180,0.29,127.8,Yes,Starter
+D-0017,V-002,Spicy Crab Sushi,165,0.3,115.5,No,Main
+D-0018,V-002,Prawn Tempura,145,0.3,101.5,No,Beverage
+D-0019,V-002,Nammos Signature Salad,95,0.2,76.0,Yes,Main
+D-0020,V-002,Greek Yogurt with Honey,65,0.18,53.3,No,Starter
+D-0021,V-003,Mediterranean Sea Bass Carpaccio,240,0.31,165.6,Yes,Starter
+D-0022,V-003,Wagyu Ribeye 400g,680,0.36,435.2,Yes,Beverage
+D-0023,V-003,Lobster Linguine,320,0.34,211.2,Yes,Main
+D-0024,V-003,Greek Octopus Carbonara,220,0.3,154.0,No,Dessert
+D-0025,V-003,Truffle Pizza,280,0.33,187.6,No,Starter
+D-0026,V-003,Tuna Tartare,180,0.29,127.8,Yes,Main
+D-0027,V-003,Spicy Crab Sushi,165,0.3,115.5,No,Starter
+D-0028,V-003,Prawn Tempura,145,0.3,101.5,No,Dessert
+D-0029,V-003,Nammos Signature Salad,95,0.2,76.0,Yes,Dessert
+D-0030,V-003,Greek Yogurt with Honey,65,0.18,53.3,No,Dessert
+D-0031,V-004,Mediterranean Sea Bass Carpaccio,240,0.31,165.6,Yes,Main
+D-0032,V-004,Wagyu Ribeye 400g,680,0.36,435.2,Yes,Dessert
+D-0033,V-004,Lobster Linguine,320,0.34,211.2,Yes,Starter
+D-0034,V-004,Greek Octopus Carbonara,220,0.3,154.0,No,Starter
+D-0035,V-004,Truffle Pizza,280,0.33,187.6,No,Starter
+D-0036,V-004,Tuna Tartare,180,0.29,127.8,Yes,Starter
+D-0037,V-004,Spicy Crab Sushi,165,0.3,115.5,No,Starter
+D-0038,V-004,Prawn Tempura,145,0.3,101.5,No,Dessert
+D-0039,V-004,Nammos Signature Salad,95,0.2,76.0,Yes,Starter
+D-0040,V-004,Greek Yogurt with Honey,65,0.18,53.3,No,Main
+D-0041,V-005,Mediterranean Sea Bass Carpaccio,240,0.31,165.6,Yes,Main
+D-0042,V-005,Wagyu Ribeye 400g,680,0.36,435.2,Yes,Starter
+D-0043,V-005,Lobster Linguine,320,0.34,211.2,Yes,Main
+D-0044,V-005,Greek Octopus Carbonara,220,0.3,154.0,No,Dessert
+D-0045,V-005,Truffle Pizza,280,0.33,187.6,No,Beverage
+D-0046,V-005,Tuna Tartare,180,0.29,127.8,Yes,Beverage
+D-0047,V-005,Spicy Crab Sushi,165,0.3,115.5,No,Starter
+D-0048,V-005,Prawn Tempura,145,0.3,101.5,No,Beverage
+D-0049,V-005,Nammos Signature Salad,95,0.2,76.0,Yes,Dessert
+D-0050,V-005,Greek Yogurt with Honey,65,0.18,53.3,No,Beverage
+D-0051,V-006,Mediterranean Sea Bass Carpaccio,240,0.31,165.6,Yes,Beverage
+D-0052,V-006,Wagyu Ribeye 400g,680,0.36,435.2,Yes,Main
+D-0053,V-006,Lobster Linguine,320,0.34,211.2,Yes,Starter
+D-0054,V-006,Greek Octopus Carbonara,220,0.3,154.0,No,Dessert
+D-0055,V-006,Truffle Pizza,280,0.33,187.6,No,Beverage
+D-0056,V-006,Tuna Tartare,180,0.29,127.8,Yes,Dessert
+D-0057,V-006,Spicy Crab Sushi,165,0.3,115.5,No,Dessert
+D-0058,V-006,Prawn Tempura,145,0.3,101.5,No,Starter
+D-0059,V-006,Nammos Signature Salad,95,0.2,76.0,Yes,Main
+D-0060,V-006,Greek Yogurt with Honey,65,0.18,53.3,No,Dessert
+D-0061,V-007,Hummus Beiruti,45,0.2,36.0,Yes,Starter
+D-0062,V-007,Kibbeh Nayyeh,95,0.3,66.5,Yes,Dessert
+D-0063,V-007,Mixed Mezze Platter,180,0.25,135.0,Yes,Dessert
+D-0064,V-007,Charcoal Lamb Chops,240,0.34,158.4,Yes,Dessert
+D-0065,V-007,Fattoush with Aubergine,65,0.18,53.3,No,Dessert
+D-0066,V-007,Moudardara,55,0.16,46.2,No,Starter
+D-0067,V-007,Mouhallabieh,45,0.15,38.25,Yes,Starter
+D-0068,V-007,Set Menu 30 dishes,580,0.28,417.6,Yes,Dessert
+D-0069,V-007,Sea Bream Whole,280,0.32,190.4,No,Dessert
+D-0070,V-007,Manakish Wood-Fired,35,0.18,28.7,No,Starter
+D-0071,V-008,Hummus Beiruti,45,0.2,36.0,Yes,Beverage
+D-0072,V-008,Kibbeh Nayyeh,95,0.3,66.5,Yes,Starter
+D-0073,V-008,Mixed Mezze Platter,180,0.25,135.0,Yes,Beverage
+D-0074,V-008,Charcoal Lamb Chops,240,0.34,158.4,Yes,Beverage
+D-0075,V-008,Fattoush with Aubergine,65,0.18,53.3,No,Dessert
+D-0076,V-008,Moudardara,55,0.16,46.2,No,Dessert
+D-0077,V-008,Mouhallabieh,45,0.15,38.25,Yes,Main
+D-0078,V-008,Set Menu 30 dishes,580,0.28,417.6,Yes,Starter
+D-0079,V-008,Sea Bream Whole,280,0.32,190.4,No,Starter
+D-0080,V-008,Manakish Wood-Fired,35,0.18,28.7,No,Starter
+D-0081,V-009,Hummus Beiruti,45,0.2,36.0,Yes,Beverage
+D-0082,V-009,Kibbeh Nayyeh,95,0.3,66.5,Yes,Dessert
+D-0083,V-009,Mixed Mezze Platter,180,0.25,135.0,Yes,Main
+D-0084,V-009,Charcoal Lamb Chops,240,0.34,158.4,Yes,Dessert
+D-0085,V-009,Fattoush with Aubergine,65,0.18,53.3,No,Main
+D-0086,V-009,Moudardara,55,0.16,46.2,No,Beverage
+D-0087,V-009,Mouhallabieh,45,0.15,38.25,Yes,Main
+D-0088,V-009,Set Menu 30 dishes,580,0.28,417.6,Yes,Beverage
+D-0089,V-009,Sea Bream Whole,280,0.32,190.4,No,Beverage
+D-0090,V-009,Manakish Wood-Fired,35,0.18,28.7,No,Starter
+D-0091,V-010,Hummus Beiruti,45,0.2,36.0,Yes,Beverage
+D-0092,V-010,Kibbeh Nayyeh,95,0.3,66.5,Yes,Dessert
+D-0093,V-010,Mixed Mezze Platter,180,0.25,135.0,Yes,Starter
+D-0094,V-010,Charcoal Lamb Chops,240,0.34,158.4,Yes,Dessert
+D-0095,V-010,Fattoush with Aubergine,65,0.18,53.3,No,Beverage
+D-0096,V-010,Moudardara,55,0.16,46.2,No,Starter
+D-0097,V-010,Mouhallabieh,45,0.15,38.25,Yes,Beverage
+D-0098,V-010,Set Menu 30 dishes,580,0.28,417.6,Yes,Starter
+D-0099,V-010,Sea Bream Whole,280,0.32,190.4,No,Beverage
+D-0100,V-010,Manakish Wood-Fired,35,0.18,28.7,No,Starter
+D-0101,V-011,Hummus Beiruti,45,0.2,36.0,Yes,Dessert
+D-0102,V-011,Kibbeh Nayyeh,95,0.3,66.5,Yes,Beverage
+D-0103,V-011,Mixed Mezze Platter,180,0.25,135.0,Yes,Dessert
+D-0104,V-011,Charcoal Lamb Chops,240,0.34,158.4,Yes,Dessert
+D-0105,V-011,Fattoush with Aubergine,65,0.18,53.3,No,Main
+D-0106,V-011,Moudardara,55,0.16,46.2,No,Starter
+D-0107,V-011,Mouhallabieh,45,0.15,38.25,Yes,Starter
+D-0108,V-011,Set Menu 30 dishes,580,0.28,417.6,Yes,Dessert
+D-0109,V-011,Sea Bream Whole,280,0.32,190.4,No,Main
+D-0110,V-011,Manakish Wood-Fired,35,0.18,28.7,No,Starter
+D-0111,V-012,Hummus Beiruti,45,0.2,36.0,Yes,Starter
+D-0112,V-012,Kibbeh Nayyeh,95,0.3,66.5,Yes,Main
+D-0113,V-012,Mixed Mezze Platter,180,0.25,135.0,Yes,Main
+D-0114,V-012,Charcoal Lamb Chops,240,0.34,158.4,Yes,Main
+D-0115,V-012,Fattoush with Aubergine,65,0.18,53.3,No,Beverage
+D-0116,V-012,Moudardara,55,0.16,46.2,No,Dessert
+D-0117,V-012,Mouhallabieh,45,0.15,38.25,Yes,Beverage
+D-0118,V-012,Set Menu 30 dishes,580,0.28,417.6,Yes,Starter
+D-0119,V-012,Sea Bream Whole,280,0.32,190.4,No,Starter
+D-0120,V-012,Manakish Wood-Fired,35,0.18,28.7,No,Beverage
+D-0121,V-013,Hummus Beiruti,45,0.2,36.0,Yes,Main
+D-0122,V-013,Kibbeh Nayyeh,95,0.3,66.5,Yes,Main
+D-0123,V-013,Mixed Mezze Platter,180,0.25,135.0,Yes,Starter
+D-0124,V-013,Charcoal Lamb Chops,240,0.34,158.4,Yes,Main
+D-0125,V-013,Fattoush with Aubergine,65,0.18,53.3,No,Beverage
+D-0126,V-013,Moudardara,55,0.16,46.2,No,Beverage
+D-0127,V-013,Mouhallabieh,45,0.15,38.25,Yes,Dessert
+D-0128,V-013,Set Menu 30 dishes,580,0.28,417.6,Yes,Dessert
+D-0129,V-013,Sea Bream Whole,280,0.32,190.4,No,Starter
+D-0130,V-013,Manakish Wood-Fired,35,0.18,28.7,No,Dessert
+D-0131,V-014,Hummus Beiruti,45,0.2,36.0,Yes,Starter
+D-0132,V-014,Kibbeh Nayyeh,95,0.3,66.5,Yes,Dessert
+D-0133,V-014,Mixed Mezze Platter,180,0.25,135.0,Yes,Starter
+D-0134,V-014,Charcoal Lamb Chops,240,0.34,158.4,Yes,Main
+D-0135,V-014,Fattoush with Aubergine,65,0.18,53.3,No,Starter
+D-0136,V-014,Moudardara,55,0.16,46.2,No,Beverage
+D-0137,V-014,Mouhallabieh,45,0.15,38.25,Yes,Starter
+D-0138,V-014,Set Menu 30 dishes,580,0.28,417.6,Yes,Dessert
+D-0139,V-014,Sea Bream Whole,280,0.32,190.4,No,Dessert
+D-0140,V-014,Manakish Wood-Fired,35,0.18,28.7,No,Starter
+D-0141,V-015,Hummus Beiruti,45,0.2,36.0,Yes,Starter
+D-0142,V-015,Kibbeh Nayyeh,95,0.3,66.5,Yes,Dessert
+D-0143,V-015,Mixed Mezze Platter,180,0.25,135.0,Yes,Beverage
+D-0144,V-015,Charcoal Lamb Chops,240,0.34,158.4,Yes,Beverage
+D-0145,V-015,Fattoush with Aubergine,65,0.18,53.3,No,Main
+D-0146,V-015,Moudardara,55,0.16,46.2,No,Dessert
+D-0147,V-015,Mouhallabieh,45,0.15,38.25,Yes,Starter
+D-0148,V-015,Set Menu 30 dishes,580,0.28,417.6,Yes,Main
+D-0149,V-015,Sea Bream Whole,280,0.32,190.4,No,Beverage
+D-0150,V-015,Manakish Wood-Fired,35,0.18,28.7,No,Dessert
+D-0151,V-016,A4 Miyazaki Wagyu Tataki,320,0.36,204.8,Yes,Main
+D-0152,V-016,Black Truffle Sushi Rice Okayu,280,0.34,184.8,Yes,Beverage
+D-0153,V-016,Modern Asian 5-Course Degustation,480,0.32,326.4,Yes,Beverage
+D-0154,V-016,Slow-Cooked Pork Chop Yuzu,220,0.3,154.0,No,Starter
+D-0155,V-016,Coffee-Glazed BBQ Pork Belly,195,0.29,138.45,No,Starter
+D-0156,V-016,Chicken Laksa Spring Roll,95,0.26,70.3,No,Main
+D-0157,V-016,Dulce Miso Toffee Pudding,85,0.2,68.0,Yes,Starter
+D-0158,V-016,Signature Cocktail Pour,110,0.18,90.2,Yes,Dessert
+D-0159,V-017,A4 Miyazaki Wagyu Tataki,320,0.36,204.8,Yes,Main
+D-0160,V-017,Black Truffle Sushi Rice Okayu,280,0.34,184.8,Yes,Beverage
+D-0161,V-017,Modern Asian 5-Course Degustation,480,0.32,326.4,Yes,Beverage
+D-0162,V-017,Slow-Cooked Pork Chop Yuzu,220,0.3,154.0,No,Starter
+D-0163,V-017,Coffee-Glazed BBQ Pork Belly,195,0.29,138.45,No,Beverage
+D-0164,V-017,Chicken Laksa Spring Roll,95,0.26,70.3,No,Main
+D-0165,V-017,Dulce Miso Toffee Pudding,85,0.2,68.0,Yes,Main
+D-0166,V-017,Signature Cocktail Pour,110,0.18,90.2,Yes,Starter
+D-0167,V-018,A4 Miyazaki Wagyu Tataki,320,0.36,204.8,Yes,Main
+D-0168,V-018,Black Truffle Sushi Rice Okayu,280,0.34,184.8,Yes,Beverage
+D-0169,V-018,Modern Asian 5-Course Degustation,480,0.32,326.4,Yes,Starter
+D-0170,V-018,Slow-Cooked Pork Chop Yuzu,220,0.3,154.0,No,Main
+D-0171,V-018,Coffee-Glazed BBQ Pork Belly,195,0.29,138.45,No,Starter
+D-0172,V-018,Chicken Laksa Spring Roll,95,0.26,70.3,No,Starter
+D-0173,V-018,Dulce Miso Toffee Pudding,85,0.2,68.0,Yes,Beverage
+D-0174,V-018,Signature Cocktail Pour,110,0.18,90.2,Yes,Main
+D-0175,V-019,A4 Miyazaki Wagyu Tataki,320,0.36,204.8,Yes,Starter
+D-0176,V-019,Black Truffle Sushi Rice Okayu,280,0.34,184.8,Yes,Starter
+D-0177,V-019,Modern Asian 5-Course Degustation,480,0.32,326.4,Yes,Main
+D-0178,V-019,Slow-Cooked Pork Chop Yuzu,220,0.3,154.0,No,Starter
+D-0179,V-019,Coffee-Glazed BBQ Pork Belly,195,0.29,138.45,No,Dessert
+D-0180,V-019,Chicken Laksa Spring Roll,95,0.26,70.3,No,Beverage
+D-0181,V-019,Dulce Miso Toffee Pudding,85,0.2,68.0,Yes,Beverage
+D-0182,V-019,Signature Cocktail Pour,110,0.18,90.2,Yes,Starter
+D-0183,V-020,A4 Miyazaki Wagyu Tataki,320,0.36,204.8,Yes,Dessert
+D-0184,V-020,Black Truffle Sushi Rice Okayu,280,0.34,184.8,Yes,Beverage
+D-0185,V-020,Modern Asian 5-Course Degustation,480,0.32,326.4,Yes,Starter
+D-0186,V-020,Slow-Cooked Pork Chop Yuzu,220,0.3,154.0,No,Main
+D-0187,V-020,Coffee-Glazed BBQ Pork Belly,195,0.29,138.45,No,Main
+D-0188,V-020,Chicken Laksa Spring Roll,95,0.26,70.3,No,Main
+D-0189,V-020,Dulce Miso Toffee Pudding,85,0.2,68.0,Yes,Beverage
+D-0190,V-020,Signature Cocktail Pour,110,0.18,90.2,Yes,Dessert
+D-0191,V-021,CLAP Omakase,580,0.32,394.4,Yes,Main
+D-0192,V-021,Sucre Fire Steak,420,0.34,277.2,Yes,Main
+D-0193,V-021,Babylon Mixed Mezze,195,0.26,144.3,Yes,Main
+D-0194,V-021,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Starter
+D-0195,V-021,CLAP Sashimi Selection,280,0.32,190.4,No,Main
+D-0196,V-022,CLAP Omakase,580,0.32,394.4,Yes,Dessert
+D-0197,V-022,Sucre Fire Steak,420,0.34,277.2,Yes,Dessert
+D-0198,V-022,Babylon Mixed Mezze,195,0.26,144.3,Yes,Beverage
+D-0199,V-022,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Beverage
+D-0200,V-022,CLAP Sashimi Selection,280,0.32,190.4,No,Dessert
+D-0201,V-023,CLAP Omakase,580,0.32,394.4,Yes,Beverage
+D-0202,V-023,Sucre Fire Steak,420,0.34,277.2,Yes,Dessert
+D-0203,V-023,Babylon Mixed Mezze,195,0.26,144.3,Yes,Dessert
+D-0204,V-023,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Beverage
+D-0205,V-023,CLAP Sashimi Selection,280,0.32,190.4,No,Beverage
+D-0206,V-024,CLAP Omakase,580,0.32,394.4,Yes,Starter
+D-0207,V-024,Sucre Fire Steak,420,0.34,277.2,Yes,Main
+D-0208,V-024,Babylon Mixed Mezze,195,0.26,144.3,Yes,Dessert
+D-0209,V-024,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Beverage
+D-0210,V-024,CLAP Sashimi Selection,280,0.32,190.4,No,Beverage
+D-0211,V-025,CLAP Omakase,580,0.32,394.4,Yes,Beverage
+D-0212,V-025,Sucre Fire Steak,420,0.34,277.2,Yes,Starter
+D-0213,V-025,Babylon Mixed Mezze,195,0.26,144.3,Yes,Main
+D-0214,V-025,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Starter
+D-0215,V-025,CLAP Sashimi Selection,280,0.32,190.4,No,Starter
+D-0216,V-026,CLAP Omakase,580,0.32,394.4,Yes,Beverage
+D-0217,V-026,Sucre Fire Steak,420,0.34,277.2,Yes,Main
+D-0218,V-026,Babylon Mixed Mezze,195,0.26,144.3,Yes,Dessert
+D-0219,V-026,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Starter
+D-0220,V-026,CLAP Sashimi Selection,280,0.32,190.4,No,Starter
+D-0221,V-027,CLAP Omakase,580,0.32,394.4,Yes,Starter
+D-0222,V-027,Sucre Fire Steak,420,0.34,277.2,Yes,Dessert
+D-0223,V-027,Babylon Mixed Mezze,195,0.26,144.3,Yes,Beverage
+D-0224,V-027,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Starter
+D-0225,V-027,CLAP Sashimi Selection,280,0.32,190.4,No,Starter
+D-0226,V-028,CLAP Omakase,580,0.32,394.4,Yes,Main
+D-0227,V-028,Sucre Fire Steak,420,0.34,277.2,Yes,Dessert
+D-0228,V-028,Babylon Mixed Mezze,195,0.26,144.3,Yes,Starter
+D-0229,V-028,Bar Du Port Riviera Plateau,380,0.3,266.0,Yes,Main
+D-0230,V-028,CLAP Sashimi Selection,280,0.32,190.4,No,Main
+D-0231,V-029,Greek Whole Fish,220,0.31,151.8,Yes,Beverage
+D-0232,V-029,Surf Ceviche,145,0.28,104.4,No,Main
+D-0233,V-030,Greek Whole Fish,220,0.31,151.8,Yes,Starter
+D-0234,V-030,Surf Ceviche,145,0.28,104.4,No,Dessert
