@@ -1,0 +1,55 @@
+venue_id,role,incumbent_name,successor_name,readiness,risk_level
+V-001,Executive Chef,Lina Singh,Yuki Petrova,Ready Now,Low
+V-001,Director of Operations,Takeshi Chen,Sara Al Maktoum,1-2 Years,Medium
+V-001,Head Sommelier,Marco Singh,Ahmed Al Rashid,Ready Now,Low
+V-002,Director of Operations,Khalid Singh,Lina Nair,1-2 Years,Medium
+V-003,Restaurant Manager,Khalid Dubois,Fatima Nair,Ready Now,Low
+V-004,Executive Chef,Elena Chen,Ravi Kim,Ready Now,Low
+V-004,Director of Operations,Lina Nair,Mei Al Rashid,Ready Now,Low
+V-005,Events Manager,Marco Al Rashid,Ravi Kim,Ready Now,Low
+V-006,Executive Chef,Sara Petrova,,No Successor,Critical
+V-007,Executive Chef,Yuki Tanaka,Ravi Papadopoulos,Ready Now,Low
+V-007,Restaurant Manager,Ravi Dubois,Lina Costa,Ready Now,Low
+V-008,Executive Chef,Carlos Papadopoulos,Lina Haddad,1-2 Years,Medium
+V-008,Restaurant Manager,Takeshi Singh,Sara Singh,1-2 Years,Medium
+V-008,Head Sommelier,Sara Nair,Lina Chen,Ready Now,Low
+V-009,Director of Operations,Sofia Singh,Elena Haddad,1-2 Years,Medium
+V-010,Events Manager,Priya Singh,Takeshi Rossi,1-2 Years,Medium
+V-010,Restaurant Manager,Khalid Haddad,Ravi Singh,1-2 Years,Medium
+V-010,Director of Operations,Priya Al Rashid,Sara Yamamoto,1-2 Years,Medium
+V-011,Restaurant Manager,Dimitris Nair,Marco Tanaka,1-2 Years,Medium
+V-012,Director of Operations,Amira Rossi,,No Successor,High
+V-012,Events Manager,Ahmed Petrova,Takeshi Nair,1-2 Years,Medium
+V-013,Head Sommelier,James Tanaka,Ahmed Costa,Ready Now,Low
+V-013,Executive Chef,Lina Al Rashid,,No Successor,High
+V-014,Executive Chef,Amira Kim,Ravi Nair,Ready Now,Low
+V-014,Head Sommelier,Dimitris Al Rashid,,No Successor,High
+V-014,Events Manager,Amira Haddad,Sofia Martinez,Ready Now,Low
+V-015,Executive Chef,Ravi Haddad,,No Successor,High
+V-016,Restaurant Manager,Carlos Haddad,Marco Chen,1-2 Years,Medium
+V-016,Executive Chef,Pierre Yamamoto,Takeshi Nair,Ready Now,Low
+V-017,Restaurant Manager,Pierre Al Rashid,Amira Yamamoto,Ready Now,Low
+V-018,Events Manager,Fatima Costa,Ravi Martinez,Ready Now,Low
+V-018,Restaurant Manager,Amira Martinez,Carlos Chen,Ready Now,Low
+V-018,Head Sommelier,Sofia Al Maktoum,Carlos Kim,1-2 Years,Medium
+V-019,Executive Chef,Marco Costa,Carlos Chen,1-2 Years,Medium
+V-020,Head Sommelier,Marco Al Rashid,Pierre Singh,Ready Now,Low
+V-021,Restaurant Manager,Pierre Nair,Yuki Chen,1-2 Years,Medium
+V-021,Events Manager,Khalid Dubois,Mei Yamamoto,1-2 Years,Medium
+V-021,Executive Chef,Sara Petrova,Yuki Al Maktoum,1-2 Years,Medium
+V-022,Head Sommelier,Carlos Singh,Mei Papadopoulos,Ready Now,Low
+V-022,Executive Chef,Khalid Papadopoulos,Carlos Yamamoto,Ready Now,Low
+V-023,Events Manager,Takeshi Chen,Takeshi Yamamoto,Ready Now,Low
+V-024,Executive Chef,Carlos Papadopoulos,Pierre Singh,1-2 Years,Medium
+V-025,Executive Chef,Elena Al Maktoum,,No Successor,High
+V-025,Restaurant Manager,Lina Haddad,,No Successor,High
+V-026,Head Sommelier,Takeshi Petrova,Priya Singh,1-2 Years,Medium
+V-026,Events Manager,James Singh,,No Successor,High
+V-027,Director of Operations,Sofia Al Maktoum,Pierre Al Rashid,Ready Now,Low
+V-027,Executive Chef,Amira Papadopoulos,Amira Chen,Ready Now,Low
+V-027,Head Sommelier,Dimitris Chen,Carlos Tanaka,1-2 Years,Medium
+V-028,Director of Operations,Carlos Kim,Marco Tanaka,1-2 Years,Medium
+V-029,Director of Operations,Fatima Petrova,Carlos Rossi,1-2 Years,Medium
+V-029,Head Sommelier,Elena Papadopoulos,James Martinez,1-2 Years,Medium
+V-029,Restaurant Manager,Sofia Haddad,,No Successor,High
+V-030,Executive Chef,Mei Kim,,No Successor,High

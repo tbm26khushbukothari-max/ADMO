@@ -1,0 +1,21 @@
+savings_id,category,vendor_id,venue_ids,description,annual_savings_aed,status,captured_date
+SAV-001,Consolidation,VEN-013,V-001;V-012;V-013;V-017;V-021;V-024;V-025;V-026;V-028,Linen services consolidation across Dubai venues,1200000,Captured,2025-06-01
+SAV-002,Renegotiation,VEN-020,all,Global coffee contract renegotiation — volume discount,850000,Captured,2025-03-15
+SAV-003,Consolidation,VEN-014,V-001;V-012;V-013;V-017;V-021;V-024;V-025;V-026;V-028;V-029;V-030,Cleaning services single-supplier model for UAE,950000,Captured,2025-09-01
+SAV-004,Renegotiation,VEN-021,all,POS platform group-wide license renewal,1400000,Captured,2025-01-10
+SAV-005,Consolidation,VEN-019,V-001;V-012;V-013;V-015;V-017;V-021;V-024;V-025;V-026;V-027;V-028,Beverage distribution consolidation UAE,1100000,Captured,2025-07-01
+SAV-006,Renegotiation,VEN-023,all,Group insurance umbrella policy,2500000,Captured,2025-04-01
+SAV-007,Substitution,VEN-012,V-002;V-004;V-005,Replace degrading Mykonos supplier — Aegean Premium as alternative,350000,Pipeline,
+SAV-008,Consolidation,VEN-016,V-003;V-008;V-020;V-022,London linen services merge with EU cleaning contract,680000,Pipeline,
+SAV-009,Renegotiation,VEN-010,V-001;V-002;V-003;V-004;V-005;V-016;V-017;V-020,Champagne volume rebate — 8-venue commitment,1800000,Pipeline,
+SAV-010,Consolidation,VEN-018,V-016;V-018;V-019,"Pan-Asia supplies consolidation across Singapore, Tokyo, Taipei",520000,Pipeline,
+SAV-011,Renegotiation,VEN-009,V-001;V-003;V-005;V-008;V-009;V-006,Wine imports — Burgundy direct purchasing agreement,1200000,Pipeline,
+SAV-012,Consolidation,VEN-022,all,Reservation platform group license consolidation,900000,Pipeline,
+SAV-013,Substitution,VEN-004,V-017;V-021;V-022,Wagyu sourcing — direct from Japan vs. distributor,420000,Pipeline,
+SAV-014,Renegotiation,VEN-024,all,Energy optimisation — group-wide smart metering contract,1600000,Pipeline,
+SAV-015,Consolidation,VEN-017,V-002;V-003;V-004;V-005;V-008;V-009;V-020;V-022;V-023,European cleaning services single contract,780000,Pipeline,
+SAV-016,Renegotiation,VEN-011,V-016;V-017;V-018;V-019;V-020;V-021;V-022,Japanese sake & whisky — volume commitment across Asia + CLAP,550000,Pipeline,
+SAV-017,Substitution,,V-029;V-030,New Ventures — substitute commodity suppliers with group contracts,180000,Identified,
+SAV-018,Consolidation,,V-010;V-011;V-014,Gulf region Em Sherif — consolidate local procurement,350000,Identified,
+SAV-019,Renegotiation,VEN-025,V-001;V-003;V-008;V-020;V-022,Design & interiors — retainer vs. project-based pricing,480000,Identified,
+SAV-020,Consolidation,,V-006;V-016;V-018;V-019,Resort & Asia — shared cold-chain logistics,620000,Identified,

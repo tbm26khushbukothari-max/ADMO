@@ -485,6 +485,49 @@ def compute_waitlist_rate(reservations_df, venue_ids):
     return (scoped["status"] == "Waitlist").mean() * 100
 
 
+def compute_budget_variance(summary_df, targets_df, venue_ids):
+    """Return (total_actual_rev, total_target_rev, variance_pct)."""
+    scoped_sum = summary_df[summary_df["venue_id"].isin(venue_ids)]
+    scoped_tgt = targets_df[targets_df["venue_id"].isin(venue_ids)]
+    actual = scoped_sum["revenue_aed"].sum()
+    target = scoped_tgt["revenue_target_aed"].sum()
+    variance = (actual - target) / target * 100 if target else 0
+    return actual, target, variance
+
+
+def compute_revpash(daily_ops_df, venues_df, venue_ids):
+    """Revenue per available seat hour (assumes 14-hour operating day)."""
+    scoped = daily_ops_df[daily_ops_df["venue_id"].isin(venue_ids)]
+    if scoped.empty:
+        return 0.0
+    merged = scoped.merge(venues_df[["venue_id", "seat_capacity"]], on="venue_id", how="left")
+    merged["seat_hours"] = merged["seat_capacity"] * 14
+    total_rev = merged["revenue_total_aed"].sum()
+    total_seat_hours = merged["seat_hours"].sum()
+    return total_rev / total_seat_hours if total_seat_hours else 0.0
+
+
+def compute_top_bottom_venues(summary_df, venues_df, venue_ids, n=3):
+    """Return top-n and bottom-n venues by total revenue."""
+    scoped = summary_df[summary_df["venue_id"].isin(venue_ids)]
+    if scoped.empty:
+        return pd.DataFrame(), pd.DataFrame()
+    venue_rev = scoped.groupby("venue_id")["revenue_aed"].sum().reset_index()
+    venue_rev = venue_rev.merge(venues_df[["venue_id", "sub_brand", "vertical"]], on="venue_id", how="left")
+    top = venue_rev.nlargest(n, "revenue_aed")
+    bottom = venue_rev.nsmallest(n, "revenue_aed")
+    return top, bottom
+
+
+def compute_guest_demographics(guests_df):
+    """Return nationality distribution and acquisition channel breakdown."""
+    nat = guests_df["nationality"].value_counts().head(10).reset_index()
+    nat.columns = ["Nationality", "Count"]
+    acq = guests_df["acquisition_channel"].value_counts().reset_index()
+    acq.columns = ["Channel", "Count"]
+    return nat, acq
+
+
 def compute_anomaly_flags(daily_ops_df, venue_id, window=30, sigma=2):
     scoped = daily_ops_df[daily_ops_df["venue_id"] == venue_id].sort_values("date").copy()
     if len(scoped) < window + 1:
