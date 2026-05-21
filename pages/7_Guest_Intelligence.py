@@ -238,10 +238,12 @@ with tab_affinity:
         st.divider()
         section_header("Key Insights", "What the data tells us about cross-brand behaviour")
         # Find strongest off-diagonal pair
-        np.fill_diagonal(affinity_pct.values, 0)
-        max_val = affinity_pct.max().max()
+        ap_vals = affinity_pct.values.copy()
+        np.fill_diagonal(ap_vals, 0)
+        affinity_pct_clean = pd.DataFrame(ap_vals, index=affinity_pct.index, columns=affinity_pct.columns)
+        max_val = affinity_pct_clean.max().max()
         if max_val > 0:
-            max_pair = affinity_pct.stack().idxmax()
+            max_pair = affinity_pct_clean.stack().idxmax()
             insight_card("🔗", "Strongest Affinity",
                          f"{max_pair[0]} → {max_pair[1]}: {max_val:.0f}% overlap — "
                          f"these verticals share the most guests",
