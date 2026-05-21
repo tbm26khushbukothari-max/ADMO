@@ -325,25 +325,25 @@ def kpi_card(label, value, delta=None, delta_good=True, border_color=GOLD, icon=
     if delta is not None:
         delta_color = GREEN if delta_good else RED
         delta_html = (
-            f"<div style='color:{delta_color}; font-size:0.82rem; font-weight:500; "
-            f"margin-top:4px;'>{delta}</div>"
+            f"<div style='color:{delta_color}; font-size:0.78rem; font-weight:500; "
+            f"margin-top:4px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;'>{delta}</div>"
         )
     icon_html = (
-        f"<div style='font-size:1.1rem; width:28px; height:28px; display:flex; "
-        f"align-items:center; justify-content:center; margin-bottom:6px;'>{icon}</div>"
+        f"<div style='font-size:1rem; line-height:1; margin-bottom:6px;'>{icon}</div>"
         if icon else ""
     )
     st.markdown(
         f"<div style='background:linear-gradient(135deg,{CARD_BG} 0%,#162236 100%); "
         f"border:1px solid {BORDER}; border-top:3px solid {border_color}; "
-        f"border-radius:10px; padding:16px 18px; min-height:150px; "
+        f"border-radius:10px; padding:14px 16px; min-height:140px; "
         f"display:flex; flex-direction:column; justify-content:center; "
         f"transition:all 0.15s;'>"
         f"{icon_html}"
-        f"<div style='color:{MUTED}; font-size:0.78rem; text-transform:uppercase; "
-        f"letter-spacing:0.06em; margin-bottom:6px;'>{label}</div>"
-        f"<div style='color:{GOLD}; font-size:1.5rem; font-weight:700; line-height:1.2;'>"
-        f"{value}</div>"
+        f"<div style='color:{MUTED}; font-size:0.72rem; text-transform:uppercase; "
+        f"letter-spacing:0.06em; margin-bottom:6px; white-space:nowrap; "
+        f"overflow:hidden; text-overflow:ellipsis;'>{label}</div>"
+        f"<div style='color:{GOLD}; font-size:1.35rem; font-weight:700; line-height:1.2; "
+        f"white-space:nowrap;'>{value}</div>"
         f"{delta_html}"
         f"</div>",
         unsafe_allow_html=True,
@@ -463,14 +463,17 @@ def target_vs_actual(label, actual, target, ccy="AED", fmt_fn=None):
     st.markdown(
         f"<div style='background:linear-gradient(135deg,{CARD_BG} 0%,#162236 100%); "
         f"border:1px solid {BORDER}; border-top:3px solid {GOLD}; "
-        f"border-radius:10px; padding:16px 18px; min-height:150px; "
+        f"border-radius:10px; padding:14px 16px; min-height:140px; "
         f"display:flex; flex-direction:column; justify-content:center;'>"
-        f"<div style='color:{MUTED}; font-size:0.78rem; text-transform:uppercase; "
-        f"letter-spacing:0.06em; margin-bottom:4px;'>{label}</div>"
-        f"<div style='color:{GOLD}; font-size:1.5rem; font-weight:700;'>{fmt_fn(actual)}</div>"
-        f"<div style='display:flex; justify-content:space-between; margin-top:6px;'>"
-        f"<span style='color:{DIM}; font-size:0.78rem;'>Target: {fmt_fn(target)}</span>"
-        f"<span style='color:{v_color}; font-size:0.82rem; font-weight:600;'>{v_icon} {variance:+.1f}%</span>"
+        f"<div style='color:{MUTED}; font-size:0.72rem; text-transform:uppercase; "
+        f"letter-spacing:0.06em; margin-bottom:6px; white-space:nowrap;'>{label}</div>"
+        f"<div style='color:{GOLD}; font-size:1.35rem; font-weight:700; "
+        f"white-space:nowrap;'>{fmt_fn(actual)}</div>"
+        f"<div style='display:flex; justify-content:space-between; align-items:center; "
+        f"margin-top:6px; gap:4px;'>"
+        f"<span style='color:{DIM}; font-size:0.72rem; white-space:nowrap;'>Target: {fmt_fn(target)}</span>"
+        f"<span style='color:{v_color}; font-size:0.78rem; font-weight:600; "
+        f"white-space:nowrap;'>{v_icon} {variance:+.1f}%</span>"
         f"</div></div>",
         unsafe_allow_html=True,
     )

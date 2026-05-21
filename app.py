@@ -121,10 +121,9 @@ with c_b3:
     target_vs_actual("Covers vs Plan", total_covers, total_cov_target, ccy,
                      fmt_fn=lambda v: f"{v:,.0f}")
 with c_b4:
-    # RevPASH
+    # RevPASH — use target_vs_actual with a benchmark of AED 60
     revpash = compute_revpash(daily_ops, venues, venue_ids)
-    kpi_card("RevPASH", fmt_currency(revpash, ccy),
-             delta="Revenue per available seat-hour", icon="🪑")
+    target_vs_actual("RevPASH", revpash, 60, ccy)
 
 st.markdown("<div style='height:8px;'></div>", unsafe_allow_html=True)
 
